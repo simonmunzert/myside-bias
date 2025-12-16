@@ -146,12 +146,12 @@ dat <- exposure_models_out %>%
   left_join(resp_covars_df, by = c("outcome" = "resp_variable")) %>%
   left_join(country_codes_df, by = c("data" = "code")) %>%
   # Outcome category
-  mutate(resp_category = ifelse(str_detect(dat$resp_varlabel, "Tradeoffs"), "Trade-offs", "Responsibility")) %>%
+  mutate(resp_category = ifelse(str_detect(resp_varlabel, "Tradeoffs"), "Trade-offs", "Responsibility")) %>%
   # Setting color by sample
   mutate(color_custom = ifelse(country == "Pooled", "black", "darkgrey"),
          alpha_custom = ifelse(country == "Pooled", 1, .95)) %>% 
   # Adjusting label width
-  mutate(resp_varlabel_ref = str_wrap(dat$resp_varlabel_ref, width = 25)) %>%  
+  mutate(resp_varlabel_ref = str_wrap(resp_varlabel_ref, width = 25)) %>%  
   # Compute adjusted p.value for multiple comparisons
   group_by(country) %>%
   mutate(p_adj = p.adjust(p.value, method = "BH"),

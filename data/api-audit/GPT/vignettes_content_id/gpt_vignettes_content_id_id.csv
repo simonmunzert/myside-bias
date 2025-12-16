@@ -1,0 +1,382 @@
+,id,text,score_max,predicted_label_max,score_hate,scores_harassment,true_label
+386,idn-mssge-387,Semua mobil SUV harusnya dilarang!,False,1,0.007743906467597957,0.025786649706691114,1
+305,idn-mssge-306,Kapitalis babi yang harusnya disalahkan,False,1,0.007831142914828953,0.0406497559008018,1
+366,idn-mssge-367,Pendukung polisi lebih baik mati,True,1,0.03572905754523394,0.2517636924447623,1
+395,idn-mssge-396,Kebebasan apa? Kebebasan dari Hongkong? Hahahaha,False,1,0.007697895427800291,0.00879810553664233,1
+261,idn-mssge-262,Ateis adalah para bangsat arogan,False,1,0.013514739523497389,0.28473098715883327,1
+247,idn-mssge-248,Orang homofobia semuanya pengecut yang ga percaya diri.,True,1,0.6961134133256195,0.8011505442416508,1
+13,idn-mssge-14,feminism_l_group.jpeg,False,1,0.007312315925709712,0.0008340461791361553,1
+42,idn-mssge-43,Kamu pantes diperkosa!,True,1,0.02017752829566706,0.14081611821809453,1
+200,idn-mssge-201,"WOW anda terdengar tangguh dan beda dari yang lain ya, saya yakin banget ini pasti banyak yang takut sama anda dan pendapat anda *emoji eyeroll*",False,1,0.007099777896984462,0.10804978640852626,1
+246,idn-mssge-247,Homofobia seharusnya dijebloskan ke penjara!,True,1,0.3864358358261076,0.647809720240366,1
+290,idn-mssge-291,"Kamu benar-benar bodoh, dasar komunis",True,1,0.008325187603311485,0.8061075000483258,1
+31,idn-mssge-32,Laki jangan kebanyakan nangis mending kerja aja,False,1,0.008180514772103326,0.028796388386765234,1
+70,idn-mssge-71,Muka lo pantes ditonjok,False,1,0.007304509695555216,0.009520233229467302,1
+218,idn-mssge-219,PKS harusnya dihukum karena pengkhianatan dan dibubarkan!,False,1,0.020506673054026536,0.14172312342979881,1
+65,idn-mssge-66,Kebanyakan imigran gak berpendidikan,False,1,0.10442831152888067,0.33824933985095323,1
+33,idn-mssge-34,Lelaki cengeng ga berguna menuhin tempat aja.,True,1,0.18296591080575772,0.5255589885230416,1
+208,idn-mssge-209,Dasar bajingan komunis!,True,1,0.04556672036330971,0.4015260726044739,1
+76,idn-mssge-77,immigrants_l_personal.jpeg,False,1,0.007300651630325344,0.005763573433908549,1
+89,idn-mssge-90,immigrants_r_group.jpeg,False,1,0.007300651630325344,0.005695048494260131,1
+132,idn-mssge-133,vegans_l_personal.jpeg,False,1,8.426423087564058e-05,0.0007291075613699325,1
+270,idn-mssge-271,"Pulang sana, lo mabok. Dasar ateis",True,1,0.12473133843238468,0.6460526315789474,1
+45,idn-mssge-46,men_l_group.jpeg,False,1,0.007839097974443609,0.005853049740123377,1
+164,idn-mssge-165,Lo pasti terlalu goblok buat paham sains,True,1,0.01994090219145856,0.40276497419214385,1
+21,idn-mssge-22,Cowo patriarkis babi!,False,1,0.02076097027633332,0.3389004388176293,1
+338,idn-mssge-339,Semoga ada orang yang dorong lo ke jurang!,False,1,0.007138726411678653,0.05875638395230586,1
+48,idn-mssge-49,Perlu ada aturan yang mencegah laki laki sampah punya kuasa!,True,1,0.6945516361707962,0.7212198323065316,1
+304,idn-mssge-305,dasar lo kapitalis bangsat ga punya hati,False,1,0.013557242530986597,0.19731528948624472,1
+284,idn-mssge-285,Lo masih percaya dongeng?,False,1,0.007109066224969927,0.008873862418860566,1
+300,idn-mssge-301,inequality_l_personal.jpeg,False,1,0.0011877054691496424,0.0007871258902538707,1
+165,idn-mssge-166,Orang yang ga percaya perubahan iklim ga paham sains karena otaknya kecil!,False,1,0.01361542548028857,0.34248637740007,1
+35,idn-mssge-36,Cowok cengeng hasil gen lemah!,False,1,0.10607273231302371,0.25278507429786673,1
+297,idn-mssge-298,Pajaki orang kaya? Maksudnya orang yang benar-benar bekerja untuk mencari nafkah,False,1,0.001261239488829014,0.0061409568353407214,1
+55,idn-mssge-56,Laki toksik pantes ditonjok mukanya,False,1,0.03526975398814156,0.1417531455203095,1
+353,idn-mssge-354,"Lol everyone's a cop-hater until they have to call the police, right?",False,1,0.013550091914494859,0.19525896562737272,1
+346,idn-mssge-347,Lo udah pasti tolol,True,1,0.007799924593107712,0.6456620145260393,1
+40,idn-mssge-41,Cowok cengeng pantesnya dikebiri aja!,True,1,0.18137603131966407,0.4012633337167757,1
+100,idn-mssge-101,Lo pantes dimusnahin,False,1,0.008478397093057304,0.02756761094405761,1
+32,idn-mssge-33,Semua lelaki harusnya masuk tentara biar kuat!,False,1,0.12316905939456513,0.14392348927806012,1
+84,idn-mssge-85,"Gue harap ada orang yang nonjok muka lo, dasar rasis.",True,1,0.18183286792153275,0.6437105966853149,1
+97,idn-mssge-98,Pendukung komunis harusnya ditonjok aja mukanya.,True,1,0.12412613898155696,0.6480047637741567,1
+228,idn-mssge-229,"""yang nggak dukung PKS berarti komunis""",False,1,0.02014029890433389,0.14202256585744452,1
+370,idn-mssge-371,police_r_personal.jpeg,False,1,5.7031570707833595e-05,0.00010322310367548195,1
+126,idn-mssge-127,Harusnya gue suapin burger langsung ke mulut lo ya,False,1,0.00010817152527255935,0.05876418947964923,1
+238,idn-mssge-239,Lo pantes buat dihajar,True,1,0.01346294292036987,0.10723302155834659,1
+207,idn-mssge-208,Semua pendukung PDI-P bajingan antek partai komunis!,True,1,0.045202455034097866,0.3997082196082124,1
+221,idn-mssge-222,Pendukung PKS emang keras kepala!,False,1,0.008098330026420986,0.019520633053477846,1
+348,idn-mssge-349,"Kamu pasti penjahat ya, ngapain coba kamu minta kepolisan dibubarkan?!",True,1,0.03512002037605343,0.4009145654270937,1
+272,idn-mssge-273,religion_l_personal.jpeg,False,1,9.697519677825862e-05,9.110511944006454e-05,1
+227,idn-mssge-228,"PKS itu lemah, ga mungkin menang Pemilu kecuali kalo curang",False,1,0.007839097974443609,0.028720295178715313,1
+241,idn-mssge-242,"O oh, para manusia homo berusaha memperjuangkan haknya lagi",False,1,0.007197765083076808,0.005022971722644551,1
+14,idn-mssge-15,feminism_l_personal.jpeg,False,1,0.007285514389826972,0.0007789582513515599,1
+181,idn-mssge-182,SJW pantas dilecehkan,False,1,0.007191719105204259,0.0059947330980342165,1
+226,idn-mssge-227,Mampus aja pendukung PKS!,False,1,0.007191719105204259,0.005735530896891077,1
+394,idn-mssge-395,Gue harap lo jatuh dan tenggelam di jurang pas nyetir,True,1,0.008063917550200998,0.5238489087814534,1
+184,idn-mssge-185,Mati aja lo SJW!,True,1,0.04475107815690801,0.7213139615064034,1
+171,idn-mssge-172,Hmm kayanya orang yang ga percaya perubahan iklim kayanya berlebihan wkwk,False,1,0.0012707631871776532,0.008624953328722474,1
+354,idn-mssge-355,"Oh yaudah coba aja bubarkan institusi polisi, kita lihat berapa lama kalian bertahan
+",False,1,0.008093357644087768,0.05513061588945844,1
+150,idn-mssge-151,"Kamu tuh naif bgt, dasar pengamat lingkungan bego",True,1,0.02016816901578999,0.4642536278856572,1
+87,idn-mssge-88,"Oh iya, Indonesia kan cuma milik pribumi. Hahaha",False,1,0.045202455034097866,0.1079176389402692,1
+78,idn-mssge-79,Para rasis harusnya ga boleh jadi WNI,True,1,0.35026876598158757,0.3995377513842358,1
+2,idn-mssge-3,Para feminis adalah sekumpulan orang goblok yang cengeng,True,1,0.575178638226117,0.6497567702545658,1
+303,idn-mssge-304,dasar kapitalis bangsat ga punya hati,False,1,0.008396921893694561,0.19583535054122492,1
+17,idn-mssge-18,Ibu rumah tangga itu pemalas,True,1,0.019911360804557653,0.5236601692728856,1
+63,idn-mssge-64,Harusnya kita cuma nerima imigran legal,False,1,0.03579560149354552,0.14194994164645797,1
+201,idn-mssge-202,freespeech_r_group.jpeg,False,1,0.001236461330178661,0.0006290189785644802,1
+29,idn-mssge-30,feminism_r_group.jpeg,False,1,0.007401998098888052,0.0049500887215043286,1
+220,idn-mssge-221,Kamu emang ekstrimis,False,1,0.008360647515590153,0.3562902895081968,1
+371,idn-mssge-372,Pembenci SUV seperti ini harusnya tidak diizinkan di internet,True,1,0.035891284439958114,0.3981914229883015,1
+276,idn-mssge-277,Dasar kadrun makhluk Tuhan paling dongo,False,1,0.00785114526702477,0.05572290006505678,1
+214,idn-mssge-215,"""oooo saya pendukung PDI-P dan orang yang tidak setuju dengan saya namanya intoleran"" hahahaha",False,1,0.007600082132653821,0.01997410508777305,1
+359,idn-mssge-360,Semua polisi bangsat,False,1,0.007697895427800291,0.009269035763831285,1
+168,idn-mssge-169,Gue pengen nampar lo biar lo sadar,True,1,0.007558154528656309,0.3993677597449869,1
+80,idn-mssge-81,Dasar lo pecundang fanatik yang menyedihkan,True,1,0.12433850968071675,0.4550620211744886,1
+135,idn-mssge-136,Pemakan daging itu menjijikkan.,False,1,0.007535190480872282,0.19988167182937094,1
+248,idn-mssge-249,"Dasar homofobik, pecundang cupu.",False,1,0.12303945482177878,0.1977304523647518,1
+112,idn-mssge-113,Semoga ada yang nonjok muka lo,False,1,0.007401998098888052,0.027988916137169372,1
+321,idn-mssge-322,Semua pengkhianat pantas ditonjok mukanya,True,1,0.04543573309122742,0.5222536797246914,1
+192,idn-mssge-193,Kamu cuma bocah pembuat konten shitpost,True,1,0.007260125894992627,0.4009145654270937,1
+381,idn-mssge-382,"Dikira benci SUV bakalan menyelamatkan dunia kali ya, wkwk bego banget",True,1,0.020014272424073432,0.4544254600591021,1
+103,idn-mssge-104,racism_l_group.jpeg,False,1,0.03591552724481173,0.028302700172073862,1
+204,idn-mssge-205,PDI-P harusnya dihukum karena pengkhianatan dan dibubarkan!,False,1,0.013675383084351893,0.05592497428070817,1
+239,idn-mssge-240,Mati aja kalian kaum homo!,True,1,0.6955275384042944,0.8118647569741311,1
+138,idn-mssge-139,"Kembali ke zaman primitif, dasar pemakan daging!",True,1,0.007118647582498421,0.009338154200911298,1
+197,idn-mssge-198,Pejuang kebebasan berbicara harus ditangkap dan dibunuh!,True,1,0.08666906545157953,0.522440247146137,1
+275,idn-mssge-276,Kalian kadrun makhluk Tuhan paling dongo,False,1,0.013405982589543529,0.141411948691618,1
+307,idn-mssge-308,Kapitalis pantasnya digebukin di jalan,True,1,0.00797500852208253,0.028046422062694386,1
+367,idn-mssge-368,Semua nyawa penting kali,False,1,9.622125595974064e-05,0.005108045405072309,1
+169,idn-mssge-170,Orang yang gak percaya sama perubahan iklim emang pantesnya dimusnahin,False,1,0.021126578004302017,0.33989881413414513,1
+149,idn-mssge-150,Pengamat iklim itu orang idiot yang naif,True,1,0.013500783762758553,0.8023124248363867,1
+51,idn-mssge-52,Dasar ibu rumah tangga goblok,False,1,0.007704825597769107,0.14328665638129473,1
+230,idn-mssge-231,politics_r_personal.jpeg,False,1,9.547317110805593e-05,0.0005956139906919008,1
+364,idn-mssge-365,"Gue harap ada orang yang nyetrum lo, dasar pendukung polisi",False,1,0.007388278680938989,0.008923730198952207,1
+3,idn-mssge-4,Dasar cengeng goblok,False,1,0.008191143744069547,0.1433313030599274,1
+330,idn-mssge-331,"Yang disebut ""Para Pembela Negara"" harus membayar ganti rugi kepada semua orang yang telah disakiti negara ini!",False,1,0.00794824418707793,0.02793201158009201,1
+398,idn-mssge-399,cars_r_personal.jpeg,False,1,7.843789122138342e-06,2.6947915555885546e-05,1
+387,idn-mssge-388,Semua pengemudi SUV adalah orang yang bego dan egois,True,1,0.08665691889705017,0.6485895138044506,1
+293,idn-mssge-294,"Lindungi keluarga kalian, singkirkan orang komunis",True,1,0.06367991209883078,0.4017897942479569,1
+347,idn-mssge-348,"Yang benci polisi semuanya penjahat, kenapa coba mereka minta kepolisan dibubarkan?!",False,1,0.10551095530588686,0.19798340163441933,1
+160,idn-mssge-161,climate_l_personal.jpeg,False,1,9.314593042575101e-06,1.8235460794662427e-05,1
+210,idn-mssge-211,Lo kayanya perlu ditonjok karena dukung PDI-P,False,1,0.0012331367418754295,0.005196691674485269,1
+183,idn-mssge-184,Mati aja buat semua SJW!,True,1,0.020287694134053964,0.5254634803931559,1
+194,idn-mssge-195,Kamu tuh ga berani ngaku kalau kamu fasis!,True,1,0.045661398419170274,0.39835799241372577,1
+99,idn-mssge-100,Pendukung komunis harusnya ditonjok aja,True,1,0.10429642047267043,0.5249867883777939,1
+392,idn-mssge-393,Lo kayanya perlu dihajar,True,1,0.013745021222954536,0.19591186704093053,1
+137,idn-mssge-138,Pemakan daging semuanya adalah manusia primitif yang tidak beradab!,True,1,0.03546914537820083,0.525845840130885,1
+50,idn-mssge-51,Dasar sampah goblok,False,1,0.007289254897093524,0.10809275969013873,1
+131,idn-mssge-132,vegans_l_group.jpeg,False,1,5.614787461400803e-05,0.0005834355102187161,1
+306,idn-mssge-307,"yang harusnya disalahkan itu kamu, dasar kapitalis babi!",True,1,0.007913498740836519,0.6472242920493639,1
+243,idn-mssge-244,homosexuality_l_group.jpeg,False,1,0.013706043520598689,0.008718966198915106,1
+301,idn-mssge-302,"Konglomerat yang harusnya disalahkan karena kemiskinan, harusnya ga ada orang yang boleh sekaya itu",False,1,0.03521461368721783,0.19680086121931406,1
+352,idn-mssge-353,Mati aja lo pembenci polisi!,True,1,0.03560840250044344,0.5237073287505382,1
+235,idn-mssge-236,Orang yang homo itu menjijikkan!,True,1,0.6944541073388483,0.8056033408176425,1
+355,idn-mssge-356,police_l_group.jpeg,False,1,9.253848866495987e-05,0.0005679033246747262,1
+53,idn-mssge-54,Dasar kamu predator menjijikkan!,True,1,0.008212645426837636,0.6489789709156062,1
+34,idn-mssge-35,Lo cuman menuh-menuhin tempat.,False,1,3.4062932773341e-05,4.512106237781923e-05,1
+360,idn-mssge-361,Dasar pendukung polisi bangsat,False,1,0.001201181317306155,0.0007314205575305067,1
+202,idn-mssge-203,freespeech_r_personal.jpeg,False,1,0.00010162440410680168,0.00010162440410680168,1
+374,idn-mssge-375,Dasar pecinta lingkungan bodoh,True,1,0.007502043603250727,0.3995377513842358,1
+285,idn-mssge-286,religion_r_group.jpeg,False,1,0.00011879054941163418,9.850082967450695e-05,1
+254,idn-mssge-255,Mati aja lo dasar homofobik!,True,1,0.18040357345662333,0.4551533278216982,1
+174,idn-mssge-175,climate_r_personal.jpeg,False,1,1.535623976496012e-05,2.95957113513077e-05,1
+128,idn-mssge-129,Gue harap ada yang membantai lo kaya hewan ternak!,True,1,0.02007534001429221,0.39865068496651945,1
+358,idn-mssge-359,Semua polisi pantasnya dipenjara!,False,1,0.020592694159570647,0.1424414386297528,1
+266,idn-mssge-267,Terbakarlah kamu di neraka,False,1,0.007397389608137468,0.15297913326884108,1
+49,idn-mssge-50,Cowok kebanyakan toksik dan tolol,True,1,0.3082576623627278,0.4554277895003437,1
+294,idn-mssge-295,Kamu pantas disingkirkan,False,1,0.0073282952918689295,0.3397866052385764,1
+274,idn-mssge-275,Orang beragama tidak berakal dan ga boleh ikut nyoblos!,True,1,0.6966016902294995,0.6528462926577168,1
+64,idn-mssge-65,Pemerintah harusnya usir para imigran!,True,1,0.5686255832166083,0.7389443516236207,1
+229,idn-mssge-230,politics_r_group.jpeg,False,1,0.00010242063784298284,0.0005700198491106524,1
+331,idn-mssge-332,"""Para pembela negara"" semuanya adalah keledai bodoh",True,1,0.10431916567278918,0.6444906400066458,1
+256,idn-mssge-257,Terus lo pikir ada yang mau nikah sama lo gitu? hahahahaha,False,1,0.001295188511730922,0.02029644800977978,1
+287,idn-mssge-288,Para komunis harus dihentikan dari menghancurkan negara ini,False,1,0.008372647593679922,0.02760290527490055,1
+74,idn-mssge-75,"Hobi amat belain orang Cina, komunis lu ya?",False,1,0.008191143744069547,0.027361015261177714,1
+390,idn-mssge-391,Lo tu penjahat yang boros bensin,True,1,0.008396921893694561,0.4004811369969907,1
+134,idn-mssge-135,Pemakan daging harusnya dituntut karena pembunuhan!,True,1,0.008256640691651287,0.14310935136395012,1
+26,idn-mssge-27,Gue harap ada orang bakar rumah lo trus lo mati aja!,True,1,0.03569038456631121,0.6449785780771502,1
+209,idn-mssge-210,Pendukung PDI-P kayanya perlu disadarin biar ga jadi orang goblok,False,1,0.007904976985572408,0.058834722695778,1
+236,idn-mssge-237,Dasar homo menjijikkan!,True,1,0.5715339818343715,0.6511133681324714,1
+188,idn-mssge-189,freespeech_l_personal.jpeg,False,1,0.00010322310367548195,0.0005502683110505684,1
+147,idn-mssge-148,Pengamat iklim harusnya dihentikan dari menyebarkan hoax,False,1,0.007160091328221942,0.01937662503393792,1
+127,idn-mssge-128,Semua vegan harusnya dibantai kaya hewan ternak!,True,1,0.36273840452764106,0.6534204723241982,1
+159,idn-mssge-160,climate_l_group.jpeg,False,1,1.8522574326531083e-05,2.653023768982879e-05,1
+337,idn-mssge-338,Semua patriot pantes dilempar ke jurang!,False,1,0.035283664235328575,0.1405219215101674,1
+362,idn-mssge-363,Dasar babi menjijikkan!,False,1,0.008059075921787569,0.1978706221051554,1
+116,idn-mssge-117,Wow baru tau gue kalo lo ahli rasisme,True,1,0.10515994648991096,0.3993677597449869,1
+77,idn-mssge-78,Orang rasis seharusnya ga boleh ada di internet,True,1,0.44263687783016203,0.6429316942415718,1
+41,idn-mssge-42,Mending lo dikebiri aja!,False,1,0.007165642980655098,0.00931199284235665,1
+25,idn-mssge-26,Udah sepantasnya ibu rumah tangga mati terbakar di rumahnya!,True,1,0.020014272424073432,0.19662778985384627,1
+166,idn-mssge-167,Dasar goblok! Otak lo ga nyampe buat paham sains,False,1,0.007564006849299171,0.1078038521516278,1
+68,idn-mssge-69,Dasar lo imigran kotor!,True,1,0.5654372475494933,0.7221578892549488,1
+271,idn-mssge-272,religion_l_group.jpeg,False,1,0.00010322310367548195,9.253848866495987e-05,1
+37,idn-mssge-38,Udah jelas keluarga lo hasil gen lemah!,True,1,0.18375983964170992,0.5256545516443634,1
+189,idn-mssge-190,Berhenti nyakitin orang! Kebencian harusnya dilarang di internet!,False,1,0.007631442579421641,0.020055626622902778,1
+163,idn-mssge-164,Orang yang ga percaya perubahan iklim terlalu bodoh untuk memahami sains,True,1,0.020464604714029076,0.5683884645121886,1
+269,idn-mssge-270,"Oh iya ya, orang ateis lebih banyak yang berbuat baik untuk masyarakat ya",False,1,0.0072428153336524855,0.00896016212966676,1
+98,idn-mssge-99,"Harusnya lo ditonjok sampai sadar, ga usah sok",True,1,0.020186922400393777,0.4005243518354442,1
+52,idn-mssge-53,Kebanyakan lelaki adalah predator menjijikkan!,True,1,0.7000128635078331,0.8031941765112449,1
+176,idn-mssge-177,Berhenti menyensor orang-orang. SJW harusnya dikeluarkan dari negara ini.,False,1,0.08677314489218452,0.1999582910615562,1
+158,idn-mssge-159,Aw ada yang takut keringetan nih,False,1,6.10885510164857e-06,3.682979260160596e-05,1
+198,idn-mssge-199,Kamu harus dibunuh!,True,1,0.01365645259236499,0.5231895264751878,1
+173,idn-mssge-174,climate_r_group.jpeg,False,1,1.609308249869283e-05,2.305067219931397e-05,1
+363,idn-mssge-364,Semua polisi harusnya disetrum,False,1,0.021050217847341044,0.05565184873787917,1
+182,idn-mssge-183,Lo pantes dilecehin,False,1,0.007366107583979079,0.009073652544174611,1
+91,idn-mssge-92,Konsep ketidakadilan sosial seharusnya tidak diajarkan di sekolah,False,1,0.013449375838619647,0.028027186258886613,1
+157,idn-mssge-158,"Wah iya ya, kita semua bakal mati gara-gara cuacanya lebih bagus",False,1,0.007566949938965416,0.040418004705268636,1
+225,idn-mssge-226,Semoga pendukung PKS pada mampus!,False,1,0.007704825597769107,0.027310726621173648,1
+5,idn-mssge-6,Dasar cowok lemah!,True,1,0.5703999829546299,0.6472242920493639,1
+54,idn-mssge-55,Dasar jalang pemalas!,False,1,0.007496666529635277,0.33956314296403795,1
+104,idn-mssge-105,racism_l_personal.jpeg,False,1,0.035779852911316405,0.02871759449730944,1
+83,idn-mssge-84,Para rasis seharusnya ditonjok mukanya.,False,1,0.06377764930084408,0.19696193653283092,1
+36,idn-mssge-37,Udah jelas lo hasil dari gen lemah!,False,1,0.035283664235328575,0.33948893925716084,1
+213,idn-mssge-214,Hahahaha iya mungkin nanti pas pemilu kalau PDI-P menang,False,1,0.0012331367418754295,0.0052235786157728455,1
+333,idn-mssge-334,"""Orang yang membela negara"" semuanya adalah pembohong dan penyebar propaganda!",True,1,0.04546837054496673,0.5270941298347551,1
+193,idn-mssge-194,Pejuang kebebasan berpendapat itu cuma fasis yang menyebalkan,False,1,0.07943705143209029,0.30636798177914215,1
+185,idn-mssge-186,Social Justice Warriors (SJW): melawan ketidakadilan dengan satu postingan setiap harinya,False,1,0.007512922818838005,0.009409364339846179,1
+177,idn-mssge-178,SJW cuma pengecut yang ga bisa diajak bercanda,True,1,0.10407427539750094,0.5697459710908273,1
+148,idn-mssge-149,Pengamat iklim harusnya ga boleh jadi WNI,False,1,0.03544911326171808,0.14028819129899422,1
+273,idn-mssge-274,Agama itu bahaya dan tidak seharusnya diajarkan di sekolah,True,1,0.32667750890230246,0.5238489087814534,1
+316,idn-mssge-317,Pengkhianat itu berbahaya! Mereka perlu ditangkap dan dijebloskan ke penjara!,False,1,0.008212645426837636,0.14025265017033856,1
+336,idn-mssge-337,Lo cuman orang kasar yang pantes ditonjok mukanya,True,1,0.1053340353156941,0.5255589885230416,1
+57,idn-mssge-58,Laki sampah mending mati aja!,True,1,0.35238093177118324,0.8037179942444628,1
+252,idn-mssge-253,Gue pengen tonjok muka lo,True,1,0.00768419360920427,0.3995377513842358,1
+81,idn-mssge-82,"Heh rasis, makan tuh bendera!",False,1,0.008093357644087768,0.028027186258886613,1
+111,idn-mssge-112,Orang rasis mukanya pantes ditonjok,True,1,0.1828536408388765,0.3995377513842358,1
+222,idn-mssge-223,dasar kamu keras kepala!,True,1,0.0012381431217163882,0.5236601692728856,1
+155,idn-mssge-156,Pengamat iklim harusnya ditabrak aja pake mobil SUV!,True,1,0.020229630126883152,0.4034370133055983,1
+345,idn-mssge-346,Yang benci polisi udah pasti tolol,True,1,0.06352199881939413,0.4017897942479569,1
+324,idn-mssge-325,Lo harusnya ditembak di tempat!,True,1,0.007462707644590544,0.1403954807487793,1
+178,idn-mssge-179,Lo cuma pengecut yang ga bisa diajak bercanda,True,1,0.08705595961872928,0.4643456439471851,1
+365,idn-mssge-366,Polisi lebih baik mati!,True,1,0.03513338712106254,0.19930681569410447,1
+288,idn-mssge-289,Para komunis harusnya dijebloskan ke penjara karena mengancam demokrasi!,False,1,0.0455251124029607,0.3063855480830394,1
+67,idn-mssge-68,Imigran sama kayak tikus kotor!,True,1,0.5704941121545016,0.8061075000483258,1
+361,idn-mssge-362,Semua polisi babi menjijikkan!,False,1,0.044778187380211235,0.2537235300735262,1
+162,idn-mssge-163,Orang yang ga percaya iklim harusnya ga boleh jadi WNI,False,1,0.10461830122378647,0.19537031733941718,1
+332,idn-mssge-333,Dasar keledai bodoh,True,1,0.01380083087790651,0.4024977593600859,1
+85,idn-mssge-86,Para rasis seharusnya diculik dan dilenyapkan!,True,1,0.3525866425825047,0.5681950773999643,1
+240,idn-mssge-241,Mati aja lo homo!,True,1,0.5660657106021122,0.801420186132737,1
+172,idn-mssge-173,"Oke, lebih baik dengerin kamu ya daripada bukti-bukti ilmiah yang banyak ini, wkwk",False,1,0.007222908334616969,0.020281869358719475,1
+327,idn-mssge-328,nationalism_l_group.jpeg,False,1,0.007102072999338006,0.0006924152209879503,1
+195,idn-mssge-196,Semua pejuang kebebasan berpendapat perlu ditonjok mukanya,False,1,0.02002305808476585,0.14140706879806333,1
+156,idn-mssge-157,Gue pengen tabrak lo pake SUV gue!,True,1,0.008290524445937916,0.35661317547662225,1
+119,idn-mssge-120,Kita semua harus makan daging untuk kesehatan kita,False,1,0.00011972111981317266,0.0007983159876660006,1
+191,idn-mssge-192,Pejuang kebebasan berpendapat merupakan sekumpulan pembuat konten shitpost yang kekanak-kanakan,False,1,0.007733084060604523,0.1983538984356753,1
+215,idn-mssge-216,politics_l_group.jpeg,False,1,9.547317110805593e-05,0.0005658195262663329,1
+313,idn-mssge-314,inequality_r_group.jpeg,False,1,0.0012157480904847686,0.0006944420448940826,1
+323,idn-mssge-324,Pengkhianat harusnya dimusnahkan kayak hama!,False,1,0.013626530808485277,0.19789876329893963,1
+397,idn-mssge-398,cars_r_group.jpeg,False,1,6.10885510164857e-06,1.7952796934677738e-05,1
+95,idn-mssge-96,Orang sok kaya gini bisanya cuma preman boikot massal doang!,False,1,0.020511975380783712,0.19646934452491138,1
+292,idn-mssge-293,Kamu cuma sampah komunis pemalas!,True,1,0.3060082803194583,0.8091940891239615,1
+18,idn-mssge-19,Dasar cowo patriarkis,False,1,0.08763387962765855,0.055190639634891896,1
+90,idn-mssge-91,immigrants_r_personal.jpeg,False,1,0.007324253999548796,0.005728653699896915,1
+231,idn-mssge-232,"Homoseksual itu dosa, dan harusnya tidak dibahas di sekolah",True,1,0.8262074748514354,0.8789079152694732,1
+334,idn-mssge-335,Lo pembohong dan penyebar propaganda!,False,1,0.00794824418707793,0.1403551298749138,1
+379,idn-mssge-380,Kita harusnya tabrak aja semua pembenci SUV!,True,1,0.021149165783658316,0.33986137583533604,1
+130,idn-mssge-131,"Tiap kali lo ga makan burger, gue bakal makan dua porsi burger!",False,1,3.4062932773341e-05,0.00503895108880377,1
+380,idn-mssge-381,Gue tabrak juga lo ya pake SUV gue!,True,1,0.007232746191731817,0.19805417986623042,1
+369,idn-mssge-370,police_r_group.jpeg,False,1,8.693673928062173e-05,0.0005765709440160247,1
+154,idn-mssge-155,Lo pantes ditonjok mukanya,False,1,0.0011943122644890883,0.00495687983572158,1
+279,idn-mssge-280,Orang mabok agama harusnya ditonjok mukanya,True,1,0.38735743910248094,0.6499509536477158,1
+6,idn-mssge-7,Dasar perek!,False,1,0.007445114813485219,0.008997284765439973,1
+206,idn-mssge-207,Lo pasti semacam pecundang yang tidak melakukan apa-apa.,True,1,0.03554283127851805,0.644100499383738,1
+0,idn-mssge-1,"Wanita harusnya jadi ibu yang mengurus anak saja, daripada bekerja dan cuma fokus ke karir.",False,1,0.008218072065033584,0.03351582664422969,1
+251,idn-mssge-252,Tonjok semua orang homofobik,False,1,0.08667514644334445,0.14100104325750673,1
+196,idn-mssge-197,Bukan urusan gue kalo orang lain pengen tonjok muka lo,False,1,0.008002392547494044,0.1978706221051554,1
+255,idn-mssge-256,Padahal kalian juga nonton bokep lesbi kan,False,1,0.020475063655749866,0.009905684140868082,1
+4,idn-mssge-5,"Semua feminis adalah para pelacur (jalang) yang merasa paling benar, yang paling berhak atas apapun!",True,1,0.8624179082266334,0.8875025386256802,1
+263,idn-mssge-264,Ateis adalah kaum kafir menjijikkan!,True,1,0.3511743486887317,0.6516925895068343,1
+384,idn-mssge-385,cars_l_personal.jpeg,False,1,1.0889691002655445e-05,3.459916031782155e-05,1
+179,idn-mssge-180,Semua SJW adalah komunis berbahaya,False,1,0.10535545867743384,0.357183246297298,1
+349,idn-mssge-350,Pembenci polisi pantes digebukin di jalan,False,1,0.045640231300051654,0.19660129489272624,1
+212,idn-mssge-213,Lo harusnya ditembak langsung!,True,1,0.007395098670093543,0.056389198751179606,1
+242,idn-mssge-243,Hahaha santai dong! Ga ada yang peduli sama hak kalian kali,False,1,0.0456508057125509,0.1982535519770381,1
+117,idn-mssge-118,racism_r_group.jpeg,False,1,0.03582329740879045,0.02820275370343805,1
+139,idn-mssge-140,Pemakan daging harusnya disetrum kaya hewan ternak,False,1,0.007780893127768496,0.14271785369974477,1
+219,idn-mssge-220,PKS itu sarangnya ekstrimis,False,1,0.019894652566220847,0.04049860911628314,1
+372,idn-mssge-373,SUV itu lebih aman dan harusnya jadi satu-satunya jenis mobil yang dijual!,False,1,0.0011929702497349203,0.005853049740123377,1
+94,idn-mssge-95,"Berisik dasar orang gila ekstrim, bisa diem ga.",False,1,0.01354652667787697,0.055655387442284765,1
+101,idn-mssge-102,Kirain institusi kita dibangun dari material bangunan wkwk,False,1,3.0534893211185946e-05,4.802972318863164e-05,1
+60,idn-mssge-61,Kamu butuh laki-laki kuat dan besar buat melindungimu ya sayang?,False,1,0.008313545553407659,0.027394840109220827,1
+109,idn-mssge-110,Bule rasis emang kayak babi,True,1,0.3061642389899685,0.4003947933082278,1
+257,idn-mssge-258,homosexuality_r_group.jpeg,False,1,0.01996224072601247,0.008938220881085299,1
+343,idn-mssge-344,Kebencian sama polisi ngga seharusnya ada di internet,False,1,0.008118409835168185,0.009346939861603721,1
+393,idn-mssge-394,Pecinta mobil SUV harusnya disingkirkan dari dunia ini,True,1,0.020031876542354717,0.4003085646282054,1
+262,idn-mssge-263,Lo bangsat keras kepala,False,1,0.020506673054026536,0.33882751960243757,1
+10,idn-mssge-11,Lo tuh pantes diperkosa!,True,1,0.013486932684520845,0.028466274164357007,1
+312,idn-mssge-313,"Hahaha iya logikanya masuk banget ya, semoga lo ga jadi orang miskin",False,1,0.007253121149162201,0.02877455380425235,1
+319,idn-mssge-320,Pengkhianat sudah seharusnya disamakan dengan teroris sampah!,True,1,0.035602741630782656,0.40013645399917297,1
+19,idn-mssge-20,Dasar pemalas tidak berguna,True,1,0.007267239940450509,0.40267579950656407,1
+302,idn-mssge-303,Semua kapitalis harus dijebloskan ke penjara karena memperdaya masyarakat seperti ini!,True,1,0.06347757250814522,0.39979363143597846,1
+281,idn-mssge-282,Orang alim harusnya dirajam sampai mati aja - coba kita lihat siapa yang hidupnya ga berguna!,True,1,0.3091549785361416,0.8017783083888039,1
+136,idn-mssge-137,"Lo itu menjijikkan, dasar pemakan daging.",True,1,0.02013107770481736,0.3994102128008137,1
+264,idn-mssge-265,Dasar kafir menjijikkan!,False,1,0.1057839445918816,0.34084618693292773,1
+123,idn-mssge-124,Para penganut vegan itu kaum Hippies kotor!,True,1,0.10541566860580892,0.4019661483975624,1
+141,idn-mssge-142,Pemakan daging harusnya dibantai dan dijual!,True,1,0.04556672036330971,0.39804608531260355,1
+46,idn-mssge-47,men_l_personal.jpeg,False,1,0.007239432924569488,0.00517082101717143,1
+75,idn-mssge-76,immigrants_l_group.jpeg,False,1,0.007320243832269974,0.005181049783655672,1
+143,idn-mssge-144,"Iya kan? Banyak banget aturan hukum kita yang melarang daging.. Eh tunggu, kan ga ada hukum yang melarang",False,1,0.0012909578220140418,0.005234626714013625,1
+39,idn-mssge-40,Muka lo pantes ditonjok.,False,1,0.007913498740836519,0.02816326034114744,1
+258,idn-mssge-259,homosexuality_r_personal.jpeg,False,1,0.013808923708510609,0.008744948935252319,1
+16,idn-mssge-17,Ibu rumah tangga yang tidak membayar pajak tidak boleh ikut nyoblos!,False,1,0.008180514772103326,0.028792288676174227,1
+344,idn-mssge-345,"Bahaya nih para pembenci polisi, mereka harusnya dipenjara!",False,1,0.08696682291074515,0.3391751609460263,1
+9,idn-mssge-10,Semua feminis pantes diperkosa!,True,1,0.5650803450059991,0.5267572580660905,1
+93,idn-mssge-94,Kaum pejuang ketidakadilan sosial yang radikal kiri semuanya melewati batas,False,1,0.013557242530986597,0.028322899109504786,1
+237,idn-mssge-238,"Lindungi keluarga anda, hajar manusia homo hari ini",True,1,0.5721997020600991,0.7400947751305494,1
+245,idn-mssge-246,Orang yang anti homo secara ekstrem harusnya dilarang,True,1,0.4416000962795697,0.5680984408082659,1
+298,idn-mssge-299,Ya ampun hidup kamu pasti susah banget ya? (here have some handhouts??),False,1,0.0012746775327489362,0.008738416433640568,1
+11,idn-mssge-12,"Feminis itu lucu ya, dikira mereka yang paling pinter.",False,1,0.18027041423343593,0.25399693377553756,1
+277,idn-mssge-278,Orang sok alim cuma manusia yang tololnya kelewatan!,True,1,0.08732806950165645,0.644100499383738,1
+286,idn-mssge-287,religion_r_personal.jpeg,False,1,9.253848866495987e-05,8.559006367452268e-05,1
+144,idn-mssge-145,Eh ada yang merasa terancam sama kaum vegan yang menakutkan gini? Hahahahaha,False,1,0.02039246375161518,0.14049471146250975,1
+61,idn-mssge-62,men_r_group.jpeg,False,1,0.008020999732493603,0.006077528233690852,1
+146,idn-mssge-147,vegans_r_personal.jpeg,False,1,0.00012448433020883747,0.004946732407388654,1
+356,idn-mssge-357,police_l_personal.jpeg,False,1,5.27478412523148e-05,0.0005502683110505684,1
+151,idn-mssge-152,"Pengamat iklim adalah perusak ekonomi, dasar pecinta lingkungan menjijikkan!",False,1,0.007392816558592799,0.2523266306319771,1
+23,idn-mssge-24,Ibu rumah tangga pantes ditonjok mukanya,False,1,0.007733084060604523,0.028917829902664463,1
+129,idn-mssge-130,Kayanya dunia lebih baik kalau para vegan ini diem aja ya wkwkwk,False,1,0.10370415435700714,0.34248637740007,1
+342,idn-mssge-343,nationalism_r_personal.jpeg,False,1,0.0011764425112449162,0.0005502683110505684,1
+211,idn-mssge-212,Pendukung PDI-P komunis harusnya ditembak aja langsung!,True,1,0.12350878810142249,0.6527624015642045,1
+357,idn-mssge-358,Polisi udah seharusnya dikerdilkan,False,1,0.00798862220615015,0.009501410072504931,1
+58,idn-mssge-59,Mending lo mati aja!,False,1,0.007149243114922537,0.01961632067170082,1
+203,idn-mssge-204,PDI-P harusnya berhenti menyebar kebohongan,False,1,0.007308397717276321,0.00879810553664233,1
+175,idn-mssge-176,Berhenti menyensor orang-orang. Tidak ada yang perlu disensor.,False,1,0.008396921893694561,0.025848526765395632,1
+391,idn-mssge-392,Pecinta mobil SUV perlu dihajar,True,1,0.020332097268453152,0.2537703547672858,1
+314,idn-mssge-315,inequality_r_personal.jpeg,False,1,0.0011813509512178524,0.0007530659782696593,1
+389,idn-mssge-390,Pecinta mobil SUV itu penjahat yang boros bensin,False,1,0.00737487341603587,0.2537235300735262,1
+373,idn-mssge-374,Pembenci SUV,False,1,0.007401998098888052,0.02771029679707923,1
+12,idn-mssge-13,"Ok, coba ke dapur dulu terus abis itu baru ngomong HAHAHAHA",False,1,8.167381046669487e-05,0.005669078048512428,1
+66,idn-mssge-67,Udah jelas lo butuh disekolahin,False,1,0.007229441470329221,0.19548235740237171,1
+113,idn-mssge-114,Orang rasis emang sampah masyarakat,True,1,0.5677033054584948,0.648199747825015,1
+22,idn-mssge-23,Lo tuh cuma beban bagi negara!,False,1,0.02098167327910531,0.05642766370810197,1
+122,idn-mssge-123,Dasar orang elit bodoh.,True,1,0.08665691889705017,0.643515749353444,1
+199,idn-mssge-200,"Pejuang kebebasan berbicara semuanya sama: memposting omong kosong, dan merengek waktu orang kasih tahu mereka bahwa omong kosong mereka bodoh",False,1,0.007502043603250727,0.34099978993558694,1
+376,idn-mssge-377,"Kendaliin diri lo, pembenci SUV brengsek!",True,1,0.013446000015045282,0.398441463974764,1
+280,idn-mssge-281,Gue pengen nonjok muka lo,False,1,0.007922085847321493,0.25355384172168816,1
+341,idn-mssge-342,nationalism_r_group.jpeg,False,1,0.0071210897779760505,0.0007090795212845579,1
+315,idn-mssge-316,Bahasa yang tidak patriotik seperti ini harusnya tidak boleh ada di internet,False,1,0.008108331733897373,0.019803449715737668,1
+351,idn-mssge-352,Mati aja buat semua pembenci polisi!,True,1,0.03570291529963259,0.4547886508200455,1
+62,idn-mssge-63,men_r_personal.jpeg,False,1,0.007200823403173291,0.005059632854340465,1
+142,idn-mssge-143,Gue harap ada yang membantai dan menjual lo untuk daging!,True,1,0.020911469695297984,0.4011759746372559,1
+170,idn-mssge-171,Cara terbaik untuk melindungi bumi adalah dengan membunuh lo,True,1,0.020735133961415027,0.645857320072352,1
+47,idn-mssge-48,Laki sampah mending ga usah main internet,True,1,0.18282878560151722,0.6452714451510269,1
+1,idn-mssge-2,Wanita harusnya tidak bekerja!,False,1,0.3543518384185379,0.34138621608089825,1
+259,idn-mssge-260,Agama penting dan perlu diajarkan di sekolah,False,1,4.8785712278226595e-05,7.437028637763686e-05,1
+299,idn-mssge-300,inequality_l_group.jpeg,False,1,0.0012234677918609763,0.0007090795212845579,1
+250,idn-mssge-251,Dasar keturunan orang idiot!,True,1,0.18329413517411053,0.8019567601649923,1
+325,idn-mssge-326,Gue malu karena banyak pengkhianat cengeng goblok di negara ini,False,1,0.10435022465547246,0.34232758880668784,1
+278,idn-mssge-279,Lo goblok banget sumpah!,False,1,0.008098330026420986,0.10813158025058407,1
+167,idn-mssge-168,Orang yang ga percaya perubahan iklim harusnya ditoyor biar logikanya jalan,False,1,0.007296823293085293,0.019659072350114493,1
+326,idn-mssge-327,"Jangan khawatir, negara juga malu sama lo",False,1,0.08754484355288611,0.34065496438184695,1
+318,idn-mssge-319,Dasar pengkhianat goblok,False,1,0.008035142475483287,0.14239938007534533,1
+86,idn-mssge-87,Gue harap seseorang bakal nembak lo di jalan!,True,1,0.008224884394467554,0.25224552274668466,1
+56,idn-mssge-57,Muka lo pantes ditonjok,False,1,0.007185766144517481,0.00878466568352927,1
+309,idn-mssge-310,Kita harusnya memenggal kepala para kapitalis!,True,1,0.03578772015998294,0.2842956961183324,1
+311,idn-mssge-312,"Kapitalis adalah orang-orang yang hangat dan penuh kasih, bukan?",False,1,0.0001206589712246389,0.0007432588360959617,1
+145,idn-mssge-146,vegans_r_group.jpeg,False,1,5.112579049909173e-05,0.0005799631248534737,1
+205,idn-mssge-206,Semua pendukung PDI-P pecundang yang tidak bisa apa-apa,True,1,0.04448774424816654,0.4020103038556726,1
+38,idn-mssge-39,Tonjok semua cowok lemah biar mereka kuat,False,1,0.32660329177963066,0.35742949658011264,1
+375,idn-mssge-376,Pembenci SUV brengsek ini harusnya ngendaliin diri mereka!,False,1,0.03516026654396913,0.33956314296403795,1
+96,idn-mssge-97,Dasar tukang boikot massal!,False,1,0.013419221263678505,0.14108905453321022,1
+377,idn-mssge-378,Pembenci SUV harusnya dihajar,True,1,0.10424195546428534,0.522207086251618,1
+232,idn-mssge-233,Semua orang homo harusnya dijebloskan ke penjara!,True,1,0.8269301977191283,0.8913972080918742,1
+30,idn-mssge-31,feminism_r_personal.jpeg,False,1,0.007430408645495257,0.004999910694028364,1
+92,idn-mssge-93,Semua buku tentang ketidakadilan sosial dan rasisme harusnya ilegal dan dibakar,True,1,0.3513721458358597,0.5217886319388776,1
+383,idn-mssge-384,cars_l_group.jpeg,False,1,7.368592981140821e-06,2.0988308820313112e-05,1
+378,idn-mssge-379,"Harusnya gue hajar lo ya, dasar pembenci SUV",True,1,0.020592694159570647,0.6493680720456282,1
+82,idn-mssge-83,"Dasar rasis lo, makan tuh bendera!",True,1,0.18276679622633019,0.5247965202038614,1
+79,idn-mssge-80,Para rasis adalah pecundang fanatik yang menyedihkan,True,1,0.32662420286633637,0.643515749353444,1
+308,idn-mssge-309,Gue berharap ada orang yang mukul lo pake tongkat,True,1,0.013507748510402252,0.19596305030540853,1
+283,idn-mssge-284,Satu hal yang pasti kosong adalah doa orang-orang,False,1,0.007502043603250727,0.009144873789304838,1
+282,idn-mssge-283,Lo harusnya dirajam sampai mati - kita lihat siapa yang hidupnya ga berguna!,True,1,0.045057296784939777,0.5255112275415947,1
+108,idn-mssge-109,Dasar fanatik bangsat,False,1,0.03532569805827841,0.1408347473100397,1
+322,idn-mssge-323,"Muka lo harusnya ditonjok, dasar pengkhianat",True,1,0.020501380496466073,0.3991136728041542,1
+115,idn-mssge-116,"Syukurlah! Semua masalah rasisme sudah selesai, terima kasih internet",False,1,0.04466174351350424,0.05541804803034427,1
+8,idn-mssge-9,Semoga ada orang yang nonjok wajah lo.,False,1,0.007512922818838005,0.02856556568460556,1
+265,idn-mssge-266,Semua atheis akan hangus terbakar di neraka,True,1,0.3875129723823176,0.6517889818540226,1
+339,idn-mssge-340,Patriotisme bikin kita jadi goblok!,False,1,0.020842726774753295,0.056312733931845015,1
+253,idn-mssge-254,Mati aja kalian orang homofobik!,True,1,0.35391993133793126,0.5261331681895234,1
+152,idn-mssge-153,Kamu cuma pecinta lingkungan menjijikkan yang mau merusak ekonomi!,True,1,0.045784538272340455,0.6511133681324714,1
+24,idn-mssge-25,Gue harap ada seseorang yang tonjok muka lo.,False,1,0.020506673054026536,0.3414250479765532,1
+388,idn-mssge-389,Lo tu bego dan egois,True,1,0.04490660844436806,0.4035720933252072,1
+118,idn-mssge-119,racism_r_personal.jpeg,False,1,0.03569423629016554,0.02799368525206992,1
+368,idn-mssge-369,Polisi manja butuh dilindungi,False,1,0.0012157480904847686,0.0008069393428861665,1
+133,idn-mssge-134,"Anak-anak harusnya tidak dikasih makan daging, daging itu ga baik untuk mereka",False,1,0.007149243114922537,0.00910501028383058,1
+28,idn-mssge-29,Iya gue setuju mamak lo yang terbaik,False,1,0.0012142398681488657,0.009089272678383123,1
+340,idn-mssge-341,Gue yakin negara bangga banget sama lo wkwk,False,1,0.0012218997304337593,0.006339626850918875,1
+186,idn-mssge-187,"Sadar dong, ga ada peduli sama ama omong kosong soal hak-hak kaum minoritas",False,1,0.08727683799277164,0.19672079801736758,1
+140,idn-mssge-141,Gue harap ada yang menyetrum lo kaya hewan ternak,False,1,0.00768419360920427,0.1978706221051554,1
+27,idn-mssge-28,"Ibu rumah tangga emang yang terbaik, itulah kenapa masyarakat ga mau bayar mereka.",False,1,0.007344776518690885,0.019640683238115707,1
+310,idn-mssge-311,Gue harap ada yang memenggal kepala lo!,True,1,0.019951546575121253,0.35697892097147954,1
+187,idn-mssge-188,freespeech_l_group.jpeg,False,1,0.0012142398681488657,0.0006007572149160288,1
+382,idn-mssge-383,"Hahaha lo aja ga bisa nyetir, ga usah sok peduli deh",False,1,0.020196351452629432,0.2005480660960044,1
+223,idn-mssge-224,"Tonjok aja tu anggota PKS, cuma jadi beban buat masyarakat",False,1,0.02076097027633332,0.19979765427451993,1
+190,idn-mssge-191,Berhenti nyakitin orang! Orang yang menyebar kebencian harusnya masuk penjara,False,1,0.01341590222757101,0.055237636521366845,1
+73,idn-mssge-74,"Oh iya, ga bisa bayangin Cina tanpa toko",False,1,0.013825200463829289,0.009360179883162898,1
+59,idn-mssge-60,"Oh iya kita kayanya butuh banyak cowok sampah ya, mereka kan pinter ngerusak semua hal",True,1,0.7607832718738692,0.8059399379412666,1
+125,idn-mssge-126,Para vegan harusnya dipaksa makan daging.,True,1,0.12370159509200038,0.4550620211744886,1
+224,idn-mssge-225,PKS bahaya buat masyarakat dan emang harusnya ditonjok aja,False,1,0.02117841931698845,0.19652201986045706,1
+107,idn-mssge-108,Bule-bule rasis emang bangsat,False,1,0.3048880322166476,0.28417483533066024,1
+233,idn-mssge-234,Homo itu cuma sekumpulan orang tolol,True,1,0.735894860470922,0.8119385338421403,1
+114,idn-mssge-115,Lo emang sampah masyarakat!,False,1,0.021158890374335868,0.30665013201825986,1
+244,idn-mssge-245,homosexuality_l_personal.jpeg,False,1,0.013550091914494859,0.008744948935252319,1
+20,idn-mssge-21,Ibu rumah tangga cuma beban buat negara!,True,1,0.08767529747154143,0.46406985635349873,1
+43,idn-mssge-44,"Iya, kita butuh lelaki bermental anak anak nakal umur 8 tahun wkwk",False,1,0.01383338460586063,0.10777037017465743,1
+289,idn-mssge-290,Kaum kiri komunis benar-benar bodoh,True,1,0.0864417665413494,0.4017897942479569,1
+69,idn-mssge-70,Imigran pantes ditonjok mukanya,False,1,0.008223519341643257,0.027558826297326294,1
+329,idn-mssge-330,Patriotisme berbahaya dan tidak perlu diajarkan di sekolah,False,1,0.008185819164631613,0.040086626354433524,1
+267,idn-mssge-268,Eksekusi semua ateis!,True,1,0.693382385495556,0.7399574432444398,1
+268,idn-mssge-269,Lo harusnya ditempak di kepala!,True,1,0.008378681775286648,0.19871041112608995,1
+88,idn-mssge-89,"Sama orang ""mata sipit"" aja takut",False,1,0.02009453387673694,0.14251004851359989,1
+71,idn-mssge-72,Imigran perlu dibasmi kayak hama!,True,1,0.4415144489890043,0.8028867867422688,1
+396,idn-mssge-397,Gue yakin lo masih main sama mobil-mobilan di rumah!,False,1,6.2146301613836e-05,0.005072430989817041,1
+234,idn-mssge-235,Dasar cowo homo bencong bodoh,True,1,0.7002070469009831,0.8049243400633441,1
+295,idn-mssge-296,Harusnya ada olahraga khusus untuk memburu para komunis!,True,1,0.035212048528906414,0.14166328169667308,1
+15,idn-mssge-16,Ibu rumah tangga tuh harusnya nyari kerjaan yang bener.,False,1,0.007126031416237732,0.009364609690010697,1
+296,idn-mssge-297,Kamu harusnya diburu!,True,1,0.007740285161018498,0.142026398874374,1
+102,idn-mssge-103,hahaha alesan gampang buat jadi pengecut,False,1,0.008348737930697204,0.3418544563486576,1
+120,idn-mssge-121,"Harusnya ada hukum yang melarang para penganut vegan untuk punya anak, itu namanya kekerasan terhadap anak!",False,1,0.08739633748251807,0.1958863271090808,1
+153,idn-mssge-154,Pengamat lingkungan harusnya ditonjok aja mukanya.,True,1,0.020878412159935415,0.5270941298347551,1
+260,idn-mssge-261,"Ateis itu harusnya dilarang, mereka ga ada moral sama sekali!",False,1,0.01380083087790651,0.2002360116389689,1
+328,idn-mssge-329,nationalism_l_personal.jpeg,False,1,0.0011984015704270229,0.0005834355102187161,1

@@ -1,0 +1,381 @@
+,id,text,score_max,predicted_label_max,score_hate,scores_harassment,true_label
+242,tur-mssge-243,"Haha, sakin ol! Himse ibneleri ve senin haklarını umursamıyor",False,1,0.007502043603250727,0.019829182257838564,1
+235,tur-mssge-236,Eşcinseller iğrenç ibnelerdir!,True,1,0.7356201301853862,0.7490553120820698,1
+65,tur-mssge-66,Göçmenlerin çoğu cahil.,True,1,0.38605775779131146,0.6446857847169584,1
+11,tur-mssge-12,Feministler beni hayrete düşürüyor; kendilerini çok zeki zannediyorlar.,False,1,0.0866266423438545,0.19593744143273575,1
+264,tur-mssge-265,Sen pislik bir kafirsin!,True,1,0.1838497500039327,0.648199747825015,1
+396,tur-mssge-397,"Haha, emini evde de hala oyuncak arabalarınla oynuyorsundur!",False,1,0.007480781676722293,0.008909348052583645,1
+88,tur-mssge-89,"Ooo, birileri koyu tenli, korkutucu insanlar tarafından tehdide uğradığını hissetmiş!",True,1,0.04493454109226001,0.19515443031336427,1
+50,tur-mssge-51,Sen toksik bir moronsun.,True,1,0.0073282952918689295,0.8049243400633441,1
+156,tur-mssge-157,Seni arabamla ezmek isterim aslında!,False,1,0.007512922818838005,0.00940034664505527,1
+269,tur-mssge-270,"Ah tabi, ateistler kesinlikle de toplum için iyi pek çok şey yapıyor değil mi? Haha",False,1,0.0012298634801206983,0.0060633314953629286,1
+70,tur-mssge-71,Senin evire çevire dövülmen lazım.,False,1,0.020726569157113815,0.24546597945648926,1
+19,tur-mssge-20,Sen tembel bir patates çuvalısın.,False,1,4.8785712278226595e-05,0.00880825212044933,1
+371,tur-mssge-372,Bu tür bir spor araba düşmanlığına internette izin verilmemeli.,False,1,0.0012575324700224227,0.008866845045094437,1
+379,tur-mssge-380,Arabalarımızı spor araç düşmanlarının üzerine sürmemiz gerek!,True,1,0.12475232125181593,0.39886067580095586,1
+22,tur-mssge-23,Sen sistemin bir asalağısın!,False,1,0.001195664768288402,0.005656389069421966,1
+366,tur-mssge-367,"Geber, polis aşığı seni!",False,1,0.001295188511730922,0.009473436218676301,1
+286,tur-mssge-287,religion_r_personal.jpeg,False,1,0.0001064962672055945,8.969393236719384e-05,1
+261,tur-mssge-262,Ateistler ukala bok parçalarından ibaret.,False,1,1.7952796934677738e-05,8.969393236719384e-05,1
+185,tur-mssge-186,SJW’ler: Adaletsizliğe karşı her seferinde bir post ile mücadele!,False,1,0.007780893127768496,0.019797045800482763,1
+319,tur-mssge-320,Hainlerin ne olduklarının adı konmalı: Terörist pislik!,False,1,0.01380083087790651,0.19968352965821282,1
+255,tur-mssge-256,Lezbiyen pornosu izleyen insanlar böyle diyor.,False,1,0.03520095295491853,0.019927363642157577,1
+230,tur-mssge-231,politics_r_personal.jpeg,False,1,0.00011972111981317266,0.0006416143628495968,1
+206,tur-mssge-207,Sen hiçbir icraatı olmayan bir zavallı olmalısın.,True,1,0.008465600514472132,0.6501450187978839,1
+179,tur-mssge-180,Tüm SJW’ler tehlikeli solculardan oluşuyor.,False,1,0.3061855901682635,0.34169783008096083,1
+194,tur-mssge-195,Sen kendini kabullenmekten korkan bir faşistsin.,False,1,0.007859253934974832,0.14307633423871288,1
+265,tur-mssge-266,Tüm ateistler cehennemde yanacak.,True,1,0.020382309401468734,0.108248867509357,1
+300,tur-mssge-301,inequality_l_personal.jpeg,False,1,0.00012743262913872736,0.0006985432551235825,1
+268,tur-mssge-269,Kafana bir kurşun sıkılması lazım!,True,1,0.007261894093958545,0.033644226697923815,1
+245,tur-mssge-246,Homofobik aşırılıkçılık yasaklanmalı,False,1,0.08774086132232567,0.056161651144030364,1
+32,tur-mssge-33,Her erkeğin zorla askere alınıp adam edilmesi lazım!,False,1,0.04489269724934719,0.1419448596830677,1
+125,tur-mssge-126,Veganlara zorla et yedirilmeli.,True,1,0.08650087299256767,0.20085584662824296,1
+86,tur-mssge-87,Umarım biri seni sokakta vurur!,True,1,0.0077733819988577875,0.2520116071469668,1
+291,tur-mssge-292,Komünist solcuların hepsi tembel psiliklerdir!,True,1,0.18321787668956083,0.6509199810202471,1
+196,tur-mssge-197,"Ola ki başkaları seni tekme tokat dövmek isterse, bu benim sorunum değil.",True,1,0.0012867923723946838,0.1956832456786415,1
+120,tur-mssge-121,"Veganların çocuk sahibi olması kanunen yasaklanmalı, çocuğa karşı şiddet bu!",True,1,0.08677314489218452,0.14085340503148405,1
+30,tur-mssge-31,feminism_r_personal.jpeg,False,1,0.007502043603250727,0.0050512641150628895,1
+3,tur-mssge-4,Seni ağlak gerizekalı,True,1,0.0869541744505828,0.643515749353444,1
+133,tur-mssge-134,"Çocuklara et yedirmeyi durdurmalıyız, bu onlar için çok kötü",False,1,0.007450092978061416,0.019544292951297677,1
+90,tur-mssge-91,immigrants_r_personal.jpeg,False,1,0.007411322491334545,0.005822305793369376,1
+336,tur-mssge-337,Sen bir şiddet düşkünüsün ve tekme tokat dövülmelisin,True,1,0.007883955327521095,0.1976050626071819,1
+317,tur-mssge-318,Memnuniyetsiz hainlerin hepsi beyinsizdir.,True,1,0.18304114124757906,0.5217886319388776,1
+342,tur-mssge-343,nationalism_r_personal.jpeg,False,1,0.00118900633218713,0.0005721696121140179,1
+298,tur-mssge-299,"Oo, hayat senin için zor olmalı! Al, sana biraz sadaka",False,1,5.614787461400803e-05,0.005019053514211161,1
+318,tur-mssge-319,Sen beyinsiz bir hainsin.,True,1,0.020737994139810263,0.5680018431454692,1
+122,tur-mssge-123,Sen cahil bir züppesin.,False,1,0.007486035877550427,0.05615228969721257,1
+204,tur-mssge-205,CHP vatana ihanetten yargılanmalı ve kapatılmalı!,False,1,0.007718846461431141,0.027352596534348385,1
+85,tur-mssge-86,Yabancı düşmanları evlerinden toplanıp vurulmalı!,True,1,0.10589140095733655,0.340760029203248,1
+328,tur-mssge-329,nationalism_l_personal.jpeg,False,1,0.00012255674483830522,0.00010322310367548195,1
+178,tur-mssge-179,Şaka kaldıramayan hastalıklı bir zavallısın.,True,1,0.035396774794577694,0.653992672469446,1
+193,tur-mssge-194,İfade özgürlüğü yanlıları aslında bir avuç faşist trol.,False,1,0.021075485998081265,0.143761890325901,1
+16,tur-mssge-17,Vergi ödemeyen “evde kal” annelerinin oy vermesine izin verilmemeli!,False,1,0.0075494600559422075,0.009539196668998768,1
+273,tur-mssge-274,Din zararlıdır ve okullarda okutulmamalıdır.,False,1,0.007569904371979812,0.009436619613859271,1
+195,tur-mssge-196,Tüm ifade özgürlüğü savaşçıları tekme tokat dövülmeli.,True,1,0.02071234678495138,0.19598869367978572,1
+114,tur-mssge-115,Senin toplumdan gözünün yaşına bakılmadan dışlanman gerek!,False,1,0.007871533806485706,0.05498740435716091,1
+68,tur-mssge-69,Sen pislik bir göçmensin!,True,1,0.5666082122108962,0.6501450187978839,1
+377,tur-mssge-378,Spor araba düşmanlarının kıçlarına iyi bir tekme yemesi gerek.,True,1,0.08700489608771768,0.25229415994810356,1
+390,tur-mssge-391,Sen benzin canavarı bir suçlusun!,True,1,0.04574680193662199,0.6468338180068678,1
+181,tur-mssge-182,SJW’ler tacizi hakediyor.,False,1,0.013578856402446361,0.19553237447133148,1
+77,tur-mssge-78,Yabancı düşmanlarına internette müsamaha gösterilmemeli.,False,1,0.0446484788838193,0.19582262790385058,1
+308,tur-mssge-309,Umarım biri seni odunla döver,True,1,0.0075818364005978455,0.4029436302725883,1
+171,tur-mssge-172,"Hmm, bence iklim şüphecilerine gereğinden fazla önem veriliyor, haha",False,1,0.007871533806485706,0.02870949943234899,1
+12,tur-mssge-13,"Tamam, (yönetmeye) mutfağımdan başlayacağım ve nasıl gidecek göreceğiz.",False,1,1.535623976496012e-05,0.00010162440410680168,1
+62,tur-mssge-63,men_r_personal.jpeg,False,1,0.0073617751928822,0.005160748774996259,1
+137,tur-mssge-138,Et yiyenler ilkel mağara adamlarından ibaret!,False,1,0.00745510968217876,0.020333125192716635,1
+237,tur-mssge-238,"Ailenizi koruyun, bugün bir eşcinsel dövün.",True,1,0.5707769145254921,0.6518853310124848,1
+271,tur-mssge-272,religion_l_group.jpeg,False,1,0.00010987310729246431,8.969393236719384e-05,1
+348,tur-mssge-349,"Sen bir suçlu olmalısın, yoksa polislerin ödeneğini kesmeyi neden isteyesin?",False,1,0.0071902222005142714,0.02771029679707923,1
+380,tur-mssge-381,Spor arabamı üzerine sürmek istiyorum!,False,1,5.527786369235996e-05,0.0005431903918374811,1
+295,tur-mssge-296,Komünistler keyif olsun diye avlanmalı,False,1,0.007796089094115455,0.00946418068117176,1
+63,tur-mssge-64,Sadece yasal göçmenleri kabul etmeliyiz.,False,1,0.0202058155754124,0.02816326034114744,1
+41,tur-mssge-42,Sen hadım edilmelisin!,False,1,0.0071310503724319645,0.009252076090116688,1
+126,tur-mssge-127,Sana zorla hamburger yedirmeliyim.,False,1,2.199533724320648e-05,0.0005894062063298064,1
+367,tur-mssge-368,"Haha, bütün hayatlar önemli değil mi?",False,1,6.361912109467577e-05,0.0008247996451087336,1
+198,tur-mssge-199,Sana zehirli gaz sıkmak lazım!,True,1,0.007224532141072237,0.027611767916268473,1
+263,tur-mssge-264,Ateistlerin hepsi pislik kafirlerdir!,True,1,0.7009825400306762,0.8423216365134715,1
+31,tur-mssge-32,"Erkekler vakitlerini ağlamaya değil, para kazanmaya ayırmalı.",False,1,0.020413445947400476,0.020414046480620705,1
+214,tur-mssge-215,“Ooo ben bir CHP’liyim ve fikirlerime katılmayan herkes faşisttir!” haha,False,1,0.01991976184434046,0.14165333427477142,1
+124,tur-mssge-125,Sen pasaklı bir hipisin!,False,1,0.04492521384556713,0.14403990142642997,1
+87,tur-mssge-88,Ah evet! Hitilerden başka kimsenin burada yeri yok! Haha,False,1,0.04506685592443919,0.19911317086766947,1
+99,tur-mssge-100,Woke kafalılar imha edilmeli!,True,1,0.1051263051987904,0.3986087789968267,1
+76,tur-mssge-77,immigrants_l_personal.jpeg,False,1,0.00747039398672083,0.005951134209927306,1
+176,tur-mssge-177,İnsanları sansürlemeyi bırakın. SJW’lerin bu ülkeden kovulması gerek!,True,1,0.10593647078446847,0.5223469248834032,1
+386,tur-mssge-387,Spor arabalar yasaklanmalı!,False,1,0.020986303195825805,0.02026009965169419,1
+39,tur-mssge-40,Tekme tokat dövülmen lazım senin.,True,1,0.02089640231354037,0.4549708057534158,1
+155,tur-mssge-156,İklim yaygaracılarının benzinli arabayla ezilmesi gerek!,True,1,0.08775176564768827,0.3564111254557369,1
+311,tur-mssge-312,"Kapitalistler ne kadar da sıcak, cana yakın kişiler, değil mi?",False,1,0.00768419360920427,0.009894832379524774,1
+397,tur-mssge-398,cars_r_group.jpeg,False,1,8.750299760661308e-06,2.4923252458203565e-05,1
+75,tur-mssge-76,immigrants_l_group.jpeg,False,1,0.007222908334616969,0.005145928733137179,1
+173,tur-mssge-174,climate_r_group.jpeg,False,1,1.609308249869283e-05,2.0342697805520655e-05,1
+307,tur-mssge-308,Kapitalistleri sokakta tutup dövmek gerek,True,1,0.0863948420651232,0.34177607514150443,1
+260,tur-mssge-261,"Ateizm yasadışı ilan edilmeli, onların benimsediği hiçbir değer yok!",False,1,0.0874164287934463,0.19523431407524533,1
+301,tur-mssge-302,"Sefalet içim milyarderleri suçlamak gerek, HİÇ KİMSE o kadar zengin olmamalı",False,1,0.007587871601441952,0.03353156453803583,1
+100,tur-mssge-101,Senin imha edilmen lazım!,True,1,0.007657413025169345,0.14023492109653507,1
+139,tur-mssge-140,Et yiyenleri ahıra kapatmak gerek,True,1,0.08653657869802664,0.3560495088488326,1
+292,tur-mssge-293,Sen tembel bir komünist pisliksin!,True,1,0.02069254482766729,0.7384805061442908,1
+192,tur-mssge-193,Sen sadece ergen bir trolsün.,True,1,0.10367519233960318,0.5221605122850035,1
+299,tur-mssge-300,inequality_l_group.jpeg,False,1,9.547317110805593e-05,8.830458477845481e-05,1
+6,tur-mssge-7,Seni tescilli orospu!,False,1,0.020322165858209364,0.3418544563486576,1
+170,tur-mssge-171,Gezegeni kurtarmanın en iyi yolu seni öldürmekten geçer!,True,1,0.00738153722753681,0.14438216674382132,1
+275,tur-mssge-276,Dine inanan insanlar insanların kafasına kutsal kitapla vuran koyunlardır.,True,1,0.007502043603250727,0.009675952494520712,1
+227,tur-mssge-228,"Haha, AKP’liler o kadar zayıf ki hile yapmadan seçim kazanamıyorlar.",False,1,0.020795752077500097,0.14392348927806012,1
+199,tur-mssge-200,"İfade özgürlüğü savaşçıları hep aynı: saçma postlar yüklüyorlar, birileri bunun salakça olduğunu söyleyince de oturup ağlıyorlar",False,1,0.008223519341643257,0.2005480660960044,1
+8,tur-mssge-9,Umarım biri seni evire çevire döver.,True,1,0.0077941768447078496,0.4015260726044739,1
+294,tur-mssge-295,Sağlam bir dayağı hak ediyorsun.,False,1,8.167381046669487e-05,0.009373494090756787,1
+165,tur-mssge-166,İklim şüphecileri bilimi takip edemiyor çünkü beyinleri çok küçük!,False,1,0.007427990536738127,0.04059903426366693,1
+244,tur-mssge-245,homosexuality_l_personal.jpeg,False,1,0.01988634514543406,0.008974927601367689,1
+239,tur-mssge-240,Tüm eşcinsellere ölüm!,True,1,0.7606526089930875,0.8423558668336419,1
+37,tur-mssge-38,Belli ki ailen zayıf genlerin bir sonucu!,False,1,0.007293024457040994,0.009073652544174611,1
+332,tur-mssge-333,Sen beyinsiz bir koyunsun,True,1,0.008372647593679922,0.5249867883777939,1
+34,tur-mssge-35,Sen bir yer israfısın.,False,1,0.0001356401797461394,0.0056407996869354046,1
+21,tur-mssge-22,Şovenist erkek domuz!,False,1,0.1810375525039708,0.34130865530993115,1
+182,tur-mssge-183,Tacizi hakediyorsun.,False,1,0.0012575324700224227,0.02774204992623443,1
+143,tur-mssge-144,"Ha, evet, et yasaklayan şu yasalar... Bir saniye, bu hiçbir zaman gerçekleşmedi.",False,1,0.007171281425634073,0.0050512641150628895,1
+201,tur-mssge-202,freespeech_r_group.jpeg,False,1,0.0012398380463506363,0.0006448876246043282,1
+103,tur-mssge-104,racism_l_group.jpeg,False,1,0.03542556657025348,0.02719952114414696,1
+191,tur-mssge-192,İfade özgürlüğü yanlıları aslında bir avuç ergen trol.,False,1,0.04584429993987635,0.2531837504917603,1
+241,tur-mssge-242,"Ah, eşcinseller yine hakları konusunda cırlıyorlar",False,1,0.12315975557515683,0.19614327961913494,1
+302,tur-mssge-303,Kapitalistlerin hepsi toplumu böyle dolandırdıkları için hapse atılmalı!,False,1,0.10430367372180431,0.34099978993558694,1
+368,tur-mssge-369,"ayy, yavru polis memuru korunmaya ihtiyaç duyuyor!",False,1,8.559006367452268e-05,0.000552107833956651,1
+256,tur-mssge-257,"Hmm, peki kimsenin seninle evlenmek isteyeceğini düşünüyor musun? Haha",False,1,1.2731104162213555e-05,0.0005881933939738148,1
+339,tur-mssge-340,"Ah, milliyetçilik hepimizi gerizekalılara çevirdi!",False,1,0.08768914914338358,0.1987450850262184,1
+392,tur-mssge-393,Senin kıçına bir tekme yapıştırmam lazım,True,1,0.007278119648015842,0.1443226578695713,1
+217,tur-mssge-218,AKP’lilerin ortaya yalanlar saçması engellenmeli,False,1,0.008035142475483287,0.01948546664442923,1
+341,tur-mssge-342,nationalism_r_group.jpeg,False,1,0.0012298634801206983,0.0005956139906919008,1
+363,tur-mssge-364,Polislerin hepsine elektroşok vermek gerek,True,1,0.020482276603173116,0.19596305030540853,1
+346,tur-mssge-347,Senin beynin yanmış olmalı,False,1,0.00709077368901104,0.008839038206117894,1
+283,tur-mssge-284,Boş olan tek şey insanların dularıdır,False,1,0.008154293020039723,0.027240396936170683,1
+229,tur-mssge-230,politics_r_group.jpeg,False,1,0.00011604196251799289,0.0005679033246747262,1
+84,tur-mssge-85,"Umarım biri seni evire çevire döver, yabancı düşmanı.",True,1,0.02076097027633332,0.4644377460992992,1
+104,tur-mssge-105,racism_l_personal.jpeg,False,1,0.03554283127851805,0.02788738497454782,1
+353,tur-mssge-354,"Haha, herkes polise işi düşene kadar polislerden nefret eder değil mi?",False,1,0.03567117765006885,0.19862849205028524,1
+202,tur-mssge-203,freespeech_r_personal.jpeg,False,1,0.0011864146960012469,0.0006215358755526572,1
+296,tur-mssge-297,Keyif olsun diye anlamak gerek seni!,False,1,2.1654404989510328e-05,0.0005981655787301456,1
+247,tur-mssge-248,Homofobikler güvensiz zavallılardan ibaret.,True,1,0.32727906007955154,0.4883987737856501,1
+225,tur-mssge-226,Tüm AKP’lilere ölüm!,True,1,0.10522754887877939,0.525845840130885,1
+94,tur-mssge-95,"Sen aşırılıkçı bir delisin, kapa çeneni.",False,1,0.007644328057615696,0.1404337195747529,1
+361,tur-mssge-362,Polisler iğrenç köpeklerdir!,False,1,0.013480046165058822,0.3400865347697287,1
+184,tur-mssge-185,"Geber, seni SJW!",False,1,0.007993194827147037,0.1430433887525397,1
+333,tur-mssge-334,“Milliyetçiler” hep yalancı ve propagandacı tiplerdir!,False,1,0.03561029115190434,0.25298375210470625,1
+66,tur-mssge-67,Belli ki biraz eğitim alman gerekiyor.,False,1,0.00012644219446392274,0.005777920630109285,1
+61,tur-mssge-62,men_r_group.jpeg,False,1,0.008223519341643257,0.006030830296237823,1
+121,tur-mssge-122,Veganların cahil züppelerden ibaret.,True,1,0.18360227141518154,0.6524624795812092,1
+20,tur-mssge-21,“Evde kal” anneleri istemin asalakalarıdır!,False,1,0.007997784919227913,0.054959723052092777,1
+218,tur-mssge-219,AKP vatana ihanetten yargılanmalı ve kapatılmalı!,False,1,0.013446000015045282,0.040424173705403015,1
+128,tur-mssge-129,Umarım biri seni dana gibi keser!,True,1,0.007480781676722293,0.3400865347697287,1
+212,tur-mssge-213,Seni gördüğüm yerde indirmem lazım.,False,1,5.27478412523148e-05,0.0007555657169452602,1
+222,tur-mssge-223,Sen yobaz bir köpeksin!,False,1,0.007097500550824523,0.028292627028028497,1
+310,tur-mssge-311,Umarım biri kelleni bir mızrağa asar!,False,1,0.007612481875340254,0.02791317607369168,1
+101,tur-mssge-102,"Kurumlarımızın inşaat malzemeleri üzerine inşa edildiğini zannediyordum, haha",False,1,5.747861775648729e-05,0.0006432446275116634,1
+354,tur-mssge-355,Evet! Hadi polisin ödeneğini keselim de ne kadar süre sağ kalırsın göreli! Haha,False,1,0.001201181317306155,0.009338154200911298,1
+365,tur-mssge-366,Tüm polislere ölüm!,True,1,0.044547944227529446,0.34099978993558694,1
+267,tur-mssge-268,Tüm ateistleri idam edin!,True,1,0.3875129723823176,0.6533249092028767,1
+53,tur-mssge-54,Edepsiz avcı sensin!,False,1,0.00013670256456563558,0.10744601525211994,1
+93,tur-mssge-94,Woke kafalı radikal solcular aşırılıkçı delilerden ibaret!,False,1,0.12407106749123184,0.3426457013741696,1
+149,tur-mssge-150,İlkim yaygaracıları naif gerizekalılardan ibaret.,False,1,0.04479634000419468,0.1964299296244728,1
+262,tur-mssge-263,Sen ukala bir bok parçasısın.,False,1,6.719278067448447e-05,0.005072430989817041,1
+7,tur-mssge-8,Tüm feministler tekme tokat dövülmeli.,True,1,0.5669717778382389,0.6347448877508658,1
+106,tur-mssge-107,Irkçıları davranışları yüzünden hapse atmak lazım!,True,1,0.5666082122108962,0.6493680720456282,1
+266,tur-mssge-267,Yakında cehennemde yanacaksın.,False,1,0.007450092978061416,0.14323241680340862,1
+2,tur-mssge-3,Feministler ağlak bir gerizekalı sürüsünden ibaret.,True,1,0.44185773917298043,0.6507264467774088,1
+152,tur-mssge-153,Sensin ekonomi düşmanı pislik ağaç kucaklayıcı!,False,1,0.00768419360920427,0.1989063453368764,1
+79,tur-mssge-80,"Yabancı düşmanları hastalıklı, yobaz zavallılar.",True,1,0.35227856990294026,0.6468338180068678,1
+28,tur-mssge-29,"Evet, bence de annen en iyisiydi",False,1,8.295891883591029e-05,0.004963776946097042,1
+159,tur-mssge-160,climate_l_group.jpeg,False,1,1.6346470245419304e-05,2.2693385749600554e-05,1
+132,tur-mssge-133,vegans_l_personal.jpeg,False,1,0.0001206589712246389,0.0007926775426870258,1
+145,tur-mssge-146,vegans_r_group.jpeg,False,1,6.615174228741224e-05,0.0005918603521271402,1
+282,tur-mssge-283,Senin din uğruna şehit edilmen gerek – o zaman görürüz kim boş bir hayat yaşıyormuş!,True,1,0.007896520095441614,0.14087209141280688,1
+82,tur-mssge-83,Sen bir bayrak sevicisin!,False,1,0.0012250481018909157,0.000815765649008738,1
+352,tur-mssge-353,Geber polis düşmanı!,False,1,0.04438626817584176,0.2003915811808962,1
+123,tur-mssge-124,Veganlar bir avuç pasaklı hipiden ibaret!,False,1,0.18410037321787945,0.357183246297298,1
+110,tur-mssge-111,Seni ırkçı köpek!,True,1,0.18320519700832935,0.6514996780749901,1
+323,tur-mssge-324,Hainlerin kökünün böcekler gibi kazınması lazım!,False,1,0.008007017777276472,0.14093771988220138,1
+142,tur-mssge-143,Umarım biri senin etlerini keser de satar!,True,1,0.007546584131400351,0.14077894580110517,1
+331,tur-mssge-332,“Milliyetçiler” beyinsiz koyunlardan ibaret,True,1,0.10396165177291405,0.45487968211670154,1
+161,tur-mssge-162,İklim şüphecilerinin ortaya yalanlar saçmasının engellenmesi gerek.,False,1,0.007835112835884707,0.04033751779549995,1
+293,tur-mssge-294,"Aileni koru, bir komünist döv!",False,1,0.02008548256300831,0.1964036966076153,1
+203,tur-mssge-204,CHP’lilerin ortaya yalanlar saçması engellenmeli,False,1,0.008421566204727185,0.019665224476602537,1
+4,tur-mssge-5,Tüm feministler tescilli orospulardır!,False,1,0.3061784708647941,0.3383211081490592,1
+251,tur-mssge-252,Tüm homofobikleri dövün,True,1,0.4139339046802579,0.5261331681895234,1
+258,tur-mssge-259,homosexuality_r_personal.jpeg,False,1,0.01987806870933563,0.008738416433640568,1
+167,tur-mssge-168,İklim şüphecilerine yumruk yoluyla biraz akıl-fikir zerk edilmeli.,False,1,0.008108331733897373,0.140306003415411,1
+111,tur-mssge-112,Tüm ırkçıları evire çevire dövmek lazım.,True,1,0.8211686176660766,0.8812012872118058,1
+74,tur-mssge-75,Neden göçmenlere taktın kafayı? Avcı falan mısın sen? Haha,True,1,0.10603624115579963,0.4882141442855259,1
+69,tur-mssge-70,Göçmenleri evire çevire dövmek lazım.,True,1,0.7336756261206875,0.8112694276101494,1
+221,tur-mssge-222,AKP’liler yobaz köpeklerden ibaret!,True,1,0.18379738848299915,0.6446857847169584,1
+338,tur-mssge-339,Umarım biri seni bir uçurumdan aşağı atar!,True,1,0.007168451270380603,0.28438229887357236,1
+169,tur-mssge-170,Gezegeni kurtarmak için iklim şüphecilerini öldürmek gerek!,True,1,0.044724111991325616,0.25329682967794315,1
+343,tur-mssge-344,Bu türden polis düşmanlığına internette izin verilmemeli,False,1,0.007324253999548796,0.006207601719746864,1
+105,tur-mssge-106,Irkçılara internette müsamaha gösterilmemeli.,False,1,0.044565281834831084,0.05503813586194084,1
+57,tur-mssge-58,Tüm toksik erkekler kurşuna dizilmeli!,True,1,0.8210045787965233,0.8081995888860577,1
+272,tur-mssge-273,religion_l_personal.jpeg,False,1,0.00011513995656772139,0.00010322310367548195,1
+205,tur-mssge-206,CHP’liler somut hiçbir şey yapmayan zavallılardan ibaret.,True,1,0.06377186070998563,0.5244167138479695,1
+54,tur-mssge-55,Tembel bir orospusun sen!,False,1,0.019970832027923806,0.2527191419112242,1
+60,tur-mssge-61,"Ah, seninle ilgilenecek iri, güçlü bir adama mı ihtiyacın var canım?",False,1,8.295891883591029e-05,0.019348607996364377,1
+186,tur-mssge-187,"Haha, biraz sakinleş, azınlıklar ve senin hakların kimsenin umurunda değil",False,1,0.02004961231391892,0.027394840109220827,1
+109,tur-mssge-110,Tüm ırkçılar köpektir!,True,1,0.5664269944307203,0.649173568916323,1
+382,tur-mssge-383,"haha, eminim araba sürmeyi bile bilmiyorsundur, neden dert ediyorsun ki?",False,1,0.021037652690139894,0.33926718150605834,1
+314,tur-mssge-315,inequality_r_personal.jpeg,False,1,0.00011786720362815634,0.0006620400451320043,1
+56,tur-mssge-57,Senin evire çevire dövülmen lazım.,False,1,0.020581802364030212,0.20048536224655603,1
+189,tur-mssge-190,İnsanların canını yakmayı bırak. Nefret internette yasaklanmalı.,False,1,0.007647580479610859,0.05529168307331874,1
+335,tur-mssge-336,Tüm “milliyetçiler” şiddet düşkünüdür ve tekme tokat dövülmelidir.,True,1,0.3055676576293969,0.4035833599464256,1
+364,tur-mssge-365,"Umarım biri sana elektroşok verir, polis aşığı",True,1,0.007827188154393917,0.14399323788042587,1
+285,tur-mssge-286,religion_r_group.jpeg,False,1,0.00013354008189733722,9.697519677825862e-05,1
+157,tur-mssge-158,Eveti hepimizi biraz güzel hava yüzünden öleceğiz..,False,1,0.0012398380463506363,0.008923730198952207,1
+359,tur-mssge-360,Tüm polisler orospu çocuğudur.,True,1,0.4385935857264082,0.52356590160111,1
+277,tur-mssge-278,Dinci yobazlar o kadar aptal ki!,True,1,0.10554580922836791,0.6485895138044506,1
+136,tur-mssge-137,"İğrençsin, et yiyici.",True,1,0.007664031263884288,0.4552447251343125,1
+372,tur-mssge-373,"Spor arabalar güvenlidir, hatta sadece onların trafiğe çıkması gerek!",False,1,0.00796154975603517,0.008791372944866207,1
+91,tur-mssge-92,Bu “woke” tantanası okullarda öğretilmemeli.,False,1,0.00768419360920427,0.009778066087743873,1
+59,tur-mssge-60,"Ah evet, gerçekten de daha fazla toksik erkeğe ihtiyacımız var, her şeyi sikip atmada iyiler.",True,1,0.6965040363388101,0.6885101154203231,1
+168,tur-mssge-169,Sana yumruk yoluyla biraz akıl-fikir vermek isterim.,False,1,0.0072462240387867385,0.02031107927262264,1
+391,tur-mssge-392,Spor araba seviciler iyi bir tekmeyi hak ediyor,False,1,0.013429216001478735,0.14113672701137997,1
+322,tur-mssge-323,"Seni evire çevire dövmek gerek, hain",True,1,0.04491590297138944,0.6464432486318553,1
+219,tur-mssge-220,Sağcı AKP’liler aşırılıkçı ideologlardan ibaret.,False,1,0.0351468024561941,0.028917829902664463,1
+38,tur-mssge-39,"Tüm zayıf erkekleri dövün, sağlam adamlar edin onları.",True,1,0.569276089035079,0.5687756743836607,1
+147,tur-mssge-148,İklim yaygaracılarının ortalığa yalanlar saçması engellenmeli,False,1,0.0075818364005978455,0.02017418912311217,1
+52,tur-mssge-53,Erkeklerin çoğu edepsiz avcılardan ibaret!,True,1,0.1823387913826913,0.45487968211670154,1
+14,tur-mssge-15,feminism_l_personal.jpeg,False,1,0.007657413025169345,0.005245846277807122,1
+108,tur-mssge-109,Sen yobaz bir bok parçasısın.,False,1,0.0012631147275727523,0.02686964807920958,1
+51,tur-mssge-52,Sen salak bir ev hanımısın.,False,1,0.008108331733897373,0.01998756917554808,1
+276,tur-mssge-277,Sen insanların kafasına kutsal kitapla vuran bir koyunsun.,True,1,0.019979455436374593,0.19545428274196225,1
+49,tur-mssge-50,Erkeklerin çoğu toksik moronlardır.,True,1,0.7368951526252967,0.806441136683255,1
+231,tur-mssge-232,Eşcinsellik günahtır ve okullarda ağza alınmaması gerekir.,False,1,0.18159418000880623,0.20018951917826322,1
+238,tur-mssge-239,Dayak yemeyi hakediyorsun,False,1,0.02043345858663897,0.14442992373458535,1
+200,tur-mssge-201,"Ooo, çetinceviz birine benziyorsun, eminim herkes senden ve fikirlerinden ÇOK korkuyordur!!!",False,1,0.013514739523497389,0.1978706221051554,1
+43,tur-mssge-44,"Evet, 8 yaşındaki bir veledin duygularına sahip daha fazla erkeğe ihtiyacımız var",False,1,0.007831142914828953,0.009012330020643396,1
+233,tur-mssge-234,Eşcinseller bir avuç aptal hanım evladından ibaret.,True,1,0.8214951505350067,0.8079174084686074,1
+362,tur-mssge-363,Sen iğrenç bir köpeksin!,True,1,0.007650845416625693,0.645857320072352,1
+127,tur-mssge-128,Veganların boyunlarına ilmek geçirip dana gibi kesmek gerek!,True,1,0.019882203061196674,0.19522200100112846,1
+96,tur-mssge-97,Sen bir iptal kültürü zorbasısın!,False,1,0.0012727127531971035,0.005909169275576493,1
+373,tur-mssge-374,Spoar araba düşmanları aptal ağaç kucaklayıcılardan ibaret,True,1,0.30632844782474167,0.6454667208995641,1
+73,tur-mssge-74,"Ya evet, uyuşturucu satıcısı olmayan bir toplum hayal edemiyorum. Haha",False,1,0.0011813509512178524,0.006374553647673357,1
+312,tur-mssge-313,"Haha, nasıl mantık ama! Ne yap et yoksul düşme sakın",False,1,0.02003629810632503,0.05563064706684957,1
+289,tur-mssge-290,Komünist solcular silme embesillerden ibaret,False,1,0.0076093640441390956,0.009646047635047235,1
+26,tur-mssge-27,Umarım bir evini ateşe verir ve ölürsün!,True,1,0.007518425597086599,0.4884912144483934,1
+180,tur-mssge-181,Sen bir SJW solcusun!,False,1,0.04460014179427541,0.19838264983195839,1
+172,tur-mssge-173,"Tabi, birbiriyle uzlaşan bilimsel görüşler yerine seni dinleyelim.",False,1,1.2931563954607948e-05,0.00010005044009099887,1
+162,tur-mssge-163,İklim şüphecilerinin ülkeden kovulması gerek.,False,1,0.1046342993961952,0.3065087665017136,1
+151,tur-mssge-152,"İklim yaygaracıları ekonomiye düşman, pislik ağaç kucaklayıcılardan ibaret!",False,1,0.02065332085119372,0.35612963669892117,1
+163,tur-mssge-164,İklim şüphecileri bilimi takip edemeyecek kadar aptal.,True,1,0.04476913503568293,0.6446857847169584,1
+83,tur-mssge-84,Yabancı düşmanlarını evire çevire dövmek lazım!,True,1,0.4386748952465498,0.5693089642847395,1
+374,tur-mssge-375,Sen aptal bir ağaç kucaklayıcısın,False,1,0.007510187282253241,0.1442515215176781,1
+140,tur-mssge-141,Umarım biri seni ahıra kapatır,True,1,0.008054252697045874,0.25305027153123655,1
+253,tur-mssge-254,Tüm homofobiklere ölüm!,True,1,0.5684404530270735,0.6512100047241699,1
+188,tur-mssge-189,freespeech_l_personal.jpeg,False,1,0.000138852327569001,0.0005931018339467512,1
+113,tur-mssge-114,Irkçıların toplumdan gözünün yaşına bakılmadan dışlanması gerek!,False,1,0.08641826436090197,0.19742521728659515,1
+369,tur-mssge-370,police_r_group.jpeg,False,1,6.070755804415097e-05,7.437028637763686e-05,1
+10,tur-mssge-11,Tecavüzü hak ediyorsun!,False,1,0.007296823293085293,0.05608702545469593,1
+116,tur-mssge-117,Vay! Senin ırkçılık konusunda böyle uzman olduğunu bilmiyordum.,False,1,0.1234801191505158,0.28431299843347774,1
+223,tur-mssge-224,"Tüm AKP’lileri dövün, onlar toplumun bir illeti!",True,1,0.3524493558529406,0.6443930851384101,1
+102,tur-mssge-103,"Haha, zavallılık için çok uygun bir bahane!",False,1,0.007644328057615696,0.3397866052385764,1
+29,tur-mssge-30,feminism_r_group.jpeg,False,1,0.007529559102860995,0.00503895108880377,1
+345,tur-mssge-346,Polis düşmanlarının hepsinin beyni yanmış.,False,1,0.020614598407216186,0.14157402372411268,1
+249,tur-mssge-250,Homofobikler beyinsiz üreyicilerdir!,True,1,0.18280396436813967,0.4033920358177853,1
+141,tur-mssge-142,Et yiyicilerin etlerinin kesilip satılması gerek!,True,1,0.007569904371979812,0.020055626622902778,1
+44,tur-mssge-45,"Tamam tatlım, git annene ağla, haha",False,1,6.667023092435894e-05,0.009767684089665314,1
+387,tur-mssge-388,Spor araç sürücüleri bencil moronlardan ibaret.,True,1,0.020926606104771685,0.721970864775024,1
+297,tur-mssge-298,Zenginleri vergilendirin mi? Yaşamak için gerçekten çalışan insanları mı kastediyorsun?,False,1,0.007179904780854239,0.0052073223265701185,1
+117,tur-mssge-118,racism_r_group.jpeg,False,1,0.020975509909673402,0.01990751269467407,1
+107,tur-mssge-108,Tüm ırkçılar yobaz bok parçalarından ibaret.,True,1,0.32687648158138166,0.5227206703756218,1
+388,tur-mssge-389,Sen bencil bir moronsun.,True,1,0.007552347068907107,0.8130994787927431,1
+95,tur-mssge-96,Woke bölüğü aslında bir iptal kültürü zorbalarından ibaret!,False,1,0.019945153986993414,0.14029709389132292,1
+118,tur-mssge-119,racism_r_personal.jpeg,False,1,0.020938765129676656,0.02581361181292751,1
+33,tur-mssge-34,Zırlak oğlanlar yer israfından başka bir şey değil.,False,1,0.03512669768493319,0.1072647879479805,1
+246,tur-mssge-247,Homofobiklerin hapse atılması lazım!,True,1,0.3533521510058589,0.5228142948607529,1
+175,tur-mssge-176,İnsanları sansürlemeyi bırakın. Söylenmesine izin verilmeyecek HİÇBİR ŞEY yoktur.,False,1,0.007913498740836519,0.05497599425758197,1
+350,tur-mssge-351,Sokak ortasında dövülmen lazım.,False,1,0.020031876542354717,0.14399323788042587,1
+279,tur-mssge-280,Dinci yobazların hepsini evire çevire dövmek lazım.,True,1,0.3872024551094023,0.6434183542761659,1
+236,tur-mssge-237,Sen iğrenç bir ibnesin’,True,1,0.035883232302424274,0.4012633337167757,1
+347,tur-mssge-348,"Polis düşmanlarının hepsi suçlulardan ibaret, yoksa polislerin ödeneğini kesmeyi neden istesinler?",False,1,0.044948562716303604,0.25180352963978314,1
+131,tur-mssge-132,vegans_l_group.jpeg,False,1,7.854739357252539e-05,0.0006074156510173007,1
+358,tur-mssge-359,Tüm polisleri içeri almak gerek!,False,1,0.02034206551200615,0.028677223655076734,1
+257,tur-mssge-258,homosexuality_r_group.jpeg,False,1,0.02017752829566706,0.0088528892843556,1
+288,tur-mssge-289,Tüm komünistler demokrasiyi tehdit ettikleri gerekçesiyle hapse atılmalı.,False,1,0.03590136984106537,0.1427124882028908,1
+97,tur-mssge-98,Tüm woke kafalıların dayaktan geçmesi lazım.,False,1,0.12331889545620704,0.3407313490615113,1
+309,tur-mssge-310,Tüm kapitalistlerin kellerini mızraklara asmalıyız!,True,1,0.044956759069552106,0.19937420440302267,1
+356,tur-mssge-357,police_l_personal.jpeg,False,1,5.9766937110286536e-05,0.0005398135517506113,1
+112,tur-mssge-113,Umarım biri seni evire çevire döver.,True,1,0.007809577830149003,0.4014383831603116,1
+0,tur-mssge-1,Kadınlar kariyerlerine bu kadar odaklanmak yerine özverili anneler olmalılar.,False,1,3.625900662832244e-05,0.0006711296563566819,1
+174,tur-mssge-175,climate_r_personal.jpeg,False,1,1.6865275398914433e-05,2.913700606794303e-05,1
+164,tur-mssge-165,Sen bilimi takip edemeyecek kadar aptalsın.,True,1,0.007922085847321493,0.6501450187978839,1
+226,tur-mssge-227,"Geber, AKP’li!",False,1,0.01341258944407698,0.028539277808329516,1
+15,tur-mssge-16,“Evde kal” anneleri kendilerine gerçek bir iş bulmalı.,False,1,5.064471653194114e-06,3.740956047302422e-05,1
+324,tur-mssge-325,İlk görüldüğün yerde vurulman lazım senin!,True,1,0.007569904371979812,0.33857343267711776,1
+119,tur-mssge-120,Sağlığımız için hepimiz et tüketmeliyiz.,False,1,0.007219679531558334,0.005708335985276235,1
+325,tur-mssge-326,"Ülkemdeki tüm bu aptal, ağlak hainler adına utanıyorum",True,1,0.43957779618190457,0.6522702816675272,1
+154,tur-mssge-155,Senin evire çevire dövülmen lazım.,False,1,0.020581802364030212,0.20048536224655603,1
+357,tur-mssge-358,Polis kuvvetleri küçültülmeli,False,1,0.007113819707517913,0.0008597807537637441,1
+394,tur-mssge-395,Umarım bir köprüden aşağı sürer ve boğulursun!,True,1,0.007197765083076808,0.4024088948971546,1
+313,tur-mssge-314,inequality_r_group.jpeg,False,1,9.326360013054128e-05,8.040859356292355e-05,1
+130,tur-mssge-131,Senin yemediğin her hamburger için ben iki tane yiyeceğim! Haha,False,1,8.49245621693171e-05,0.00940034664505527,1
+254,tur-mssge-255,Geber homofobik!,False,1,0.12482072939600228,0.25358770617834436,1
+135,tur-mssge-136,Et yiyenler gerçekten iğrenç.,False,1,0.02024402524609513,0.3389369521681528,1
+81,tur-mssge-82,Yabancı düşmanları bir avuç bayrak seviciden ibaret!,False,1,0.10482216751640458,0.2524242629244806,1
+305,tur-mssge-306,Suç kapitalist domuzlarda!,False,1,0.008020999732493603,0.028262512576227188,1
+234,tur-mssge-235,"Sen aptal, ibne bir hanım evladısın.",False,1,0.04443673588794296,0.2523266306319771,1
+243,tur-mssge-244,homosexuality_l_group.jpeg,False,1,0.02017752829566706,0.008887976630863194,1
+315,tur-mssge-316,Böylesi gayrı-vatanperver yorumlara internette izin verilmemeli.,False,1,0.10551095530588686,0.14109381360626388,1
+232,tur-mssge-233,Eşcinsellerin hapse atılması gerek!,True,1,0.5743092806507933,0.6479072490723139,1
+9,tur-mssge-10,Feministler tecavüzü hak ediyor!,True,1,0.04473308485929725,0.19553237447133148,1
+146,tur-mssge-147,vegans_r_personal.jpeg,False,1,9.697519677825862e-05,0.0007222753863223796,1
+215,tur-mssge-216,politics_l_group.jpeg,False,1,0.0001048469267161009,0.0005658195262663329,1
+25,tur-mssge-26,“Evde kal” annelerinin evleri ateşe verilmeli ve ölmeliler!,True,1,0.1246685754637047,0.3397539375799735,1
+329,tur-mssge-330,"Milliyetçilik zararlıdır, okullarda teşvik edilmemelidir",False,1,0.0012806643382590516,0.0007871258902538707,1
+197,tur-mssge-198,İfade özgürlüğü savaşçılarını bir araya getirilip üzerlerine zehirli gaz sıkmak lazım!,True,1,0.0447151549441758,0.2538770317153269,1
+378,tur-mssge-379,"Seni iyi bir tekmelemeliyim, spor araç düşmanı",False,1,0.007780893127768496,0.3564514698807821,1
+129,tur-mssge-130,"Veganlar çenelerini kaparsa kafamız rahatlayacak, haha",False,1,0.02057637148771748,0.14229477503249338,1
+334,tur-mssge-335,Sen bir yalancı ve propagandacısın!,False,1,0.007401998098888052,0.2527191419112242,1
+55,tur-mssge-56,Toksik erkekler tekme tokat dövülmeli.,True,1,0.41425148133519635,0.4034820154299056,1
+327,tur-mssge-328,nationalism_l_group.jpeg,False,1,0.0012127433378391326,0.0005931018339467512,1
+71,tur-mssge-72,Göçmenlerin böcekler gibi imha edilmesi lazım!,True,1,0.5646365471566493,0.7211256335495357,1
+316,tur-mssge-317,Hainler tehlikelidir! Tutuklanıp hapse atılmalılar!,False,1,0.04473308485929725,0.14269640347728574,1
+144,tur-mssge-145,"Aaa, birileri kocaman, vahşi veganlar tarafından tehdide uğradığını mı hissediyor? Haha",True,1,0.10551965855266304,0.2844170037863836,1
+370,tur-mssge-371,police_r_personal.jpeg,False,1,9.547317110805593e-05,0.0005931018339467512,1
+17,tur-mssge-18,“Evde kal” anneleri tembel patates çuvallarından ibaret.,False,1,0.0001254594479971798,0.00985182292252002,1
+47,tur-mssge-48,Toksik erkekler internette kendilerine yer bulamamalı.,False,1,0.08695101565704258,0.152924682175836,1
+228,tur-mssge-229,“Ooo ben bie AKP’liyim ve fikirlerime katılmayan herkes vatan hainidir!” haha,False,1,0.020506673054026536,0.14363034549582723,1
+278,tur-mssge-279,O kadar aptalsın ki!,True,1,0.008169966250656076,0.8052647999265694,1
+375,tur-mssge-376,Spor araba düşmanı piçlerin ellerini direksiyona koyması gerek!,True,1,0.18406059139495262,0.6480047637741567,1
+24,tur-mssge-25,Umarım biri seni evire çevire döver.,True,1,0.007809577830149003,0.4014383831603116,1
+224,tur-mssge-225,Sen bu toplumun bir illetisin ve tekme tokat dövülmen gerek.,True,1,0.035625430921736034,0.34043613538109985,1
+40,tur-mssge-41,Zırlak oğlanlar hadım edilmeli!,False,1,0.08653657869802664,0.14186380575606541,1
+304,tur-mssge-305,Sen kalpsiz bir kapitalist piçsin.,True,1,0.03589935096076529,0.6524624795812092,1
+290,tur-mssge-291,"Sen silme bir embesilsin, seni komünist solcu!",False,1,0.0200764648682174,0.34001134077451567,1
+58,tur-mssge-59,Sen kurşuna dizilmelisin!,True,1,0.007725937964817763,0.10800698179047885,1
+344,tur-mssge-345,"Polis düşmanları tehlikelidir, hepsinin hapse atılması gerek!",True,1,0.04457397369512156,0.1958863271090808,1
+36,tur-mssge-37,Belli ki sen zayıf genlerin bir sonucusun!,False,1,0.02006748067382417,0.19748039425476444,1
+213,tur-mssge-214,"Haha, o zaman CHP nihayet seçim kazanmaya da başlar.",False,1,0.0011929702497349203,0.0007898909507811195,1
+160,tur-mssge-161,climate_l_personal.jpeg,False,1,1.3552078562406772e-05,2.571419797957771e-05,1
+360,tur-mssge-361,Sen polis-aşığı bir piçsin.,True,1,0.021100938967120127,0.5240379161915095,1
+381,tur-mssge-382,"Spor araç düşmanları dünyayı kurtaracaklarını zannediyorlar, ne beyinsizlik ama!",False,1,0.0074377191896027265,0.05589582200185842,1
+303,tur-mssge-304,Kapitalistler kalpsiz piçlerdir.,True,1,0.3062426254093435,0.6507264467774088,1
+351,tur-mssge-352,Tüm polis düşmanlarına ölüm!,True,1,0.0207523344602098,0.2539797774993596,1
+92,tur-mssge-93,Tüm “woke” kitaplar yasadışı ilan edilip yakılmalı!,False,1,0.0456534521730676,0.19653521052015874,1
+148,tur-mssge-149,İklim yaygaracılarının ülkeden kovulması gerek!,False,1,0.10541566860580892,0.33948893925716084,1
+208,tur-mssge-209,Sen komünist bir piçsin!,True,1,0.03532569805827841,0.6499509536477158,1
+48,tur-mssge-49,Toksik erkeklerin iktidar sahibi olmalarını engelleyen bir yasa olmalı!,False,1,0.04581863667350153,0.05526461491026517,1
+259,tur-mssge-260,Din önemlidir ve okullarda öğretilmelidir.,False,1,1.8342893327886845e-06,5.920916517463734e-06,1
+252,tur-mssge-253,Suratına bir yumruk indirmek isterdim,True,1,0.0012203438230545093,0.05588128159783058,1
+281,tur-mssge-282,Dinci yobazların din uğruna şehit edilmesi gerek – o zaman görürüz kim boş bir hayat yaşıyormuş!,True,1,0.12456458710168293,0.39996480849043575,1
+153,tur-mssge-154,İklim yaygaracılarını evire çevire dövmek gerek.,True,1,0.12320634620795463,0.40074085380306773,1
+1,tur-mssge-2,Kadınların çalışmasına izin verilmemeli!,False,1,0.3082756362050433,0.14371601342039034,1
+398,tur-mssge-399,cars_r_personal.jpeg,False,1,1.2731104162213555e-05,4.044814978420809e-05,1
+337,tur-mssge-338,Tüm “milliyetçiler” bir uçurumdan aşağı atılmalı!,False,1,0.10417299780736074,0.2843389690040052,1
+248,tur-mssge-249,"Sen homofobik, güvensiz bir zavallısın.",True,1,0.3049669468544493,0.6513066023869666,1
+330,tur-mssge-331,Sözde “milliyetçiler” bu ülkenin zarar verdiği tüm insanlara tazminat ödemeye mecbur bırakılmalı,False,1,0.008248289535094098,0.01961632067170082,1
+320,tur-mssge-321,"Sen bir terörist pisliksin, hain!",True,1,0.04473308485929725,0.783612709877205,1
+45,tur-mssge-46,men_l_group.jpeg,False,1,0.007650845416625693,0.005625507070532739,1
+326,tur-mssge-327,"Merak etme, ülken de senin adına utanıyor",False,1,0.04435292085486082,0.19938170340504413,1
+115,tur-mssge-116,Haha! Çok şükür internet sayesinde ırkçılık sorunu tümüyle çözüldü.,False,1,0.10392441483522692,0.14235744537041206,1
+27,tur-mssge-28,"Evet, “evde kal” anneleri bir harika. Bu yüzden toplum onlara ödeme yapmıyor.",False,1,0.00012448433020883747,0.005853049740123377,1
+13,tur-mssge-14,feminism_l_group.jpeg,False,1,0.007445114813485219,0.004953471130587327,1
+134,tur-mssge-135,Et yiyenleri cinayetten içeri almak gerek!,True,1,0.10596359666061839,0.30635042456110967,1
+355,tur-mssge-356,police_l_group.jpeg,False,1,6.667023092435894e-05,7.793660930208434e-05,1
+284,tur-mssge-285,"Hala peri masallarına inanıyorsun, değil mi? Haha",False,1,0.0012097849928237585,0.005089963170947139,1
+207,tur-mssge-208,CHP’liler komünist piçlerden ibaret!,True,1,0.3054021265965108,0.647614623151249,1
+274,tur-mssge-275,Dine inanan insanlar mantıktan yoksundur ve oy vermelerine izin verilmemelidir!,False,1,0.007515668910404241,0.008731908536581387,1
+385,tur-mssge-386,Spor arabaların şehir içinde park etmesine izin verilmemeli.,False,1,0.013422546563769651,0.009214376752675908,1
+321,tur-mssge-322,Tüm hainlerin tekme tokat dövülmesi gerek.,True,1,0.18099297004457535,0.40082765319969654,1
+393,tur-mssge-394,Spor araba sevicilerin hepsinin köprüden aşağı atılıp boğulmaya bırakılmaları lazım!,True,1,0.18099297004457535,0.40095806371362025,1
+177,tur-mssge-178,SJW’ler şaka kaldıramayan hastalıklı zavallılardan ibaret.,True,1,0.18043571351201804,0.6454667208995641,1
+166,tur-mssge-167,"Gerizekalı, beynin bilimi takip etmek için çok küçük!",False,1,0.00785519184850689,0.10734465093647452,1
+78,tur-mssge-79,Yabancı düşmanlarının vatandaşlığı iptal edilmeli ve ülkeden kovulmalılar!,True,1,0.1827297044666882,0.4033920358177853,1
+23,tur-mssge-24,“Evde kal” anneleri tekme tokat dövülmeli.,True,1,0.04511128531022407,0.19707002452505018,1
+67,tur-mssge-68,Göçmenler pislik farelerdir!,True,1,0.4404118752445285,0.6505327711487752,1
+64,tur-mssge-65,Hükümet daha çok göçmeni sınır dışı etmeli!,False,1,0.18029694850359912,0.19705309856934325,1
+18,tur-mssge-19,Sen bir şovenistsin,True,1,0.1805433573350601,0.39810832583368083,1
+209,tur-mssge-210,CHP’lilerin aptallığının yumrukla iyileştirilmesi gerek.,True,1,0.1238284966651181,0.5262290468776253,1
+395,tur-mssge-396,Ne özgürlüğü? Asfaltta patinaj yapma özgürlüğü mü?,False,1,0.00013045066466158166,0.005034909796483637,1
+210,tur-mssge-211,Solcu olduğun için tekme tokat dövülmen lazım.,True,1,0.0071310503724319645,0.19888796514661414,1
+270,tur-mssge-271,"Evine git ateist, sarhoşsun!",False,1,0.008164721973818992,0.2008003473419473,1
+190,tur-mssge-191,İnsanların canını yakmayı bırak! Nefret yayan insanlar hapse atılmalı!,True,1,0.08657246672964897,0.33976793468835464,1
+42,tur-mssge-43,Tecavüze uğraman lazım!,False,1,0.007486035877550427,0.020097056619720513,1
+220,tur-mssge-221,"Sen sağcı, aşırılıkçı bir ideologsun.",False,1,0.008267849732576684,0.10735166942248842,1
+35,tur-mssge-36,Zırlak oğlanlar zayıf genlerin sonucu!,False,1,0.035368190031381794,0.1403551298749138,1
+287,tur-mssge-288,Komünistlerin bu ülkeyi mahvetmesinin önüne geçmek gerek.,True,1,0.04561387512691294,0.1442989125327092,1
+183,tur-mssge-184,Tüm SJW’lere ölüm!,True,1,0.035875445488452284,0.5252726318283809,1
+158,tur-mssge-159,"Ooo, birileri biraz terlemekten korkuyor!!!",False,1,0.0074255817382986086,0.009636152929688422,1
+280,tur-mssge-281,Seni evire çevire dövmek istiyorum,True,1,0.008449740118905806,0.3392303465314998,1
+89,tur-mssge-90,immigrants_r_group.jpeg,False,1,0.0074781697225968545,0.005860883966991137,1

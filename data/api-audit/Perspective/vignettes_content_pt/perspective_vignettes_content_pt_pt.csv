@@ -1,0 +1,437 @@
+,id,text,score,predicted_label,true_label
+258,bra-mssge-259,Morte a todos homossexuais!,0.9288007,1,1
+64,bra-mssge-65,O governo deveria deportar mais!,0.2854733,0,1
+352,bra-mssge-353,Todos os traidores deveriam levar porrada na cara.,0.7510937,1,1
+415,bra-mssge-416,Eu adoraria te atropelar com minha caminhonete!,0.70054704,1,1
+435,bra-mssge-436,cars_r_personal.jpeg,0.01426248,0,1
+307,bra-mssge-308,Você deveria ser crucificado - vamos ver quem leva uma vida vazia!,0.65430456,1,1
+299,bra-mssge-300,Você é um tapado devorador de Bíblia,0.5543018,1,1
+345,bra-mssge-346,Traidores são perigosos! Eles deveriam ser presos e jogados na cadeia!,0.5003284,1,1
+18,bra-mssge-19,Você é um babaca sexista,0.8629672,1,1
+217,bra-mssge-218,freespeech_r_group.jpeg,0.028856417,0,1
+400,bra-mssge-401,"kkkk, não eram todas as vidas que importavam?!",0.1587729,0,1
+116,bra-mssge-117,Você é uma porca racista!,0.8696708,1,1
+322,bra-mssge-323,Comunistas deveriam ser caçados como animais!,0.71760553,1,1
+254,bra-mssge-255,Homossexuais são bichas nojentas!,0.96069145,1,1
+96,bra-mssge-97,"Você é um extremista lunático, cale a boca",0.755201,1,1
+317,bra-mssge-318,"Você é uma completa imbecil, sua comunista esquerdista",0.9061063,1,1
+157,bra-mssge-158,Alarmistas climáticos deverim ser expulsos do país!,0.34328604,0,1
+74,bra-mssge-75,Por que você se importa tanto com imigrantes? É algum tipo de tarado por gringo? Kkk,0.6744087,1,1
+54,bra-mssge-55,Você é uma biscate preguiçosa!,0.67735565,1,1
+57,bra-mssge-58,Homens tóxicos merecem levar tiro!,0.6943677,1,1
+77,bra-mssge-78,immigrants_l_personal.jpeg,0.05280026,0,1
+12,bra-mssge-13,"Beleza, comece na minha cozinha e vemos como termina kkk",0.2648175,0,1
+47,bra-mssge-48,Homens tóxicos não deveriam ter espaço na internet,0.39644176,0,1
+265,bra-mssge-266,Homofóbicos deveriam ser presos!,0.36095104,0,1
+325,bra-mssge-326,"Ahh, a vida deve ser tão dura pra você! Toma aqui uns panfletos",0.24763705,0,1
+43,bra-mssge-44,"Ah sim, precisamos de mais homens com emoções de um pirralho de 8 anos kkk",0.39441586,0,1
+167,bra-mssge-168,Como eu queria te atropelar com minha caminhonete!,0.6611938,1,1
+121,bra-mssge-122,Você devia ser escorraçada da sociedade!,0.5678696,1,1
+316,bra-mssge-317,"Você é um completo imbecil, seu comunista esquerdista",0.9029226,1,1
+243,bra-mssge-244,Você é um perigo para a sociedade e deveria levar porrada na cara.,0.85333383,1,1
+131,bra-mssge-132,Veganos são um bando de hippongas sujos!,0.7701451,1,1
+295,bra-mssge-296,religion_l_personal.jpeg,0.02968135,0,1
+392,bra-mssge-393,Todos os policiais são filhos da puta.,0.911035,1,1
+293,bra-mssge-294,"Vai pra casa, sua atéia, você tá drogada!",0.75208336,1,1
+252,bra-mssge-253,Homossexuais são um bando de florzinhas estúpidas,0.83334327,1,1
+118,bra-mssge-119,Espero que alguém quebre sua cara.,0.7252971,1,1
+383,bra-mssge-384,Você merece apanhar na rua,0.5940531,1,1
+365,bra-mssge-366,"""Patriotas"" são mentirosos  e proselitistas!",0.62169385,1,1
+231,bra-mssge-232,"kkkk aham, aí quem sabe esses partidos de esquerda começam a ganhar alguma eleição",0.1269396,0,1
+296,bra-mssge-297,Religião machuca as pessoas e deveria ser proibida nas escolas.,0.3974717,0,1
+364,bra-mssge-365,Você é uma fanática idiota,0.85850734,1,1
+424,bra-mssge-425,Você é uma idiota egoísta,0.8685752,1,1
+28,bra-mssge-29,"Opa claro, sua mãe é ótima kkkk",0.37751234,0,1
+188,bra-mssge-189,Pare de censurar as pessoas! Esses militudos deveriam ser expulsos do país!,0.34135336,0,1
+201,bra-mssge-202,"kkkk se liga, ninguém liga para minorias e seus direitos",0.3625127,0,1
+49,bra-mssge-50,A maior parte dos homens são idiotas tóxicos,0.8299589,1,1
+36,bra-mssge-37,Você claramente veio de genes fracos!,0.5678696,1,1
+200,bra-mssge-201,Justiceiros sociais: lutando contra a injustiça com militância de sofá,0.056758508,0,1
+285,bra-mssge-286,Você é um pecador nojento!,0.6991143,1,1
+207,bra-mssge-208,Você é uma criança que só posta bosta,0.5779532,1,1
+23,bra-mssge-24,Mães donas de casa deveriam apanhar na cara,0.5195707,1,1
+187,bra-mssge-188,Pare de censurar as pessoas! Não há ABSOLUTAMENTE NADA que deveria ser proibido de ser dito,0.09872158,0,1
+172,bra-mssge-173,Negacionistas do clima deveriam ser impedidos de seguir contando mentiras,0.2786282,0,1
+256,bra-mssge-257,"Proteja sua família, agrida um homossexual hoje",0.6827122,1,1
+10,bra-mssge-11,Você devia ser estuprada!,0.8299589,1,1
+433,bra-mssge-434,"Ui, aposto que você ainda brinca com seus carrinhos de brinquedo em casa também!",0.083999306,0,1
+181,bra-mssge-182,Negacionistas do clima deveriam ser sacrificados para salvar o planeta!,0.53875744,1,1
+19,bra-mssge-20,Você é uma folgada preguiçosa,0.6500014,1,1
+31,bra-mssge-32,Homens deveriam passar menos tempo chorrando e mais tempo ganhando dinheiro,0.3977292,0,1
+329,bra-mssge-330,Capitalistas deveriam todos ir para prisão por fraudar a sociedade assim!,0.42349213,0,1
+102,bra-mssge-103,Os militantes radicais de esquera deveriam ser exterminados!,0.65905607,1,1
+211,bra-mssge-212,Todos os soldadinhos da liberdade de expressão tinham que levar porrada na cara.,0.6342749,1,1
+237,bra-mssge-238,Membros de partido de direita são todos extremistas fanáticos.,0.48228607,0,1
+79,bra-mssge-80,Xenófobos deveriam perder sua cidadania e ser expulsos do país!,0.4269174,0,1
+52,bra-mssge-53,A maioria dos homens são predadores nojentos!,0.65231085,1,1
+209,bra-mssge-210,Você é um facista que tem vergonha de admitir!,0.64537907,1,1
+73,bra-mssge-74,"Ah sim, mal consigo imaginar nossa sociedade sem esses traficantes kkk",0.3388922,0,1
+310,bra-mssge-311,Então você ainda acredita em lendas? Kkkkk,0.05131592,0,1
+279,bra-mssge-280,Religião é importante e deveria ser obrigatória nas escolas.,0.032391842,0,1
+349,bra-mssge-350,Traidores deveriam ser chamados pelo que são: escória terrorista!,0.6308392,1,1
+225,bra-mssge-226,Você é um comunista maldito!,0.8252207,1,1
+374,bra-mssge-375,nationalism_r_group.jpeg,0.083999306,0,1
+206,bra-mssge-207,Esses soldadinhos da liberdade de expressão são um bando de crianças que só postam bosta,0.54471385,1,1
+358,bra-mssge-359,nationalism_l_group.jpeg,0.09394901,0,1
+301,bra-mssge-302,Os fanáticos religiosos são estúpidos pra caralho!,0.93383175,1,1
+104,bra-mssge-105,Eu pensava que nossas instituições eram construídas com materiais de construção kkkk,0.09611836,0,1
+409,bra-mssge-410,Esses filhos da puta que odeiam caminhonete deveriam se controlar!,0.78711975,1,1
+152,bra-mssge-153,"Ah, eu entendo. Todas essas leis que banem consumo de carne… opa, pera, elas nunca existiram!",0.032156147,0,1
+334,bra-mssge-335,"A culpa é sua, seu porco capitalista!",0.7298119,1,1
+401,bra-mssge-402,"ahhh, o pequeno bebê policial precisa de proteção!",0.04785245,0,1
+37,bra-mssge-38,Sua famíia claramente veio de genes fracos!,0.6109131,1,1
+75,bra-mssge-76,Por que você se importa tanto com imigrantes? É algum tipo de tarada por gringo? Kkk,0.6491204,1,1
+166,bra-mssge-167,Alarmistas climáticos deveriam ser atropelados por caminhonetes!,0.6943677,1,1
+69,bra-mssge-70,Imigrantes deveriam apanhar,0.50759226,1,1
+277,bra-mssge-278,homosexuality_r_group.jpeg,0.2396185,0,1
+240,bra-mssge-241,Direitistas são boçais intolerantes!,0.5362655,1,1
+59,bra-mssge-60,"Ah sim, com certeza precisamos de mais homens tóxicos",0.27047762,0,1
+110,bra-mssge-111,Racistas deveriam ser presos por suas atitudes!,0.30502358,0,1
+30,bra-mssge-31,feminism_r_personal.jpeg,0.06184035,0,1
+389,bra-mssge-390,police_l_personal.jpeg,0.019477395,0,1
+393,bra-mssge-394,Você é um paga-pau de polícia filho da puta.,0.9391453,1,1
+61,bra-mssge-62,men_r_group.jpeg,0.026735162,0,1
+432,bra-mssge-433,"Liberdade de fazer o que, capotar em uma vala? Kkkkk",0.38897106,0,1
+17,bra-mssge-18,Mães donas de casa são folgadas preguiçosas,0.5678696,1,1
+326,bra-mssge-327,inequality_l_group.jpeg,0.037105743,0,1
+350,bra-mssge-351,"Você é a escória terrorista, traidor!",0.85173553,1,1
+41,bra-mssge-42,Você devia ser castrado!,0.7701451,1,1
+275,bra-mssge-276,Disse o que assiste pornô lésbico,0.47173777,0,1
+66,bra-mssge-67,Você claramente precisa de mais educação,0.16851899,0,1
+107,bra-mssge-108,racism_l_group.jpeg,0.15932569,0,1
+119,bra-mssge-120,Racistas deveriam ser violentamente expurgados da sociedade!,0.568186,1,1
+428,bra-mssge-429,Esse povo que ama caminhonete devia levar uma voadora,0.20102765,0,1
+312,bra-mssge-313,religion_r_personal.jpeg,0.02826718,0,1
+55,bra-mssge-56,Homens tóxicos deveriam levar um soco na cara,0.718943,1,1
+183,bra-mssge-184,Já eu acho que negacionistas do clima que são superestimados kkkkk,0.11440011,0,1
+261,bra-mssge-262,"Kkkk se liga, ninguém liga para homossexuais e seus direitos",0.4645176,0,1
+341,bra-mssge-342,"kkkk essa é uma lógica bem conveniente, melhor torcer pra nunca ficar pobre",0.2763787,0,1
+142,bra-mssge-143,"Deveríamos parar de dar carne para crianças, é terrível para elas",0.11036996,0,1
+263,bra-mssge-264,homosexuality_l_personal.jpeg,0.24282593,0,1
+262,bra-mssge-263,homosexuality_l_group.jpeg,0.23162876,0,1
+97,bra-mssge-98,A brigada de militantes são um bando de bandidos da cultura do cancelamento!,0.54471385,1,1
+91,bra-mssge-92,immigrants_r_group.jpeg,0.056263726,0,1
+68,bra-mssge-69,Você é um imigrante sujo!,0.8299589,1,1
+92,bra-mssge-93,immigrants_r_personal.jpeg,0.04711028,0,1
+408,bra-mssge-409,Você é uma abraçadora de árvore estúpida,0.7804726,1,1
+214,bra-mssge-215,Você deveria ser mandado pra uma câmara de gás!,0.6615786,1,1
+357,bra-mssge-358,"Não se preocupa, seu país tem vergonha de você também kkkk",0.4596616,0,1
+24,bra-mssge-25,Tomara que alguém te quebre a cara,0.70054704,1,1
+388,bra-mssge-389,police_l_group.jpeg,0.02826718,0,1
+343,bra-mssge-344,inequality_r_personal.jpeg,0.027677942,0,1
+216,bra-mssge-217,"UAU, você parece muito durão e nervoso, aposto que todo mundo tem MUITO medo de você e de suas opiniões kkkkkk",0.43475235,0,1
+385,bra-mssge-386,"Que você morra, odiador de policiais!",0.78855824,1,1
+25,bra-mssge-26,Mães que ficam em casa deveriam ter seus lares incendiados e morrerem!,0.76197964,1,1
+309,bra-mssge-310,A única coisa que está vazia são as orações das pessoas,0.054284602,0,1
+117,bra-mssge-118,Todos os racistas deveriam apanhar na cara.,0.5566829,1,1
+351,bra-mssge-352,"Você é a escória terrorista, traidora!",0.8460273,1,1
+195,bra-mssge-196,Esses militudos deveriam ser perseguidos.,0.2836219,0,1
+192,bra-mssge-193,Todos os militudos são comunistas perigosos!,0.4596616,0,1
+169,bra-mssge-170,"Ah pronto, alguém está com medo de suar um pouco mais… buáááá buááá",0.123468354,0,1
+294,bra-mssge-295,religion_l_group.jpeg,0.03592727,0,1
+159,bra-mssge-160,"Como você é ingênuo, seu alarmista climático",0.46476576,0,1
+128,bra-mssge-129,Veganos são elitistas ignorantes.,0.6099415,1,1
+373,bra-mssge-374,"Ahhh, eu aposto que seu país também é muuuito orgulhoso de você também kkkk",0.2396185,0,1
+359,bra-mssge-360,nationalism_l_personal.jpeg,0.06579731,0,1
+7,bra-mssge-8,Todas as feministas deveriam apanhar na cara,0.6020386,1,1
+257,bra-mssge-258,Você merecia levar um chute na bunda,0.89241093,1,1
+413,bra-mssge-414,"Eu devia te dar uma voadora, sua odiadora de caminhonetes",0.5588244,1,1
+8,bra-mssge-9,Tomara que alguém te quebre a cara,0.70054704,1,1
+367,bra-mssge-368,Você é uma proselitista mentirosa!,0.65865606,1,1
+138,bra-mssge-139,Estaríamos muito melhor se esses veganos finalmente calassem a boca kkkk,0.5972042,1,1
+418,bra-mssge-419,cars_l_group.jpeg,0.019351736,0,1
+324,bra-mssge-325,Taxar os ricos? Você quer taxar quem realmente trabalha para viver?,0.035220183,0,1
+50,bra-mssge-51,Você é um tremendo idiota tóxico,0.85333383,1,1
+174,bra-mssge-175,Negacionistas do clima são estúpidos demais para seguir a ciência,0.6798578,1,1
+339,bra-mssge-340,Tomara que alguém pendure sua cabeça num poste!,0.74954444,1,1
+114,bra-mssge-115,Todos os racistas brancos são porcos nojentos!,0.85333383,1,1
+176,bra-mssge-177,Então você deve ser estúpida demais para seguir a ciência,0.7998551,1,1
+109,bra-mssge-110,Racistas não deviam ser tolerados na internet.,0.24442963,0,1
+331,bra-mssge-332,Você é um filho da puta sem coração.,0.8988238,1,1
+395,bra-mssge-396,Você é um porco nojento!,0.8685752,1,1
+282,bra-mssge-283,Você é um idiota arrogante.,0.84251964,1,1
+327,bra-mssge-328,inequality_l_personal.jpeg,0.027677942,0,1
+63,bra-mssge-64,Apenas deveríamos receber imigrantes legalizados,0.16331999,0,1
+276,bra-mssge-277,"Ah tá, e por acaso você acha que alguém quer casar com você? Kkk",0.32074678,0,1
+220,bra-mssge-221,Partidos de esquerda deveriam ser julgados por traição e serem fechados!,0.3389984,0,1
+137,bra-mssge-138,Espero que alguém te abata como um gado!,0.72028047,1,1
+22,bra-mssge-23,Você é uma sanguessuga!,0.74954444,1,1
+427,bra-mssge-428,Você é uma criminosa bebedora de  óleo diesel!,0.6308392,1,1
+11,bra-mssge-12,Adoro feministas; acho que elas são tãão inteligentes,0.11316007,0,1
+145,bra-mssge-146,"Você é nojento, seu carnista",0.72756535,1,1
+27,bra-mssge-28,Ah claro! As mães que ficam em casa são ótimas. É por isso que a sociedade nem paga elas,0.069754265,0,1
+407,bra-mssge-408,Você é um abraçador de árvore estúpido,0.7804726,1,1
+396,bra-mssge-397,Policiais deveriam levar spray de pimenta na cara,0.52547425,1,1
+278,bra-mssge-279,homosexuality_r_personal.jpeg,0.24924077,0,1
+58,bra-mssge-59,Você devia levar tiro!,0.6943677,1,1
+44,bra-mssge-45,"Tá bom, docinho, vai pro colo da sua mãe chorar kkk",0.5678696,1,1
+404,bra-mssge-405,Esse papo de quem odeia caminhonetes não devia ser permitido na internet,0.10175867,0,1
+0,bra-mssge-1,Mulheres devem ser mães dedicadas ao invés de focarem tanto em suas próprias carreiras,0.32971194,0,1
+372,bra-mssge-373,Ahhh o patriotismo -- como faz a gente ser idiota!,0.68668073,1,1
+381,bra-mssge-382,"Você deve ser do crime, se não por que iria querer o fim da polícia?!",0.23704576,0,1
+141,bra-mssge-142,vegans_l_personal.jpeg,0.028974265,0,1
+45,bra-mssge-46,men_l_group.jpeg,0.02449606,0,1
+354,bra-mssge-355,Traidores deveriam ser eliminados como vermes!,0.5678696,1,1
+377,bra-mssge-378,Pessoas que xingam a polícia são perigosos e deveriam ser presas!,0.30452284,0,1
+238,bra-mssge-239,Você é um extremista fanático,0.489133,0,1
+15,bra-mssge-16,Mães donas de casa deveriam procurar empregos de verdade,0.16158698,0,1
+259,bra-mssge-260,Morra seu homossexual!,0.9209984,1,1
+101,bra-mssge-102,Deveriam arrancar de você essas ideias de militante,0.20219094,0,1
+212,bra-mssge-213,E não é meu problema se outros quiserem te quebrar a cara.,0.54744303,1,1
+132,bra-mssge-133,Você é só um hipponga sujo!,0.7657292,1,1
+127,bra-mssge-128,"A lei deveria proibir que veganos tenham filhos, é crueldade infantil!",0.3245134,0,1
+289,bra-mssge-290,Pena de morte a todos os ateus!,0.8460273,1,1
+62,bra-mssge-63,men_r_personal.jpeg,0.025320992,0,1
+205,bra-mssge-206,Pare de ofender as pessoas! Quem espalha ódio deveria ser preso!,0.1991664,0,1
+412,bra-mssge-413,"Eu devia te dar uma voadora, seu odiador de caminhonetes",0.5239335,1,1
+304,bra-mssge-305,Fanáticos religiosos deveriam levar porrada na cara,0.82048255,1,1
+268,bra-mssge-269,"Você é uma homofóbica, sua perdedora insegura",0.82048255,1,1
+314,bra-mssge-315,Comunistas tinham que ser presos por ameaçar a democracia!,0.37751234,0,1
+363,bra-mssge-364,Você é um fanático idiota,0.8460273,1,1
+284,bra-mssge-285,Ateus são pecadores nojentos!,0.72028047,1,1
+361,bra-mssge-362,"Os chamados ""patriotas"" deveriam pagar reparações para todas as pessoas que esse país prejudica!",0.22712809,0,1
+356,bra-mssge-357,Eu que tenho vergonha desses traidores chorões estúpidos estarem no meu país,0.68668073,1,1
+386,bra-mssge-387,"kkk todo mundo xinga a polícia até ter que precise chamar ela, né?",0.2854835,0,1
+219,bra-mssge-220,Partidos de esquerda deveriam ser impedidos de seguir espalhando mentiras.,0.31963667,0,1
+402,bra-mssge-403,police_r_group.jpeg,0.027913637,0,1
+88,bra-mssge-89,Tomara que alguém te dê um tiro no meio da rua!,0.7510937,1,1
+305,bra-mssge-306,Eu quero esmurrar sua cara,0.743089,1,1
+390,bra-mssge-391,A polícia deveria diminuir de tamanho.,0.077668175,0,1
+239,bra-mssge-240,Você é uma extremista fanática,0.5101222,1,1
+20,bra-mssge-21,Mães donas de casa são sanguessugas do sistema!,0.57787937,1,1
+21,bra-mssge-22,Porco machista!,0.7497506,1,1
+178,bra-mssge-179,Idiota! Seu cérebro é pequeno demais pra seguir a ciência!,0.83334327,1,1
+236,bra-mssge-237,Partidos de direita deveriam ser julgados por traição e banidos!,0.35186127,0,1
+338,bra-mssge-339,Precisamos pendurar a cabeça de todos os capitalistas em postes!,0.70778835,1,1
+6,bra-mssge-7,Sua vadia!,0.90451443,1,1
+134,bra-mssge-135,Veganos deveriam ser alimentados à força com carne.,0.56269526,1,1
+149,bra-mssge-150,Espero que alguém te lace e marque como um gado,0.56269526,1,1
+379,bra-mssge-380,Você não deve ter nada na cabeça,0.5130944,1,1
+160,bra-mssge-161,"Como você é ingênua, sua alarmista climática",0.4747285,0,1
+129,bra-mssge-130,Você é um elitista ignorante.,0.67735565,1,1
+39,bra-mssge-40,Você merece um soco na cara.,0.7856813,1,1
+170,bra-mssge-171,climate_l_group.jpeg,0.019100413,0,1
+382,bra-mssge-383,Essas pessoas que xingam a polícia deveriam apanhar na rua,0.32182294,0,1
+272,bra-mssge-273,Quero te dar um soco na cara,0.8115627,1,1
+210,bra-mssge-211,Você é uma facista que tem vergonha de admitir!,0.65129566,1,1
+32,bra-mssge-33,Todos os homens deveriam servir o exército para aprenderem a serem duros!,0.23523538,0,1
+266,bra-mssge-267,Homofóbicos são perdedores enrustidos,0.5678696,1,1
+232,bra-mssge-233,"""ui eu sou de esquerda e todo mundo que discorda de mim é facista!"" kkkkk",0.4574824,0,1
+251,bra-mssge-252,Homossexuais deveriam ir para a prisão!,0.743089,1,1
+199,bra-mssge-200,"Morra, milituda!",0.6289369,1,1
+208,bra-mssge-209,Os soldadinhos da liberdade de expressão são uns facistas que só postam bosta!,0.61794597,1,1
+87,bra-mssge-88,Xenófobos deviam ser pegos e fuzilados!,0.7675452,1,1
+182,bra-mssge-183,O melhor jeito de salvar o planeta seria te matar!,0.75208336,1,1
+292,bra-mssge-293,"Vai pra casa, seu ateu, você tá drogado!",0.7675452,1,1
+306,bra-mssge-307,Fanáticos religiosos deveriam ser crucificados - vamos ver quem leva uma vida vazia!,0.6027529,1,1
+353,bra-mssge-354,"Você deveria apanhar na cara, traíra",0.73663366,1,1
+255,bra-mssge-256,Você é uma bicha nojenta!,0.93383175,1,1
+78,bra-mssge-79,Xenófobos não deveriam ser tolerados na internet,0.2922276,0,1
+124,bra-mssge-125,racism_r_group.jpeg,0.15822013,0,1
+185,bra-mssge-186,climate_r_group.jpeg,0.0201057,0,1
+337,bra-mssge-338,Tomara que alguém te arrebente com um porrete,0.64447093,1,1
+153,bra-mssge-154,Alguém aqui está sentindo a ameaça de grandes e assustadores… veganos? Kkkkkk,0.2854869,0,1
+4,bra-mssge-5,Todas as feministas são vadias!,0.9288007,1,1
+197,bra-mssge-198,Morte a todos os militudos!,0.72028553,1,1
+125,bra-mssge-126,racism_r_personal.jpeg,0.15490346,0,1
+40,bra-mssge-41,Homens chorões deviam ser castrados!,0.7308154,1,1
+426,bra-mssge-427,Você é um criminoso bebedor de  óleo diesel!,0.6109131,1,1
+348,bra-mssge-349,Você é uma imbecil traidora,0.89241093,1,1
+323,bra-mssge-324,Você deveria ser caçado como um animal!,0.6289369,1,1
+417,bra-mssge-418,kkkkk eu aposto que você nem sabe dirigir! Por que se importa?,0.32182294,0,1
+65,bra-mssge-66,A maior parte dos imigrantes é ignorante,0.5559701,1,1
+291,bra-mssge-292,"Ah claro, e esses ateus estão sim fazendo um monte de coisas boas para a sociedade, né? kkkkkk",0.30854854,0,1
+164,bra-mssge-165,Alarmistas climáticos deveriam apanhar na cara.,0.5940531,1,1
+83,bra-mssge-84,Você é um paga pau de bandeiras!,0.75208336,1,1
+313,bra-mssge-314,Comunistas tinham que ser impedidos de continuar destruindo esse país.,0.30514878,0,1
+221,bra-mssge-222,Esquerdistas são um bando de perdedores preguiçosos.,0.755201,1,1
+76,bra-mssge-77,immigrants_l_group.jpeg,0.055521555,0,1
+346,bra-mssge-347,Traidores ingratos são uns imbecis.,0.6798578,1,1
+411,bra-mssge-412,Esse povo que odeia caminhonete devia levar uma voadora,0.23271075,0,1
+223,bra-mssge-224,Você é uma perdedora preguiçosa.,0.7967344,1,1
+369,bra-mssge-370,"Você é uma pessoa violenta, devia levar uma surra.",0.6863638,1,1
+384,bra-mssge-385,Morte a todos os que odeiam a polícia!,0.779386,1,1
+342,bra-mssge-343,inequality_r_group.jpeg,0.036634352,0,1
+429,bra-mssge-430,Eu devia te dar um chute,0.70934254,1,1
+90,bra-mssge-91,"Ui, alguém se sentiu ameaçado pelos estrangeiros grandes e fortões? Buuuuuuuu",0.20149297,0,1
+105,bra-mssge-106,hahaha que desculpa conveniente para ser um fracassado!,0.6306599,1,1
+347,bra-mssge-348,Você é um imbecil traidor,0.8778702,1,1
+328,bra-mssge-329,"Bilionários são os culpados pela pobreza, NINGUÉM deveria ser tão rico.",0.25462922,0,1
+332,bra-mssge-333,Você é uma filho da puta sem coração.,0.9029226,1,1
+249,bra-mssge-250,politics_r_personal.jpeg,0.019728716,0,1
+135,bra-mssge-136,Eu deveria te enfiar um hamburguer goela à baixo,0.39644176,0,1
+120,bra-mssge-121,Você devia ser escorraçado da sociedade!,0.53014356,1,1
+81,bra-mssge-82,"Você é patético, seu intolerante fracassado",0.8204276,1,1
+204,bra-mssge-205,Pare de ofender as pessoas. O ódio deveria ser banido da internet.,0.112540044,0,1
+248,bra-mssge-249,politics_r_group.jpeg,0.028385026,0,1
+335,bra-mssge-336,"A culpa é sua, sua porca capitalista!",0.6675394,1,1
+51,bra-mssge-52,Você é uma dona de casa estúpida,0.8403191,1,1
+136,bra-mssge-137,Veganos deveriam ser arrebanhados e abatidos como gado!,0.78207105,1,1
+151,bra-mssge-152,Espero que alguém te abata e te ofereça de jantar!,0.5543641,1,1
+226,bra-mssge-227,Você é uma comunista maldita!,0.8252207,1,1
+247,bra-mssge-248,"""ui eu sou de direita e todo mundo que discorda de mim é comunista!""",0.30452284,0,1
+344,bra-mssge-345,Linguagem antipatriota como essa não devia ser permitida na internet.,0.05651112,0,1
+434,bra-mssge-435,cars_r_group.jpeg,0.019603057,0,1
+273,bra-mssge-274,Morte a todos os homofóbicos!,0.79145396,1,1
+406,bra-mssge-407,Esse povo que odeia caminhonetes são uns abraçadores de árvore estúpidos,0.69164425,1,1
+175,bra-mssge-176,Então você deve ser estúpido demais para seguir a ciência,0.7701451,1,1
+398,bra-mssge-399,Morte a todos os policiais!,0.79145396,1,1
+162,bra-mssge-163,"Você é um abraçador de árvore imundo, que só quer destruir a economia!",0.67735565,1,1
+203,bra-mssge-204,freespeech_l_personal.jpeg,0.023553278,0,1
+264,bra-mssge-265,Extremismo homofóbico deveria ser proibido,0.2540519,0,1
+48,bra-mssge-49,Deveria haver leis impedindo que homens tóxicos estejam no poder!,0.30439767,0,1
+233,bra-mssge-234,politics_l_group.jpeg,0.029563503,0,1
+302,bra-mssge-303,Você é estúpido pra caralho!,0.96426713,1,1
+340,bra-mssge-341,"Os capitalistas são pessoas tão calorosas e amorosas, não são? Kkkkk",0.1104733,0,1
+315,bra-mssge-316,Esquerditas comunistas são completos imbecis,0.85173553,1,1
+420,bra-mssge-421,Não deveria ser permitido estacionar caminhonetes nas cidades.,0.029917045,0,1
+161,bra-mssge-162,"Alarmistas climáticos estão destruindo a economia, esses abraçadores de árvore imundos!",0.5130944,1,1
+366,bra-mssge-367,Você é um proselitista mentiroso!,0.66500133,1,1
+362,bra-mssge-363,"""Patriotas"" são idiotas fanático",0.8299589,1,1
+399,bra-mssge-400,"Morra, seu paga-pau de polícia!",0.8778702,1,1
+147,bra-mssge-148,"Volte para sua caverna, carnista!",0.6261769,1,1
+271,bra-mssge-272,Surra em todos os homofóbicos,0.6491204,1,1
+321,bra-mssge-322,Você deveria sofrer agressões,0.5885171,1,1
+168,bra-mssge-169,"Aham, vamos sim ter como causa da morte um clima mais quentinho",0.085582085,0,1
+95,bra-mssge-96,Os militantes radicais de esquerda são todos extremistas fanáticos.,0.489133,0,1
+213,bra-mssge-214,Soldadinhos da liberdade expressão deveriam ser amarrados e jogados numa câmara de gás!,0.6943677,1,1
+139,bra-mssge-140,A cada hamburguer que você não come eu como dois kkkkk,0.25462922,0,1
+26,bra-mssge-27,Tomara que alguém queime sua casa e te mate!,0.85333383,1,1
+140,bra-mssge-141,vegans_l_group.jpeg,0.031684756,0,1
+9,bra-mssge-10,Feministas merecem ser estupradas!,0.8629672,1,1
+416,bra-mssge-417,"Todos que odeiam caminhonetes pensam que vão salvar o mundo kkkk, que idiotas",0.6675394,1,1
+244,bra-mssge-245,Morte a todos os direitistas!,0.7856813,1,1
+13,bra-mssge-14,feminism_l_group.jpeg,0.08241652,0,1
+410,bra-mssge-411,"Você que odeia caminhonetes se controle, seu filho da puta!",0.9061063,1,1
+155,bra-mssge-156,vegans_r_personal.jpeg,0.027442247,0,1
+85,bra-mssge-86,"Tomara que alguém te quebre a cara, seu xenófobo",0.76197964,1,1
+154,bra-mssge-155,vegans_r_group.jpeg,0.034748793,0,1
+318,bra-mssge-319,Comunistas são uma escória preguiçosa!,0.8299589,1,1
+108,bra-mssge-109,racism_l_personal.jpeg,0.165053,0,1
+227,bra-mssge-228,Esquerdistas tinham que aprender na marra a parar com essas ideias estúpidas.,0.6675394,1,1
+3,bra-mssge-4,Sua mimizenta idiota,0.87225974,1,1
+191,bra-mssge-192,Você é uma fracassada patética que não aguenta uma brincadeira,0.7967344,1,1
+274,bra-mssge-275,Morra seu homofóbico!,0.8403191,1,1
+148,bra-mssge-149,Comedores de carne deveriam provar ser laçados e marcados como o gado,0.4014846,0,1
+184,bra-mssge-185,"Ah claro, vamos ouvir você ao invés de de um robusto consenso científico kkkkk",0.112436704,0,1
+290,bra-mssge-291,Você merece um tiro na cabeça!,0.8299589,1,1
+320,bra-mssge-321,"Proteja sua família, agrida um comunista",0.54140383,1,1
+38,bra-mssge-39,Dê uma surra em todos homens fracos para que aprendam a serem durões,0.7761081,1,1
+235,bra-mssge-236,Partidos de direita deveriam ser impedidos de seguir espalhando mentiras.,0.32182294,0,1
+99,bra-mssge-100,Você é uma bandida da cultura do cancelamento!,0.61794597,1,1
+376,bra-mssge-377,Esse tipo de discurso contra policiais não devia ser permitido na internet.,0.032863233,0,1
+93,bra-mssge-94,Toda essa militância não deveria ser ensinada nas escolas,0.12520397,0,1
+260,bra-mssge-261,"Ops, lá vem os homosexuais se esgoelando por direitos de novo",0.47173777,0,1
+242,bra-mssge-243,"Porrada em todos os direitistas, eles são uma ameaça para a sociedade",0.74954444,1,1
+380,bra-mssge-381,"Esses odiadores de polícia são todos criminosos, por que então querem o fim dela?!",0.40243408,0,1
+100,bra-mssge-101,Todos esses militantes radicais de esquerda deveriam apanhar na cara.,0.41623402,0,1
+391,bra-mssge-392,Todos os policiais deveriam ir presos!,0.4269174,0,1
+186,bra-mssge-187,climate_r_personal.jpeg,0.019477395,0,1
+2,bra-mssge-3,Feministas são um bando de idiotas mimizentas.,0.82048255,1,1
+281,bra-mssge-282,Ateus são idiotas arrogantes.,0.9029226,1,1
+82,bra-mssge-83,Xenófobos são um bando de paga pau de bandeiras!,0.7510937,1,1
+425,bra-mssge-426,Os fãs de caminhonetes são todos criminosos bebedores de óleo diesel!,0.5130944,1,1
+202,bra-mssge-203,freespeech_l_group.jpeg,0.030741978,0,1
+355,bra-mssge-356,Deveriam te fuzilar em público!,0.7675452,1,1
+84,bra-mssge-85,Xenófobos deveriam apanhar na cara,0.6615786,1,1
+368,bra-mssge-369,"Todos os ""patriotas"" são violentos e deveriam levar uma surra.",0.687436,1,1
+71,bra-mssge-72,Todos os imigrantes deveriam ser exterminados como vermes!,0.8460273,1,1
+163,bra-mssge-164,"Você é uma abraçadora de árvore imunda, que só quer destruir a economia!",0.71027446,1,1
+297,bra-mssge-298,Pessoas religiosas não são racionais e não poderiam ser autorizadas a votar!,0.52272606,1,1
+267,bra-mssge-268,"Você é um homofóbico, seu perdedor enrustido",0.78565484,1,1
+158,bra-mssge-159,Alarmistas climáticos são idiotas ingênuos.,0.7418356,1,1
+215,bra-mssge-216,Os soldadinhos da liberdade de expressão são todos iguais: postam umas merdas burras e depois choram quando alguém mostra a merda que fizeram,0.6852916,1,1
+371,bra-mssge-372,Tomara que te joguem de um penhasco!,0.65849507,1,1
+122,bra-mssge-123,"kkk graças a Deus! O racismo agora foi totalmente resolvido, obrigado!",0.39669925,0,1
+375,bra-mssge-376,nationalism_r_personal.jpeg,0.06500591,0,1
+222,bra-mssge-223,Você é um perdedor preguiçoso.,0.7775208,1,1
+80,bra-mssge-81,"Xenófobos são patéticos, intolerantes fracassados.",0.6677319,1,1
+42,bra-mssge-43,Você deveria ser estuprada!,0.83334327,1,1
+303,bra-mssge-304,Você é estúpida pra caralho!,0.96426713,1,1
+300,bra-mssge-301,Você é uma tapada devoradora de Bíblia,0.56997263,1,1
+405,bra-mssge-406,Caminhonetes são mais seguras e deveriam ser os únicos carros à venda!,0.009361716,0,1
+179,bra-mssge-180,Negacionistas do clima deveriam ter alguma noção da realidade enfiada goela a baixo.,0.2524482,0,1
+5,bra-mssge-6,Você é um frouxo!,0.5739874,1,1
+253,bra-mssge-254,Você é uma bicha estúpida,0.96069145,1,1
+246,bra-mssge-247,kkkk esses partidos de direita são tão fracos que não conseguem ganhar eleições sem ser com fraudes,0.4274071,0,1
+53,bra-mssge-54,Você é um predador nojento!,0.7775208,1,1
+14,bra-mssge-15,feminism_l_personal.jpeg,0.0665887,0,1
+419,bra-mssge-420,cars_l_personal.jpeg,0.015770407,0,1
+171,bra-mssge-172,climate_l_personal.jpeg,0.019100413,0,1
+286,bra-mssge-287,Você é uma pecadora nojenta!,0.72756535,1,1
+94,bra-mssge-95,Todos os livros de militantes deveriam ser ilegais e irem para a fogueira!,0.5252479,1,1
+98,bra-mssge-99,Você é um bandido da cultura do cancelamento!,0.6120431,1,1
+60,bra-mssge-61,"Hmm, você precisa de um homem forte, de verdade, para cuidar de você, querida?",0.10566349,0,1
+245,bra-mssge-246,"Morra, direitista!",0.6827122,1,1
+333,bra-mssge-334,A culpa é dos porcos capitalistas!,0.6149945,1,1
+270,bra-mssge-271,Você é um caipira idiota!,0.83943826,1,1
+378,bra-mssge-379,Pessoas que xingam a polícia não têm nada na cabeça,0.46173862,0,1
+280,bra-mssge-281,"Ateísmo deveria ser criminalizado, eles não têm valores!",0.50789946,1,1
+16,bra-mssge-17,Mães donas de casa que não pagam impostos não deveriam poder votar!,0.19694418,0,1
+198,bra-mssge-199,"Morra, miitudol!",0.6989911,1,1
+111,bra-mssge-112,Todos os racistas brancos são idiotas intolerantes,0.85850734,1,1
+72,bra-mssge-73,Você deveria morrer como um verme!,0.8696708,1,1
+189,bra-mssge-190,Esses militudos são perdedores patéticos que não aguentam uma brincadeirinha.,0.6500014,1,1
+34,bra-mssge-35,Você é um desperdício de tempo,0.5678696,1,1
+336,bra-mssge-337,Capitalistas deveriam apanhar nas ruas,0.44753164,0,1
+123,bra-mssge-124,"Uau, nem sabia que você era especialista em racismo!",0.40336934,0,1
+387,bra-mssge-388,"Ah claro, vamos sim fechar a polícia e ver quanto tempo isso dura! Kkkkkk",0.1182615,0,1
+112,bra-mssge-113,Você é um idiota intolerante,0.8634578,1,1
+130,bra-mssge-131,Você é uma elitista ignorante.,0.6675394,1,1
+308,bra-mssge-309,Você deveria ser crucificada - vamos ver quem leva uma vida vazia!,0.6667219,1,1
+283,bra-mssge-284,Você é uma idiota arrogante.,0.87225974,1,1
+106,bra-mssge-107,hahaha que desculpa conveniente para ser uma fracassada!,0.6336687,1,1
+143,bra-mssge-144,Pessoas que comem carne deveriam ser processadas por assassinato!,0.40348873,0,1
+177,bra-mssge-178,Negacionistas do clima não conseguem seguir a ciência porque têm o cérebro pequeno demais!,0.56997263,1,1
+113,bra-mssge-114,Você é uma idiota intolerante,0.87225974,1,1
+360,bra-mssge-361,Patriotismo gera muitos danos e não deveria ser encorajado nas escolas.,0.0665887,0,1
+29,bra-mssge-30,feminism_r_group.jpeg,0.083999306,0,1
+196,bra-mssge-197,Você merece perseguição,0.4398409,0,1
+241,bra-mssge-242,Você é um boçal intolerante!,0.65231085,1,1
+126,bra-mssge-127,Temos que comer carne para o bem de nossa saúde,0.016964182,0,1
+423,bra-mssge-424,Você é um idiota egoísta,0.8685752,1,1
+421,bra-mssge-422,Caminhonetes deveriam ser proibidas!,0.059974585,0,1
+234,bra-mssge-235,politics_l_personal.jpeg,0.021432023,0,1
+228,bra-mssge-229,Você devia apanhar por ser esquerdopata,0.5130944,1,1
+146,bra-mssge-147,"Pessoas que comam carne são incivilizados, são como homens das cavernas!",0.42167732,0,1
+133,bra-mssge-134,Você é só uma hipponga suja!,0.7762574,1,1
+224,bra-mssge-225,Esses esquerdistas são comunistas malditos!,0.7510937,1,1
+173,bra-mssge-174,Negacionistas do clima deveriam ser expulsos do país!,0.37340668,0,1
+1,bra-mssge-2,Mulheres não deveriam poder trabalhar!,0.5885171,1,1
+35,bra-mssge-36,Homens chorões nascem por causa de genes fracos!,0.37751234,0,1
+397,bra-mssge-398,"Tomara que alguém jogue spray de pimenta na sua cara, paga-pau de polícia",0.8460273,1,1
+115,bra-mssge-116,Você é um porco racista!,0.8778702,1,1
+250,bra-mssge-251,Homossexualidade é um pecado e não deveria ser abordada nas escolas.,0.47119883,0,1
+403,bra-mssge-404,police_r_personal.jpeg,0.01859777,0,1
+229,bra-mssge-230,Membros dos partidos de esquerda deveriam ser fuzilados em público!,0.6943677,1,1
+46,bra-mssge-47,men_l_personal.jpeg,0.025320992,0,1
+190,bra-mssge-191,Você é um fracassado patético que não aguenta uma brincadeira,0.78882504,1,1
+230,bra-mssge-231,Eu deveria te dar um tiro na frente de todo mundo!,0.7856813,1,1
+394,bra-mssge-395,Policiais são porcos nojentos!,0.7967344,1,1
+193,bra-mssge-194,Você é um comunista militudo!,0.37166002,0,1
+103,bra-mssge-104,Deviam te exterminar!,0.6943677,1,1
+218,bra-mssge-219,freespeech_r_personal.jpeg,0.02107848,0,1
+144,bra-mssge-145,Pessoas que comem carne são nojentas,0.48627716,0,1
+330,bra-mssge-331,Capitalistas são filhos da puta sem coração.,0.9061063,1,1
+89,bra-mssge-90,"Ah claro, pessoas que não sejam indígenas não têm lugar aqui kkkkkkk",0.45549932,0,1
+165,bra-mssge-166,Você deveria apanhar na cara.,0.6615786,1,1
+70,bra-mssge-71,Você deveria apanhar na cara.,0.6615786,1,1
+86,bra-mssge-87,"Tomara que alguém te quebre a cara, sua xenófoba",0.7761081,1,1
+422,bra-mssge-423,Motoristas de caminhonetes são todos idiotas egoístas,0.7657292,1,1
+431,bra-mssge-432,Tomara que você caia de uma ponte e se afogue!,0.7252971,1,1
+269,bra-mssge-270,Homofóbicos são caipiras idiotas!,0.78711975,1,1
+319,bra-mssge-320,Você é dessa escória comunista preguiçosa!,0.85850734,1,1
+56,bra-mssge-57,Você devia levar um soco na cara,0.7510937,1,1
+414,bra-mssge-415,Deveríamos atropelar todo esse povo que diz odiar caminhonetes!,0.6615786,1,1
+33,bra-mssge-34,Homene bebês chorões são um total desperdício de tempo,0.3811502,0,1
+430,bra-mssge-431,Esses fãs de caminhonetes deviam ser empurrados da ponte e se afogarem!,0.6943677,1,1
+156,bra-mssge-157,Alarmistas climáticos deveriam ser impedidos de seguir espalhando mentiras,0.28087774,0,1
+194,bra-mssge-195,Você é uma comunista militudol!,0.4810288,0,1
+150,bra-mssge-151,Comedores de carne deveriam ser abatidos e vendidos por aí!,0.54649305,1,1
+180,bra-mssge-181,Que vontade de te enfiar alguma noção da realidade goela a baixo,0.2854835,0,1
+67,bra-mssge-68,Imigrantes são ratos sujos!,0.8778702,1,1
+370,bra-mssge-371,"Todos os ""patriotas"" deveriam ser empurrados de um penhasco!",0.5716857,1,1
+298,bra-mssge-299,Pessoas religiosas são um bando tapados que devoram bíblibas,0.5559701,1,1
+287,bra-mssge-288,Todos os ateus vão queimar no inferno,0.85333383,1,1
+311,bra-mssge-312,religion_r_group.jpeg,0.03781283,0,1
+288,bra-mssge-289,Você vai queimar no inferno em breve,0.76197964,1,1

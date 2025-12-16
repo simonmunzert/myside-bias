@@ -3,7 +3,9 @@
 source("code/packages.R")
 source("code/functions.R")
 
-# important thoughts ---
+# IMPORTANT NOTE
+# This script does not work as raw data files are not provided due to data protection reasons.
+# The script is provided for transparency and to illustrate how the raw data were processed.
 
 
 # import raw survey data -----------------------
@@ -111,7 +113,6 @@ data_survey_all <- bind_rows(condensed_dfs)
 
 # export raw imported and combined data
 saveRDS(data_survey_all, file = "data/cooked/data_survey_all.rds")
-
 
 
 # modify meta variables ---------------------------------
@@ -222,6 +223,8 @@ data_survey_complete <- filter(data_survey_all,
 # fix deck_id variable
 data_survey_complete$deck_id <- paste0(data_survey_complete$resp_country, "-deck-", data_survey_complete$deck_id)
 
+saveRDS(data_survey_all, file = "data/cooked/data_survey_all_comp.rds")
+
 
 # how many consented?
 
@@ -249,5 +252,10 @@ saveRDS(data_survey_vignettes, file = "data/cooked/data_survey_vignettes.rds")
 # save pre-processed data -----------------------
 
 data_survey_complete <- data_survey_complete %>% dplyr::select(-matches("vig_[[:digit:]].+"))
+
+# remove sensitive variables --------------------
+
+data_survey_complete <- data_survey_complete %>%
+  dplyr::select(-resp_ip, -resp_lat, -resp_lon)
 
 saveRDS(data_survey_complete, file = "data/cooked/data_survey_complete.rds")

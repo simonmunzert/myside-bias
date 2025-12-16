@@ -1,0 +1,441 @@
+,id,text,score_max,predicted_label_max,score_hate,scores_harassment,true_label
+170,col-mssge-171,"Sí, todos nos vamos a morir a causa del buen clima...",False,1,0.007102072999338006,0.006116189011596201,1
+149,col-mssge-150,"¡Vuelve a tu cueva, come carne!",True,1,0.01361542548028857,0.5697459710908273,1
+131,col-mssge-132,Eres un elitista ignorante.,True,1,0.013825200463829289,0.6503389598961979,1
+157,col-mssge-158,vegans_r_personal.jpeg,False,1,0.0001356401797461394,0.004953471130587327,1
+427,col-mssge-428,cars_l_group.jpeg,False,1,6.40200641038395e-06,2.4156629828672456e-05,1
+210,col-mssge-211,¡Los guerreros de la libertad de expresión son sólo fascistas de mierda!,True,1,0.12381869065401627,0.653992672469446,1
+110,col-mssge-111,racism_l_personal.jpeg,False,1,0.035382456621689325,0.028685276950200348,1
+241,col-mssge-242,Tú eres una ideóloga de extrema derecha.,False,1,0.007957097628943428,0.020181277485246837,1
+289,col-mssge-290,Tú eres un imbécil arrogante.,True,1,0.007304509695555216,0.8428649312002171,1
+54,col-mssge-55,¡Eres una perra perezosa!,True,1,0.00745510968217876,0.8782654746311809,1
+416,col-mssge-417,Los que odian a las camionetas son unos estúpidos defensores de los árboles.,True,1,0.007979529118147907,0.648199747825015,1
+342,col-mssge-343,Los capitalistas deberían ser golpeados en las calles,True,1,0.08675466911396292,0.4004379508033126,1
+154,col-mssge-155,"Lo sé, ¿verdad? Todas estas leyes que prohíben la carne....oh espera, eso nunca ha sucedido.",False,1,0.007896520095441614,0.019868133883917585,1
+11,col-mssge-12,Las feministas me divierten; se creen muy inteligentes…,True,1,0.1837060907245092,0.4030331106531381,1
+273,col-mssge-274,Tú eres una perdedora homofóbica e insegura.,True,1,0.4392065567275995,0.7403232115702948,1
+291,col-mssge-292,¡Los ateos son todos unos sucios incrédulos!,True,1,0.6934797182376784,0.8119385338421403,1
+46,col-mssge-47,men_l_personal.jpeg,False,1,0.007480781676722293,0.005777920630109285,1
+300,col-mssge-301,religion_l_group.jpeg,False,1,0.00015011822567369918,0.0005679033246747262,1
+324,col-mssge-325,¡Sólo eres una escoria comunista perezosa!,True,1,0.12399633550530517,0.8425264699264737,1
+23,col-mssge-24,Las madres que se quedan en casa deberían recibir un puñetazo en la cara.,True,1,0.3531416280578162,0.6468094097195968,1
+282,col-mssge-283,Dice la gente que ve porno de lesbianas...,False,1,0.020273056825397824,0.02592712985113648,1
+205,col-mssge-206,Deja de hacer daño a la gente. El odio debería estar prohibido en internet.,False,1,0.007151923689319632,0.006068045720784592,1
+45,col-mssge-46,men_l_group.jpeg,False,1,0.007637860570260503,0.005735530896891077,1
+227,col-mssge-228,¡Tú eres un bastardo comunista!,True,1,0.04430334281880696,0.8109683704259025,1
+63,col-mssge-64,Sólo deberíamos recibir a los inmigrantes legales,False,1,0.08643588349452364,0.19951141925860683,1
+186,col-mssge-187,"Claro, vamos a escucharte a ti en lugar de al abrumador consenso científico, jaja.",False,1,0.001261239488829014,0.02726922740388034,1
+140,col-mssge-141,Estaríamos mejor si los veganos se callaran de una vez jaja,True,1,0.09415869115095167,0.72103136587776,1
+64,col-mssge-65,¡El gobierno debería deportar a más inmigrantes!,True,1,0.5748885020251562,0.806441136683255,1
+169,col-mssge-170,¡Me gustaría atropellarte con mi camioneta!,True,1,0.007229441470329221,0.40254223058736704,1
+250,col-mssge-251,ooo soy un derechista del Centro Democrático y cualquiera que no esté de acuerdo conmigo es un comunista! jaja,False,1,0.0869541744505828,0.25365554492316944,1
+270,col-mssge-271,¡Los homofóbicos deberían ir a la cárcel!,True,1,0.3880616374176561,0.64693144731558,1
+208,col-mssge-209,Tú sólo eres un troll infantil.,True,1,0.007348977057405624,0.647029069921549,1
+187,col-mssge-188,climate_r_group.jpeg,False,1,1.5598027633743823e-05,2.8240807799315707e-05,1
+244,col-mssge-245,¡Tú eres una cerda intolerante!,True,1,0.03544004051522365,0.7922938252487682,1
+15,col-mssge-16,Las madres ama de casa deberían conseguir un trabajo de verdad.,False,1,0.008149108196709942,0.028414668313626112,1
+368,col-mssge-369,"Los ""patriotas"" son todos borregos idiotas.",True,1,0.44254985321622764,0.8087987993014704,1
+375,col-mssge-376,Tú eres una persona violenta que debería recibir un puñetazo en la cara.,True,1,0.008375661830586127,0.5692604441658653,1
+114,col-mssge-115,Tú eres un idiota intolerante.,True,1,0.007657413025169345,0.8052647999265694,1
+344,col-mssge-345,¡Deberíamos poner la cabeza de todos los capitalistas en picos!,True,1,0.12316905939456513,0.3417858653518548,1
+397,col-mssge-398,police_l_personal.jpeg,False,1,6.667023092435894e-05,0.0006087787255549655,1
+138,col-mssge-139,¡Los veganos deberían ser acorralados y sacrificados como el ganado!,True,1,0.5756629102614297,0.8116982384824082,1
+113,col-mssge-114,Todos los blancos racistas son idiotas intolerantes.,True,1,0.7347912282996985,0.8425944550768305,1
+201,col-mssge-202,Guerreros de la Justicia Social: ¡luchando contra la injusticia un post a la vez!,False,1,0.00013670256456563558,0.0007709785227189669,1
+77,col-mssge-78,immigrants_l_personal.jpeg,False,1,0.007740285161018498,0.007512489194102496,1
+16,col-mssge-17,¡Las amas de casa que no pagan impuestos no deberían poder votar!,True,1,0.30562311915843365,0.644100499383738,1
+308,col-mssge-309,¡Eres una estúpida de mierda!,True,1,0.0072462240387867385,0.893147335099433,1
+407,col-mssge-408,"Espero que alguien te electrocute, amante de los policías.",True,1,0.013752904762233533,0.5259894457627656,1
+261,col-mssge-262,"Protege a tu familia, patea el culo de un mariquita hoy",False,1,0.020726569157113815,0.19804000629639149,1
+266,col-mssge-267,¡Lol relájate! A nadie le importa una mierda los homosexuales y sus derechos.,True,1,0.8215764600551484,0.8902901509363969,1
+293,col-mssge-294,¡Tú eres un sucia incrédula!,False,1,0.18068447250285988,0.34256597259932803,1
+275,col-mssge-276,¡Tú eres un reproductor de idiotas!,True,1,0.10495968785195756,0.8062745672578306,1
+372,col-mssge-373,¡Tú eres un mentiroso y un propagandista!,True,1,0.007871533806485706,0.5676158560256016,1
+167,col-mssge-168,Mereces que te den un puñetazo en la cara,True,1,0.007344776518690885,0.45483415489123386,1
+160,col-mssge-161,Los alarmistas del cambio climático son idiotas ingenuos.,True,1,0.12335664228356562,0.8090363776268669,1
+134,col-mssge-135,¡Tú eres un hippie sucio!,True,1,0.12399633550530517,0.8045819867762557,1
+116,col-mssge-117,¡Todos los blancos racistas son cerdos!,True,1,0.7224030169417418,0.8091940891239615,1
+172,col-mssge-173,climate_l_group.jpeg,False,1,1.8522574326531083e-05,3.1999824407395835e-05,1
+281,col-mssge-282,¡Muérete homofóbica!,True,1,0.3053746623994419,0.5692604441658653,1
+400,col-mssge-401,Todos los policías son unos cabrones.,True,1,0.06369133707203671,0.649173568916323,1
+80,col-mssge-81,Los xenófobos son unos perdedores patéticos e intolerantes.,True,1,0.18157901570220036,0.8067727708731266,1
+248,col-mssge-249,"¡Muere, derechista del Centro Democrático!",False,1,0.01361542548028857,0.3421693377213317,1
+277,col-mssge-278,Hay que golpear a todos los homofóbicos,True,1,0.7608267701603958,0.8105948473006714,1
+207,col-mssge-208,"Los guerreros de la ""libertad de expresión"" son una manada de trolls infantiles.",False,1,0.020234419603131052,0.33986137583533604,1
+99,col-mssge-100,¡Los de la brigada mamerta son todos matones de lo políticamente correcto!,True,1,0.30907301444851115,0.6506296262765919,1
+314,col-mssge-315,Lo único que está vacío son las oraciones de la gente.,False,1,0.008078553542505414,0.02755005717601103,1
+315,col-mssge-316,"Todavía crees en los cuentos de hadas, ¿verdad? jaja",False,1,0.007540865379960796,0.028962562171236175,1
+121,col-mssge-122,¡Los racistas deberían ser desaparecidos de la sociedad!,True,1,0.18248437237322335,0.6461502877047712,1
+199,col-mssge-200,¡Muerte a todos los guerreros de la justicia social!,True,1,0.035572678789113715,0.48835258482178423,1
+218,col-mssge-219,"WOW suenas muy rudo y atrevido, apuesto a que todo el mundo tiene TANTO miedo de ti y de tus opiniones *eyeroll*",True,1,0.008313545553407659,0.6460526315789474,1
+48,col-mssge-49,¡Debería haber una ley que impidiera a los hombres con masculinidad tóxica estar en el poder!,True,1,0.7005950531494654,0.8065242338378755,1
+305,col-mssge-306,Tú sólo eres una oveja que obedece a la Biblia.,False,1,0.021088189302359655,0.2519394048815888,1
+106,col-mssge-107,¡Deberías ser exterminado!,True,1,0.0076673594892641625,0.5687756743836607,1
+309,col-mssge-310,Los fanáticos religiosos deberían ser golpeados en la cara.,True,1,0.7306502834933425,0.81040741553434,1
+2,col-mssge-3,Las feministas son un montón de idiotas lloronas.,True,1,0.7627964491946602,0.8886530206699883,1
+14,col-mssge-15,feminism_l_personal.jpeg,False,1,0.007612481875340254,0.005218118057597641,1
+76,col-mssge-77,immigrants_l_group.jpeg,False,1,0.007440174896222528,0.005876733443534395,1
+357,col-mssge-358,"¡Eres escoria terrorista, traidora!",True,1,0.06371424567947348,0.8102827962327819,1
+43,col-mssge-44,"Sí, necesitamos más hombres con las emociones de una niñita de 8 años jaja",False,1,0.00013045066466158166,0.005094431504792346,1
+105,col-mssge-106,¡La izquierda radical mamerta debería ser exterminada!,True,1,0.38814056074291436,0.8055927907099745,1
+410,col-mssge-411,¿Acaso los demás no hacemos parte de la patria?...,False,1,0.0071162242740640345,0.005234626714013625,1
+329,col-mssge-330,¡Tú deberías ser cazada por deporte!,True,1,0.01337980301498434,0.3407313490615113,1
+408,col-mssge-409,¡Muerte a todos los policías!,True,1,0.03535397485366789,0.45501640202573723,1
+42,col-mssge-43,¡Deberían violarte!,True,1,0.327038317233175,0.4554392428865093,1
+35,col-mssge-36,¡Los hombres llorones son el resultado de genes débiles!,True,1,0.7350682984625657,0.8657662478952938,1
+395,col-mssge-396,"Sí, bajemosle el presupuesto de la policía y veamos cuánto duras.",False,1,0.008421566204727185,0.14055829997932906,1
+271,col-mssge-272,Los homofóbicos son todos unos perdedores inseguros.,True,1,0.5664269944307203,0.8033692259547807,1
+405,col-mssge-406,¡Tú eres una cerda asquerosa!,True,1,0.013514739523497389,0.8075929522141405,1
+310,col-mssge-311,Quiero golpearte en la cara,True,1,0.007175568026385668,0.6468338180068678,1
+326,col-mssge-327,Te mereces que te den una patada en el culo.,True,1,0.007747541681274072,0.6446857847169584,1
+39,col-mssge-40,Te mereces un puñetazo en la cara.,True,1,0.007603164217844618,0.6437105966853149,1
+56,col-mssge-57,Tú deberías recibir un puñetazo en la cara.,True,1,0.007641088103491416,0.28448489193025145,1
+361,col-mssge-362,¡Deberían pegarte un tiro!,True,1,0.013447687131657539,0.34177607514150443,1
+365,col-mssge-366,nationalism_l_personal.jpeg,False,1,0.00013993983588144945,0.0005881933939738148,1
+65,col-mssge-66,La mayor parte de los inmigrantes no tiene educación.,False,1,0.08721775765080644,0.2533850687997828,1
+421,col-mssge-422,Los que odian las camionetas necesitan una buena patada en el culo.,True,1,0.01383338460586063,0.2002360116389689,1
+96,col-mssge-97,Los de izquierda radical mamerta son todos lunáticos extremistas.,True,1,0.3877864717635133,0.6464432486318553,1
+158,col-mssge-159,Hay que impedir que los alarmistas del cambio climático difundan mentiras,False,1,0.01380083087790651,0.0276206462302657,1
+193,col-mssge-194,Tú sólo eres una patética perdedora que no puede aceptar una broma.,True,1,0.02014029890433389,0.8413483763554293,1
+255,col-mssge-256,Los homosexuales son un grupo de mariquitas estúpidos.,True,1,0.8842229885061603,0.9771952641394311,1
+280,col-mssge-281,¡Muérete homofóbico!,True,1,0.3270615188812124,0.647614623151249,1
+431,col-mssge-432,Los conductores de camionetas son todos unos imbéciles egoístas.,True,1,0.10393185010076726,0.8074299441093018,1
+70,col-mssge-71,Los inmigrantes deberían recibir un puñetazo en la cara.,True,1,0.823410083588104,0.8888457867437677,1
+31,col-mssge-32,Los hombres deberían pasar menos tiempo llorando y más tiempo ganándose la vida.,True,1,0.10405729423892754,0.5219744130116425,1
+406,col-mssge-407,Los policías deberían ser electrocutados.,True,1,0.18190927261740208,0.644051747563105,1
+330,col-mssge-331,¿Impuestos a los ricos? ¿Te refieres a la gente que realmente trabaja para vivir?,False,1,0.008054252697045874,0.009252076090116688,1
+62,col-mssge-63,men_r_personal.jpeg,False,1,0.008078553542505414,0.008825291054907636,1
+323,col-mssge-324,¡Los izquierdistas comunistas son todos una escoria perezosa!,True,1,0.3509045350208294,0.8118647569741311,1
+145,col-mssge-146,¡Los que comen carne deberían ser procesados por asesinato!,True,1,0.3513721458358597,0.6468826334525568,1
+374,col-mssge-375,"Todos los ""patriotas"" son violentos y deberían ser golpeados en la cara",True,1,0.8582662478952937,0.9335764170955737,1
+265,col-mssge-266,Uh oh los homosexuales están chillando por sus derechos de nuevo,True,1,0.4394124835336468,0.645857320072352,1
+360,col-mssge-361,¡Los traidores deberían ser eliminados como plagas!,True,1,0.1246685754637047,0.6480047637741567,1
+440,col-mssge-441,¡Espero que te caigas de un puente y te ahogues!,True,1,0.008035142475483287,0.8021348003114706,1
+337,col-mssge-338,Tú eres un bastardo capitalista sin corazón.,True,1,0.00760625817335088,0.8098194992673005,1
+267,col-mssge-268,homosexuality_l_group.jpeg,False,1,0.02014029890433389,0.009303337213212462,1
+331,col-mssge-332,"La vida debe ser tan dura para ti. Toma, toma algunas limosnas...",False,1,0.02016816901578999,0.35742949658011264,1
+238,col-mssge-239,¡Los del Centro Democrático deberían ser condenados por traición y desmantelados,False,1,0.035598971951488305,0.3404076776342006,1
+146,col-mssge-147,Los que comen carne son asquerosos.,True,1,0.12456458710168293,0.6456620145260393,1
+47,col-mssge-48,Los hombres con masculinidad tóxica no deberían tener cabida en internet.,True,1,0.4410879835814225,0.7206536189591363,1
+260,col-mssge-261,¡Tú eres una maricona asqueroso!,True,1,0.822780324862377,0.9341697401565756,1
+73,col-mssge-74,¡Deberían exterminarte como a una plaga!,True,1,0.013690655817257213,0.6438080474639656,1
+311,col-mssge-312,Los fanáticos religiosos deberían ser crucificados - ¡veamos quién tiene una vida vacía entonces!,True,1,0.7336756261206875,0.8117306734682869,1
+6,col-mssge-7,¿Quién te crees perra?,True,1,0.007691018230806127,0.6464432486318553,1
+233,col-mssge-234,"jaja sí, entonces tal vez los de la Colombia Humana finalmente empezar a ganar las elecciones.",False,1,0.007256609964222012,0.006077528233690852,1
+188,col-mssge-189,climate_r_personal.jpeg,False,1,1.7400543552708932e-05,3.799845147518645e-05,1
+249,col-mssge-250,jaja Los del Centro Democrático son tan débiles que no pueden ganar elecciones a menos que hagan trampa.,True,1,0.1818182147264988,0.647614623151249,1
+236,col-mssge-237,politics_l_personal.jpeg,False,1,0.00010322310367548195,0.0006482122129075596,1
+3,col-mssge-4,Idiota llorona,True,1,0.0076707005161854485,0.647029069921549,1
+5,col-mssge-6,¡Eres un maricón!,True,1,0.7600395569707813,0.8781352248274474,1
+195,col-mssge-196,¡Tú eres un comunista mamerto!,True,1,0.021126578004302017,0.5695516752778701,1
+272,col-mssge-273,Tú eres un perdedor homofóbico e inseguro.,True,1,0.4391654669850332,0.7403232115702948,1
+4,col-mssge-5,¡Todas las feministas son unas zorras consentidas!,True,1,0.5710603255018969,0.7401405076104709,1
+88,col-mssge-89,¡Los xenófobos deberían ser sacados y fusilados!,True,1,0.5697430796860092,0.804833586076261,1
+143,col-mssge-144,vegans_l_personal.jpeg,False,1,0.00010987310729246431,0.0007954858324125296,1
+87,col-mssge-88,"Espero que alguien te golpee en la cara, xenófobo.",True,1,0.04553029763978716,0.5686788192558438,1
+332,col-mssge-333,inequality_l_group.jpeg,False,1,0.0011851339347400084,0.0006786601105147653,1
+71,col-mssge-72,Deberías recibir un puñetazo en la cara.,True,1,0.007754854039592611,0.2521646442715666,1
+219,col-mssge-220,freespeech_r_group.jpeg,False,1,0.0012234677918609763,0.0006259907508777644,1
+112,col-mssge-113,¡Los racistas deberían ser encarcelados por su comportamiento!,True,1,0.1812171693947916,0.3986926217302897,1
+74,col-mssge-75,"Oh sí, no podemos imaginar nuestra sociedad sin los ladrones jaja",False,1,0.007888127587799408,0.14168319898312404,1
+383,col-mssge-384,"¡Los que odian a los policías son peligrosos, deberían ser encarcelados!",True,1,0.1825087536255625,0.40148221420369407,1
+243,col-mssge-244,¡Tú eres un cerdo intolerante!,True,1,0.013392843413655273,0.8038917058684888,1
+24,col-mssge-25,Espero que alguien te golpee en la cara.,True,1,0.007691018230806127,0.14085340503148405,1
+133,col-mssge-134,¡Los veganos son un grupo de hippies sucios!,True,1,0.698260857027424,0.8863882222402053,1
+83,col-mssge-84,¡Los xenófobos son unos nacionalistas follabanderas!,True,1,0.5647694113853314,0.8087987993014704,1
+78,col-mssge-79,Los xenófobos no deberían ser tolerados en internet.,False,1,0.020277926890068663,0.1431314026255792,1
+436,col-mssge-437,¡Tú eres una delincuente que consume mucha gasolina!,True,1,0.0012557004669208707,0.488676344637928,1
+349,col-mssge-350,inequality_r_personal.jpeg,False,1,0.00013045066466158166,0.0007200331438843956,1
+189,col-mssge-190,Dejen de censurar a la gente. No hay NADA que no deba decirse.,False,1,0.08656048374590693,0.1959502415576596,1
+156,col-mssge-157,vegans_r_group.jpeg,False,1,7.264875213164841e-05,0.0006550185868397556,1
+296,col-mssge-297,¡Hay que ejecutar a todos los ateos!,True,1,0.8216576394743486,0.8805209004750704,1
+378,col-mssge-379,"Ahh, el patriotismo... ¡nos convierte a todos en idiotas!",True,1,0.10598171563355077,0.40074085380306773,1
+94,col-mssge-95,Este discurso mamerto no debería enseñarse en las escuelas.,False,1,0.10390956246017913,0.19941923252880675,1
+354,col-mssge-355,Tú eres una traidora idiota.,True,1,0.007340608318128048,0.8125236037688077,1
+192,col-mssge-193,Tú sólo eres un patético perdedor que no puede aceptar una broma.,True,1,0.01361542548028857,0.8128126946160408,1
+429,col-mssge-430,Las camionetas no deberían poder parquearse en las ciudades.,False,1,0.008316447802091127,0.019861612396720442,1
+340,col-mssge-341,"¡Tú eres el culpable, cerdo capitalista!",True,1,0.007612481875340254,0.8030186884259497,1
+180,col-mssge-181,¡Idiota! ¡Tu cerebro es demasiado pequeño para entender la ciencia!,True,1,0.007600082132653821,0.8941872283049044,1
+237,col-mssge-238,Hay que impedir que los del Centro Democrático difundan mentiras,False,1,0.013486932684520845,0.05641995827809605,1
+166,col-mssge-167,Los alarmistas del cambio climático deberían recibir un puñetazo en la cara.,True,1,0.18151346658365888,0.6501450187978839,1
+101,col-mssge-102,¡Tú eres una mamerta de lo políticamente correcto!,True,1,0.10401403864105802,0.5698431593312512,1
+216,col-mssge-217,¡Deberían meterte en una cámara de gas!,True,1,0.045757560519887205,0.6436131637357234,1
+206,col-mssge-207,¡Deja de hacer daño a la gente! La gente que difunde odio debería ir a la cárcel.,False,1,0.019932422368668577,0.1405219215101674,1
+162,col-mssge-163,Eres una alarmista idiota ingenua.,True,1,0.0073323679482366596,0.8054343118110135,1
+93,col-mssge-94,immigrants_r_personal.jpeg,False,1,0.007736677709352454,0.0063804523357340985,1
+441,col-mssge-442,¿Libertad para hacer qué? ¿Rodar en una canaleta? jaja,False,1,0.007512922818838005,0.027783164112459364,1
+306,col-mssge-307,¡Los fanáticos religiosos son más estúpidos que un hijueputa!,True,1,0.7002070469009831,0.8864970164932275,1
+376,col-mssge-377,"¡Todos los ""patriotas"" deberían ser empujados por un barranco!",True,1,0.56899682232203,0.8078364901658863,1
+197,col-mssge-198,Los mamertos merecen el acoso.,True,1,0.43978514653358775,0.647029069921549,1
+90,col-mssge-91,"De acuerdo, ¡las personas que no sean indigenas nativos no tienen cabida aquí! jaja",True,1,0.41397348429777675,0.6485895138044506,1
+215,col-mssge-216,¡Los guerreros de la libertad de expresión deberían ser acorralados y metidos en una cámara de gas!,True,1,0.3054021265965108,0.6437105966853149,1
+414,col-mssge-415,Este tipo de odio a las camionetas no debería estar permitido en internet.,False,1,0.008011660674136735,0.0402896527034029,1
+229,col-mssge-230,A los de la Colombia Humana hay que sacarles la estupidez a puñetazos.,True,1,0.18382355183117136,0.647029069921549,1
+204,col-mssge-205,freespeech_l_personal.jpeg,False,1,0.00012843081201339694,0.0005788235783983012,1
+28,col-mssge-29,"Sí, estoy de acuerdo en que tu madre era la mejor jaja",False,1,0.0011788776183510178,0.02892898421639782,1
+390,col-mssge-391,Mereces ser golpeado en la calle.,True,1,0.020620099707231027,0.5678087674574457,1
+257,col-mssge-258,Tú eres una mariquita estúpida.,True,1,0.00746016522023659,0.8785885297642294,1
+20,col-mssge-21,¡Las amas de casa son unas mantenidas!,False,1,0.045800780806076115,0.2525877175416605,1
+423,col-mssge-424,¡Deberíamos atropellar a todos los que odian las camionetas!,True,1,0.04492521384556713,0.34138621608089825,1
+163,col-mssge-164,¡Los alarmistas del cambio climático son unos asquerosos abraza árboles que destruyen la economía!,True,1,0.1818387328111381,0.8780698796856851,1
+371,col-mssge-372,"¡Los ""patriotas"" son todos unos mentirosos y propagandistas!",True,1,0.3506210990254046,0.6524624795812092,1
+209,col-mssge-210,Tú sólo eres una troll infantil.,True,1,0.007401998098888052,0.6522702816675272,1
+37,col-mssge-38,¡Tu familia es claramente el resultado de genes débiles!,True,1,0.10458638166516522,0.6472242920493639,1
+213,col-mssge-214,"Todos los guerreros de la ""libertad de expresión"" necesitan ser golpeados en la cara.",True,1,0.1838497500039327,0.6466385422583305,1
+391,col-mssge-392,¡Muerte a todos los que odian a la policía!,True,1,0.03514008870471569,0.4546522782220269,1
+388,col-mssge-389,"Debes ser una criminal, ¡¿por qué otro motivo querrías bajar el presupuesto de la policía?!",True,1,0.03527670282193563,0.3982330185213274,1
+53,col-mssge-54,¡Tú eres un depredador asqueroso!,True,1,0.007552347068907107,0.653992672469446,1
+59,col-mssge-60,"Oh sí, definitivamente necesitamos más hombres con masculinidad tóxica, son realmente buenos en todo...",True,1,0.5737315884901004,0.5683884645121886,1
+92,col-mssge-93,immigrants_r_group.jpeg,False,1,0.007597011872975946,0.006176432962192019,1
+136,col-mssge-137,Los veganos deberían ser alimentados a la fuerza con carne.,True,1,0.18411365133506485,0.6437593198921702,1
+295,col-mssge-296,Pronto arderás en el infierno.,False,1,0.0073617751928822,0.1429995727171787,1
+8,col-mssge-9,Espero que alguien te golpee en la cara.,True,1,0.00763464541111614,0.1404495016561511,1
+153,col-mssge-154,¡Espero que alguien te descuartice y venda por carne!,True,1,0.020522609409641686,0.39924058068304596,1
+333,col-mssge-334,inequality_l_personal.jpeg,False,1,0.00012255674483830522,0.0007337515861650474,1
+358,col-mssge-359,Todos los traidores deberían ser golpeados en la cara.,True,1,0.6926045861565963,0.8098486006611091,1
+222,col-mssge-223,¡Los de la Colombia Humana deberían ser condenados por traición al país y disueltos!,True,1,0.10604535337103706,0.4543348987091831,1
+212,col-mssge-213,¡Tú sólo eres una fascista que tiene miedo de admitirlo!,True,1,0.04522209857975113,0.4555194554198483,1
+239,col-mssge-240,Los derechistas del Centro Democrático son todos ideólogos extremistas.,False,1,0.020938765129676656,0.12626874231968455,1
+307,col-mssge-308,¡Eres un estúpido de mierda!,True,1,0.007197765083076808,0.891885016333736,1
+443,col-mssge-444,cars_r_group.jpeg,False,1,7.0311842669149565e-06,2.6947915555885546e-05,1
+182,col-mssge-183,Me gustaría darte un puñetazo para ver si te entra algo de sentido común.,True,1,0.0073553390427630125,0.39963358132305127,1
+194,col-mssge-195,¡Todos los mamertos son comunistas peligrosos!,True,1,0.5651917008268339,0.7206536189591363,1
+177,col-mssge-178,Entonces tú debes ser demasiado estúpido para entender la ciencia.,True,1,0.013507748510402252,0.8908701771558019,1
+313,col-mssge-314,Deberías ser crucificada - ¡veamos quién tiene una vida vacía entonces!,True,1,0.04433219896706827,0.6451738158423146,1
+123,col-mssge-124,¡Tú deberías ser desaparecida de la sociedad!,True,1,0.007312315925709712,0.3995377513842358,1
+181,col-mssge-182,Los escépticos del cambio climático deberían tener algo de sentido común.,False,1,0.007395098670093543,0.00966594728884402,1
+290,col-mssge-291,Tú eres una imbécil arrogante.,True,1,0.007300651630325344,0.879782696852508,1
+350,col-mssge-351,Un lenguaje antipatriótico como este no debería estar en internet.,False,1,0.008083469471841723,0.019771546431850365,1
+366,col-mssge-367,"El patriotismo es dañino, no debería ser fomentado en las escuelas.",False,1,0.02017752829566706,0.028851304611309393,1
+72,col-mssge-73,¡Los inmigrantes deberían ser exterminados como plagas!,True,1,0.8798706123909114,0.9640135674849011,1
+389,col-mssge-390,Los que odian a la policía merecen ser golpeados en la calle.,True,1,0.12339450472017041,0.46404690951824623,1
+41,col-mssge-42,¡Deberían castrarte!,True,1,0.019979455436374593,0.648199747825015,1
+152,col-mssge-153,¡Los comedores de carne deberían ser descuartizados y vendidos!,True,1,0.30502084982462085,0.5676158560256016,1
+444,col-mssge-445,cars_r_personal.jpeg,False,1,1.609308249869283e-05,6.263341581094202e-05,1
+428,col-mssge-429,cars_l_personal.jpeg,False,1,1.4653129390717958e-05,6.263341581094202e-05,1
+17,col-mssge-18,Las madres que se quedan en casa son unas vagas.,True,1,0.352932414935183,0.7395902514756676,1
+246,col-mssge-247,Eres un peligro para la sociedad y deberías recibir un puñetazo en la cara.,True,1,0.0076093640441390956,0.5694545691645436,1
+242,col-mssge-243,¡Los del Centro Democrático son todos unos cerdos intolerantes!,True,1,0.12381869065401627,0.8095078852672377,1
+95,col-mssge-96,¡Todos los libros mamertos deberían ser ilegales y quemados!,True,1,0.35234677457475816,0.568969485636238,1
+36,col-mssge-37,¡Tú eres claramente el resultado de genes débiles!,True,1,0.04562967515443804,0.6468338180068678,1
+430,col-mssge-431,¡Las camionetas deberían estar prohibidas!,False,1,0.007510187282253241,0.019868133883917585,1
+129,col-mssge-130,"Debería estar prohibido que los veganos tengan hijos, ¡es crueldad infantil!",True,1,0.18392855366441602,0.643515749353444,1
+298,col-mssge-299,"Oh, claro, y los ateos definitivamente están haciendo mucho bien a la sociedad, ¿verdad? jaja",False,1,0.013446000015045282,0.055157237590073876,1
+12,col-mssge-13,"Ok, empieza en mi cocina y despues vemos jaja",False,1,4.238847419937498e-05,0.005015165492490057,1
+264,col-mssge-265,¡Muere mariquita!,False,1,0.007300651630325344,0.027585226911665303,1
+203,col-mssge-204,freespeech_l_group.jpeg,False,1,0.0012127433378391326,0.000606063147217987,1
+217,col-mssge-218,"Los guerreros de la ""libertad de expresión"" son todos iguales: publican pendejadas, y lloran cuando alguien les dice que sus pendejadas son estúpidas.",True,1,0.12358555949252609,0.6505327711487752,1
+317,col-mssge-318,religion_r_personal.jpeg,False,1,0.00010322310367548195,9.547317110805593e-05,1
+412,col-mssge-413,police_r_group.jpeg,False,1,4.305570813246149e-05,6.771942330385674e-05,1
+347,col-mssge-348,"jaja esa es una lógica conveniente, mejor esperar que nunca termines pobre",False,1,0.007353210182382988,0.027796941381878635,1
+341,col-mssge-342,"¡Tú eres la culpable, cerda capitalista!",True,1,0.008098330026420986,0.7217835418083735,1
+85,col-mssge-86,¡Tú eres una nacionalista follabanderas!,True,1,0.12381869065401627,0.7206536189591363,1
+285,col-mssge-286,homosexuality_r_personal.jpeg,False,1,0.020950968671186575,0.009757340363476842,1
+279,col-mssge-280,¡Muerte a todos los homofóbicos!,True,1,0.7351604861224766,0.8126684370565441,1
+351,col-mssge-352,¡Los traidores son peligrosos! Deberían ser arrestados y encarcelados.,False,1,0.10529557932961217,0.34107679918144224,1
+184,col-mssge-185,¡La mejor manera de salvar el planeta sería matarte!,True,1,0.0072462240387867385,0.3559695137456226,1
+269,col-mssge-270,El extremismo homofóbico debería ser prohibido.,False,1,0.10418063499514194,0.14390609831857096,1
+21,col-mssge-22,¡Cerdo machista!,True,1,0.41425148133519635,0.7922938252487682,1
+165,col-mssge-166,¡Tú sólo eres una asquerosa abraza árboles que quiere destruir la economía!,True,1,0.03548377664104369,0.8425264699264737,1
+102,col-mssge-103,Los de izquierda radical mamerta necesitan un puñetazo en la cara.,True,1,0.32756139238473897,0.6510892029855737,1
+396,col-mssge-397,police_l_group.jpeg,False,1,3.740956047302422e-05,5.357805383473943e-05,1
+30,col-mssge-31,feminism_r_personal.jpeg,False,1,0.007491330725177586,0.005094431504792346,1
+22,col-mssge-23,¡Eres una mantenida!,False,1,0.007278119648015842,0.02822260393991503,1
+338,col-mssge-339,Tú eres una bastarda capitalista sin corazón.,True,1,0.013737167156786075,0.8117908376728564,1
+108,col-mssge-109,¡jaja que excusa tan conveniente para ser un perdedor!,True,1,0.007569904371979812,0.6489789709156062,1
+27,col-mssge-28,"Oh sí, las amas de casa son las mejores. Por eso nadie les paga...",False,1,0.007118647582498421,0.009529697352250273,1
+335,col-mssge-336,¡Los capitalistas deberían ir a la cárcel por defraudar a la sociedad de esta manera!,False,1,0.0077153210538789384,0.14085340503148405,1
+230,col-mssge-231,Deberían darte un puñetazo por ser de izquierda.,True,1,0.18053255756132677,0.524511572523984,1
+316,col-mssge-317,religion_r_group.jpeg,False,1,0.00014550629385328434,0.0005743531342068192,1
+191,col-mssge-192,Los mamertos son sólo unos patéticos perdedores que no pueden aceptar una broma.,True,1,0.7541306489092625,0.8880617767627702,1
+50,col-mssge-51,Tú eres un imbécil tóxico.,True,1,0.007564006849299171,0.8420464786833547,1
+439,col-mssge-440,¡Los amantes de las camionetas deberían ser empujados desde un puente y ahogarse!,True,1,0.045158507110123654,0.6444906400066458,1
+33,col-mssge-34,Los hombres llorones son una total pérdida de espacio.,True,1,0.7334886016407628,0.8792236334392299,1
+363,col-mssge-364,"No te preocupes, tu país también se avergüenza de ti...",True,1,0.12367248707282354,0.6503389598961979,1
+176,col-mssge-177,Los escépticos del cambio climático son demasiado estúpidos para seguir la ciencia.,True,1,0.1814675244065696,0.8658326205891349,1
+359,col-mssge-360,"Deberían darte un puñetazo en la cara, traidor",True,1,0.008396921893694561,0.801420186132737,1
+103,col-mssge-104,Deberían quitarte lo mamerto de un puñetazo en la cara.,True,1,0.013399400609496095,0.3407743766090261,1
+117,col-mssge-118,¡Tú eres un cerdo racista!,True,1,0.18035016329590567,0.8104361217509588,1
+392,col-mssge-393,"¡Muere, enemigo de la policía!",True,1,0.0012909578220140418,0.34050261329276765,1
+91,col-mssge-92,Aw ¿alguien se siente amenazado por las temibles personas con acento extraño? Pobrecito...,True,1,0.12368218239124239,0.401701778616708,1
+364,col-mssge-365,nationalism_l_group.jpeg,False,1,0.0012669092277858666,0.0006767554853955495,1
+393,col-mssge-394,"¡Muere, enemiga de la policía!",True,1,0.007151923689319632,0.2531837504917603,1
+384,col-mssge-385,Los que odian a la policía son todos débiles de mente.,True,1,0.30475607186817527,0.5249867883777939,1
+382,col-mssge-383,Este tipo de odio a la policía no debería estar permitido en internet.,False,1,0.007540865379960796,0.00879810553664233,1
+25,col-mssge-26,¡A las amas de casa deberían quemarlas con sus casas!,True,1,0.30891730013530344,0.5688725634177189,1
+52,col-mssge-53,¡La mayoría de los hombres son unos asquerosos depredadores!,True,1,0.8287202466343773,0.8799664187087758,1
+415,col-mssge-416,¡Las camionetas son más seguras y deberían ser los únicos carros que se vendieran!,False,1,0.007450092978061416,0.008997284765439973,1
+196,col-mssge-197,¡Tú eres una comunista mamerta!,True,1,0.035228323991323834,0.6439055153328797,1
+334,col-mssge-335,"Los multimillonarios son los culpables de la pobreza, NADIE debería ser tan rico.",False,1,0.020614598407216186,0.20086378426576096,1
+173,col-mssge-174,climate_l_personal.jpeg,False,1,2.1318756129065198e-05,4.7285443452031076e-05,1
+79,col-mssge-80,¡Los xenófobos deberían perder su ciudadanía y ser expulsados del país!,True,1,0.12341347936749596,0.4547886508200455,1
+258,col-mssge-259,¡Los homosexuales son maricones repugnantes!,True,1,0.8606395642684292,0.8927168246490016,1
+348,col-mssge-349,inequality_r_group.jpeg,False,1,0.00013993983588144945,0.0006383916385367546,1
+274,col-mssge-275,¡Los homófobos son reproductores de idiotas!,True,1,0.7358033730561341,0.8800273672609015,1
+115,col-mssge-116,Tú eres una idiota intolerante.,True,1,0.007718846461431141,0.8077554411534824,1
+228,col-mssge-229,¡Tú eres una bastarda comunista!,True,1,0.0865844700584311,0.8427975319232079,1
+84,col-mssge-85,¡Tú eres un nacionalista follabanderas!,True,1,0.10607273231302371,0.8021348003114706,1
+399,col-mssge-400,¡Todos los policías deberían estar encerrados!,False,1,0.10367519233960318,0.3564514698807821,1
+417,col-mssge-418,Tú eres un estúpido abraza-árboles,True,1,0.007896520095441614,0.8122322140234471,1
+119,col-mssge-120,Los racistas deberían ser golpeados en la cara.,True,1,0.5731555774999109,0.8076336232175971,1
+312,col-mssge-313,Deberías ser crucificado - ¡veamos quién tiene una vida vacía entonces!,True,1,0.044494158564890675,0.5688725634177189,1
+10,col-mssge-11,¡Las feministas merecen ser violadas!,True,1,0.8265706353774103,0.8871642216096288,1
+161,col-mssge-162,Eres un alarmista idiota ingenuo.,True,1,0.007253121149162201,0.8038917058684888,1
+318,col-mssge-319,Hay que impedir que los comunistas destruyan este país.,False,1,0.04486268190426934,0.19710052600106387,1
+339,col-mssge-340,¡Los cerdos capitalistas son los culpables!,False,1,0.020397555023027602,0.19798340163441933,1
+211,col-mssge-212,¡Tú sólo eres un fascista que tiene miedo de admitirlo!,True,1,0.04510526030129808,0.40321237353881934,1
+44,col-mssge-45,"Si cariño, ahora ve con tu mami y llora un poquito jaja",False,1,0.0012347925704143867,0.05562359147188722,1
+214,col-mssge-215,Y no es mi problema si otros quieren golpearte en la cara.,True,1,0.007879798983422157,0.1405219215101674,1
+49,col-mssge-50,La mayoría de los hombres son imbéciles con masculinidad tóxica.,True,1,0.7596868496252437,0.8045819867762557,1
+111,col-mssge-112,Los racistas no deberían ser tolerados en internet.,False,1,0.03561029115190434,0.10795583820359098,1
+104,col-mssge-105,Deberían quitarte lo mamerta de un puñetazo en la cara.,True,1,0.00776592819575128,0.40013645399917297,1
+259,col-mssge-260,¡Tú eres un maricón asqueroso!,True,1,0.7622035842032536,0.8909122357102093,1
+367,col-mssge-368,"¡Los llamados ""patriotas"" deberían pagar indemnizaciones a toda la gente a la que este país ha hecho daño!",False,1,0.10442831152888067,0.33950747686579036,1
+386,col-mssge-387,"Los que odian a la policía son todos criminales, ¡¿por qué otro motivo querrían bajar el presupuesto de la policía?!",True,1,0.18219441788665142,0.40276497419214385,1
+328,col-mssge-329,¡Tú deberías ser cazado por deporte!,True,1,0.013521756897263518,0.3982330185213274,1
+352,col-mssge-353,Los traidores desagradecidos son todos idiotas.,True,1,0.18130207637837342,0.7403232115702948,1
+171,col-mssge-172,"Aw alguien tiene miedo de sudar un poco, pobrecito...",False,1,0.013652687756067646,0.1989652570535788,1
+155,col-mssge-156,¿Alguien se siente amenazado por los grandes y temibles veganos? jaja,False,1,0.04478725569472981,0.20001975084435641,1
+147,col-mssge-148,"Tú eres repugnante, come carne.",True,1,0.007966018904876387,0.8018675854794124,1
+297,col-mssge-298,¡Deberían dispararte en la cabeza!,True,1,0.013721547022577565,0.3994102128008137,1
+221,col-mssge-222,Hay que impedir que los de la Colombia Humana difundan mentiras,False,1,0.06369705688596046,0.19865758608634693,1
+107,col-mssge-108,Pensaba que nuestras instituciones estaban construidas con cemento jaja,False,1,0.007366107583979079,0.009303337213212462,1
+394,col-mssge-395,"Todo el mundo odia a la policía hasta que tiene que llamar a la policía, ¿verdad?",False,1,0.01354296813952342,0.14301188313365662,1
+401,col-mssge-402,Tú eres un cabrón amante de los tombos.,True,1,0.02014029890433389,0.6509199810202471,1
+139,col-mssge-140,¡Espero que alguien te sacrifique como al ganado!,True,1,0.020464604714029076,0.2842611188492129,1
+381,col-mssge-382,nationalism_r_personal.jpeg,False,1,0.001195664768288402,0.0005906285010799165,1
+141,col-mssge-142,"¡Por cada hamburguesa que no comas, me comeré dos! jaja",False,1,7.152324320315968e-05,0.009778066087743873,1
+283,col-mssge-284,Um y crees que alguien quiere casarse contigo? jaja,False,1,0.007401998098888052,0.04064021960818552,1
+159,col-mssge-160,¡Los alarmistas del cambio climático deberían ser expulsados del país!,True,1,0.18061917651455972,0.5678087674574457,1
+299,col-mssge-300,"Vete a casa, ateo, ¡estás borracho!",True,1,0.10490610407665067,0.653992672469446,1
+433,col-mssge-434,Tú eres una imbécil egoísta.,True,1,0.007420791930921605,0.8427299861174691,1
+325,col-mssge-326,"Protege a tu familia, dale una patada en el culo a un comunista.",True,1,0.04533137149520577,0.40321237353881934,1
+150,col-mssge-151,Los que comen carne deberían ser electrocutados con tasers de ganado.,True,1,0.35110870990807264,0.6469802595029145,1
+411,col-mssge-412,¡aww pequeño bebé oficial de policía necesita protección!,False,1,2.1318756129065198e-05,0.0005881933939738148,1
+234,col-mssge-235,ooo soy un izquierdista de la Colombia Humana y cualquiera que no esté de acuerdo conmigo es un fascista! jaja,False,1,0.10370415435700714,0.1997747883046394,1
+256,col-mssge-257,Tú eres un mariquita estúpido.,True,1,0.007625073712682713,0.8424583384164924,1
+32,col-mssge-33,¡Todos los hombres deberían estar obligados a hacer el servicio militar para endurecerse!,True,1,0.4404959635900898,0.6498538763678923,1
+183,col-mssge-184,¡Los escépticos del cambio climático deberían ser asesinados para salvar el planeta!,True,1,0.1805109816324551,0.6468826334525568,1
+240,col-mssge-241,Tú eres un ideólogo de extrema derecha.,False,1,0.00778467032427859,0.019739932414270175,1
+109,col-mssge-110,racism_l_group.jpeg,False,1,0.035332748114949034,0.027660793253092838,1
+51,col-mssge-52,Eres una tonta esposa trofeo.,True,1,0.04584429993987635,0.8026664112739941,1
+442,col-mssge-443,¡Apuesto a que todavía juegas con tus pequeños carritos de juguete en casa también!,False,1,0.0012415462061852699,0.008706121210831643,1
+86,col-mssge-87,Los xenófobos deberían recibir un puñetazo en la cara.,True,1,0.30562311915843365,0.6472730922298371,1
+355,col-mssge-356,Los traidores deberían ser identificados por lo que son: ¡escoria terrorista!,True,1,0.1814446022652547,0.6541829406433786,1
+292,col-mssge-293,¡Tú eres un sucio incrédulo!,True,1,0.020737994139810263,0.6450761932363457,1
+369,col-mssge-370,Tú eres un borrego idiota.,True,1,0.007664031263884288,0.8075929522141405,1
+286,col-mssge-287,La religión es importante y debería ser obligatoria en las escuelas.,False,1,0.013432560161932222,0.009927507904537527,1
+425,col-mssge-426,"Los que odian a las camionetas creen que van a salvar el mundo, que tontos jaja",True,1,0.03558768320552759,0.5249867883777939,1
+420,col-mssge-421,"¡Contrólate, cabrón odiador de las camionetas!",True,1,0.007879798983422157,0.8119385338421403,1
+404,col-mssge-405,¡Tú eres un cerdo asqueroso!,True,1,0.007512922818838005,0.8079174084686074,1
+137,col-mssge-138,Debería alimentarte a la fuerza con una hamburguesa,True,1,0.007099777896984462,0.19545740001882933,1
+224,col-mssge-225,Tú debes ser una especie de perdedor inútil.,True,1,0.008030410251693806,0.8069378301019912,1
+353,col-mssge-354,Tú eres un traidor idiota.,True,1,0.007289254897093524,0.8088781265415108,1
+288,col-mssge-289,Los ateos son todos unos imbéciles arrogantes.,True,1,0.5705883109114975,0.879782696852508,1
+304,col-mssge-305,Las personas religiosas son un montón de ovejas que obedecen a la Biblia.,True,1,0.6953322864896131,0.8061075000483258,1
+7,col-mssge-8,Las feministas deberían recibir un puñetazo en la cara.,True,1,0.7223066245945535,0.807542067834266,1
+287,col-mssge-288,"El ateísmo debería estar prohibido, ¡no tienen valores!",True,1,0.18164048209884606,0.4554277895003437,1
+398,col-mssge-399,La policía debería ser disminuida.,False,1,0.013459541558652834,0.020281869358719475,1
+409,col-mssge-410,"¡Muere, amante de los tombos!",False,1,0.0071210897779760505,0.10819658660632987,1
+225,col-mssge-226,Tú debes ser una especie de perdedora inútil.,True,1,0.013737167156786075,0.8042377663633286,1
+437,col-mssge-438,Los amantes de las camionetas necesitan una buena patada en el culo,False,1,0.007475567814941573,0.14154440523490117,1
+302,col-mssge-303,La religión es perjudicial y no debería permitirse en las escuelas.,True,1,0.5659756327068107,0.6431262922422885,1
+262,col-mssge-263,Te mereces que te pateen el culo,True,1,0.013737167156786075,0.5696730973569821,1
+379,col-mssge-380,Aww apuesto que tu país está muy orgulloso de ti también jaja,False,1,0.00012255674483830522,0.005792489508683397,1
+263,col-mssge-264,¡Muerte a todos los homosexuales!,True,1,0.8810003246826418,0.8944081730097194,1
+200,col-mssge-201,"¡Muere, guerrero de la justicia social!",False,1,0.0012538826540792465,0.028466274164357007,1
+75,col-mssge-76,¿Por qué estás tan obsesionado con los inmigrantes? ¿Eres algún tipo de depravado sexual? jaja,True,1,0.43937123456525884,0.8860307248305015,1
+57,col-mssge-58,¡Deberían pegarle un tiro a los hombres con masculinidad tóxica!,True,1,0.5695560552060844,0.6436618779357329,1
+34,col-mssge-35,Tú eres un total desperdicio de espacio.,True,1,0.001245002643810618,0.8096639659874637,1
+55,col-mssge-56,Los hombres con masculinidad tóxica deberían ser golpeados en la cara.,True,1,0.8258407321630066,0.8856389981849266,1
+235,col-mssge-236,politics_l_group.jpeg,False,1,9.253848866495987e-05,0.0005834355102187161,1
+126,col-mssge-127,racism_r_group.jpeg,False,1,0.03507361707957376,0.02756761094405761,1
+413,col-mssge-414,police_r_personal.jpeg,False,1,8.040859356292355e-05,0.0006171838133138746,1
+251,col-mssge-252,politics_r_group.jpeg,False,1,0.00010242063784298284,0.0005931018339467512,1
+245,col-mssge-246,"Hay que golpear a todos los del Centro Democrático, son un peligro para la sociedad.",True,1,0.3276245359896788,0.6502662468897675,1
+419,col-mssge-420,¡Los bastardos que odian las camionetas tienen que controlarse!,True,1,0.3269688357135281,0.801509867758371,1
+438,col-mssge-439,Debería darte una patada en el culo,True,1,0.007450092978061416,0.400719171635503,1
+175,col-mssge-176,¡Los escépticos del cambio climático deberían ser expulsados del país!,True,1,0.12415627381880931,0.567712290854656,1
+190,col-mssge-191,¡Dejen de censurar a la gente! Los mamertos deberían ser expulsados de este país.,True,1,0.6963087248322148,0.8086795570624126,1
+278,col-mssge-279,Me gustaría darte un puñetazo en la cara,True,1,0.007256609964222012,0.40005057289530066,1
+418,col-mssge-419,Tú eres una estúpida abraza-árboles,True,1,0.007863331584543847,0.8778070309652911,1
+178,col-mssge-179,Entonces tú debes ser demasiado estúpida para entender la ciencia.,True,1,0.013392843413655273,0.891488155602203,1
+125,col-mssge-126,"Vaya, no sabía que fueras tan experto en racismo...",False,1,0.08641240130671357,0.19635133508668176,1
+226,col-mssge-227,¡Los de la Colombia Humana son todos unos bastardos comunistas!,True,1,0.35102686789365933,0.8779387489408383,1
+377,col-mssge-378,¡Espero que alguien te empuje por un barranco!,True,1,0.00745510968217876,0.14025265017033856,1
+426,col-mssge-427,"jaja Apuesto a que ni siquiera sabes manejar, así que ¿por qué te importa?",True,1,0.0075074622606628,0.8021348003114706,1
+253,col-mssge-254,La homosexualidad es un pecado y no debería hablarse de eso en las escuelas.,True,1,0.8282634864745548,0.8868467005790467,1
+303,col-mssge-304,¡Las personas religiosas no son racionales y no se les debería permitir votar!,True,1,0.8219003940825927,0.8864426900789242,1
+402,col-mssge-403,Tú eres un cabrona amante de los tombos.,True,1,0.020538634146024172,0.647029069921549,1
+9,col-mssge-10,¡Deberían violar a todas las feministas!,True,1,0.7334886016407628,0.7218538225821813,1
+424,col-mssge-425,¡Me gustaría atropellarte con mi camioneta!,True,1,0.007229441470329221,0.40254223058736704,1
+61,col-mssge-62,men_r_group.jpeg,False,1,0.013667789574467574,0.009012330020643396,1
+220,col-mssge-221,freespeech_r_personal.jpeg,False,1,0.00014779429802159512,0.0006007572149160288,1
+29,col-mssge-30,feminism_r_group.jpeg,False,1,0.007440174896222528,0.004988775444950683,1
+434,col-mssge-435,¡Los amantes de las camionetas son todos unos criminales derrochadores de gasolina!,True,1,0.06360048215183356,0.4884912144483934,1
+151,col-mssge-152,Espero que alguien te electrocute con una taser de ganado.,True,1,0.008059075921787569,0.252067892905742,1
+343,col-mssge-344,Espero que alguien te golpee con un bate,True,1,0.007807639784830404,0.19956613964939224,1
+232,col-mssge-233,¡Debería pegarte un tiro!,True,1,0.0073426883915751005,0.284695954528201,1
+370,col-mssge-371,Tú eres una borrega idiota.,True,1,0.007718846461431141,0.8658988465305525,1
+301,col-mssge-302,religion_l_personal.jpeg,False,1,0.00010083435416563172,9.697519677825862e-05,1
+179,col-mssge-180,¡Los escépticos del cambio climático no pueden entender la ciencia porque sus cerebros son demasiado pequeños!,True,1,0.10468043705478963,0.8023124248363867,1
+346,col-mssge-347,"Los capitalistas son gente tan cálida y cariñosa, ¿no?",False,1,3.625900662832244e-05,0.0005906285010799165,1
+202,col-mssge-203,"jaja relájate, a nadie le importa una mierda las minorías y sus derechos.",True,1,0.5673825533357715,0.8019567601649923,1
+135,col-mssge-136,¡Tú eres una hippie sucia!,True,1,0.18105989190479174,0.48830641686805554,1
+327,col-mssge-328,¡Los comunistas deberían ser cazados por deporte!,True,1,0.3528629686593394,0.8029857358784066,1
+403,col-mssge-404,¡Los policías son todos unos cerdos asquerosos!,True,1,0.03575633544725167,0.6526544850985575,1
+321,col-mssge-322,"Eres un imbécil total, izquierdista comunista",True,1,0.12311334359169432,0.8904860396441394,1
+38,col-mssge-39,"Hay que golpear a todos los hombres débiles, para endurecerlos.",True,1,0.8603173796356902,0.8426707633684279,1
+380,col-mssge-381,nationalism_r_group.jpeg,False,1,0.0071361478482963835,0.0007314205575305067,1
+68,col-mssge-69,¡Tú eres un sucio inmigrante!,True,1,0.7354365337266722,0.8878603412375357,1
+148,col-mssge-149,¡Los que comen carne son todos cavernícolas incivilizados!,True,1,0.3514715397813237,0.6541829406433786,1
+422,col-mssge-423,"Debería darte una patada en el culo, odiador de las camionetas.",True,1,0.0076707005161854485,0.6498053268699159,1
+26,col-mssge-27,¡Espero que alguien queme tu casa y mueras!,True,1,0.020976279715613277,0.6487842839169041,1
+247,col-mssge-248,¡Muerte a todos los del Centro Democrático!,True,1,0.08710736693801835,0.6432722994693699,1
+82,col-mssge-83,Tú eres una perdedora patética e intolerante.,True,1,0.007406642302170238,0.8105888910597996,1
+185,col-mssge-186,"Hmm, creo que los escépticos del cambio climático están muy sobrevalorados, jaja",False,1,0.008113361199931796,0.19609161260842148,1
+268,col-mssge-269,homosexuality_l_personal.jpeg,False,1,0.020842726774753295,0.00984116927050755,1
+13,col-mssge-14,feminism_l_group.jpeg,False,1,0.007285514389826972,0.0007843821959224832,1
+336,col-mssge-337,Los capitalistas son todos unos bastardos sin corazón.,True,1,0.035396774794577694,0.8031941765112449,1
+124,col-mssge-125,"jaja ¡gracias a Dios! El problema del racismo está totalmente resuelto, gracias al internet.",False,1,0.045028719645541795,0.10764575389987865,1
+40,col-mssge-41,¡Los hombres llorones deberían ser castrados!,True,1,0.8601314646209575,0.8924208093011833,1
+164,col-mssge-165,¡Tú sólo eres un asqueroso abraza árboles que quiere destruir la economía!,True,1,0.020737994139810263,0.8783951371301254,1
+118,col-mssge-119,¡Tú eres una cerda racista!,True,1,0.3505526886680862,0.8071023804756571,1
+120,col-mssge-121,Espero que alguien te golpee en la cara.,True,1,0.007691018230806127,0.14085340503148405,1
+18,col-mssge-19,Eres un machista,True,1,0.3864358358261076,0.5221605122850035,1
+98,col-mssge-99,"Tú eres una lunática extremista, cállate.",True,1,0.020443802312827445,0.8098194992673005,1
+387,col-mssge-388,"Debes ser un criminal, ¡¿por qué otro motivo querrías bajar el presupuesto de la policía?!",False,1,0.020980131381679472,0.35695853281223605,1
+276,col-mssge-277,¡Tú eres una reproductora de idiotas!,True,1,0.18038218592008412,0.8075115129018823,1
+69,col-mssge-70,¡Tú eres un sucia inmigrante!,True,1,0.38759094442959685,0.6446857847169584,1
+362,col-mssge-363,Me avergüenzo de todos los estúpidos traidores llorones de mi país,True,1,0.44281126242638985,0.8115682267104805,1
+294,col-mssge-295,Todos los ateos arderán en el infierno.,True,1,0.18207502530355638,0.4005243518354442,1
+127,col-mssge-128,racism_r_personal.jpeg,False,1,0.035432797020115245,0.02801759358142457,1
+81,col-mssge-82,Tú eres un perdedor patético e intolerante.,True,1,0.007296823293085293,0.8107411025436737,1
+432,col-mssge-433,Tú eres un imbécil egoísta.,True,1,0.0074255817382986086,0.841207010838883,1
+319,col-mssge-320,¡Los comunistas deberían ir a la cárcel por amenazar la democracia!,False,1,0.02070951013561499,0.2519394048815888,1
+284,col-mssge-285,homosexuality_r_group.jpeg,False,1,0.020549366631059506,0.009364609690010697,1
+1,col-mssge-2,¡Las mujeres no deberían poder trabajar!,True,1,0.7594212007523197,0.8122322140234471,1
+144,col-mssge-145,"Deberíamos dejar de servir carne a los niños, es terrible para ellos",False,1,0.020664476260549684,0.055104082760031356,1
+67,col-mssge-68,¡Los inmigrantes son ratas sucias!,True,1,0.8595499278547716,0.8906152123082689,1
+60,col-mssge-61,"¿Necesitas que algún hombre grande y fuerte que te cuide, princesa?",False,1,0.007353210182382988,0.02772841745612612,1
+345,col-mssge-346,¡Espero que alguien ponga tu cabeza en una pica!,True,1,0.04484200235106305,0.6456620145260393,1
+356,col-mssge-357,"¡Eres escoria terrorista, traidor!",True,1,0.06357796217084415,0.8124509715354588,1
+142,col-mssge-143,vegans_l_group.jpeg,False,1,6.31243456875032e-05,0.0006215358755526572,1
+252,col-mssge-253,politics_r_personal.jpeg,False,1,0.00012160416047592268,0.0006767554853955495,1
+100,col-mssge-101,¡Tú eres un mamerto de lo políticamente correcto!,False,1,0.08677931389231888,0.3560495088488326,1
+385,col-mssge-386,Tú debes ser débil mentalmente.,True,1,0.03566351895941598,0.6460526315789474,1
+168,col-mssge-169,¡Los alarmistas del clima deberían ser atropellados por camionetas!,True,1,0.18248437237322335,0.6525104992153586,1
+19,col-mssge-20,Sólo eres una perezosa,True,1,0.019953681416847013,0.8084001567936759,1
+97,col-mssge-98,"Tú eres un lunático extremista, cállate.",True,1,0.02043345858663897,0.8089573194038091,1
+66,col-mssge-67,Está claro que necesitas más educación.,False,1,0.007104385995498579,0.05550105534009993,1
+89,col-mssge-90,¡Espero que alguien te pegue un tiro en la calle!,True,1,0.008207239351153403,0.1977304523647518,1
+174,col-mssge-175,Hay que impedir que los escépticos del cambio climático difundan mentiras.,False,1,0.01214946712534685,0.025974970704261517,1
+122,col-mssge-123,¡Tú deberías ser desaparecido de la sociedad!,True,1,0.007440174896222528,0.4642536278856572,1
+254,col-mssge-255,¡Los homosexuales deberían ir a la cárcel!,True,1,0.8202601126929733,0.8796131296039834,1
+198,col-mssge-199,Tú te mereces el acoso.,True,1,0.020014272424073432,0.5683884645121886,1
+435,col-mssge-436,¡Tú eres un delincuente que consume mucha gasolina!,True,1,0.0012806643382590516,0.5269015639049663,1
+58,col-mssge-59,¡Deberían pegarte un tiro!,True,1,0.013447687131657539,0.34177607514150443,1
+132,col-mssge-133,Eres una elitista ignorante.,True,1,0.020005519444309755,0.6518853310124848,1
+373,col-mssge-374,¡Tú eres una mentirosa y una propagandista!,True,1,0.00806877765066953,0.5257501690749148,1
+128,col-mssge-129,Todos deberíamos comer carne por nuestra propia salud,False,1,0.007569904371979812,0.025771318578946743,1
+0,col-mssge-1,"Las mujeres deberían dedicarse a ser madres, en lugar de centrarse tanto en sus carreras.",True,1,0.3532818312884115,0.644100499383738,1

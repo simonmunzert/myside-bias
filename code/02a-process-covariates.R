@@ -9,12 +9,6 @@ source("code/helper-objects.R")
 
 data_survey_complete <- readRDS("data/cooked/data_survey_complete.rds")
 
-# how many non-zero-length definitions?
-tabyl(data_survey_complete$open_hatedefinition != "")
-tabyl(data_survey_complete$open_allow != "")
-tabyl(str_length(data_survey_complete$open_hatedefinition) > 30)
-# filter(data_survey_complete, str_length(data_survey_complete$open_hatedefinition) < 30, str_length(data_survey_complete$open_hatedefinition) > 0) %>% dplyr::select(open_hatedefinition) %>% View()
-
 
 # encode experimental indicator variables --------------
 
@@ -45,6 +39,39 @@ data_survey_complete %<>%
   )
 data_survey_complete$manipcheck_frame_passed[is.na(data_survey_complete$manipcheck_frame_passed)] <- FALSE
 attr(data_survey_complete$manipcheck_frame_passed, "label") <- "Framing manipulation check"
+
+data_survey_complete$vig_manipcheck_ch <- as.factor(data_survey_complete$vig_manipcheck) %>%
+  fct_other(keep = c("1", "2", "3", "4"), other_level = NA) %>%
+  fct_recode(
+    "Free speech" = "1",
+    "Protect users" = "2",
+    "Another platform" = "3",
+    "No particular platform" = "4"
+  ) %>% 
+  fct_relevel("Another platform", "No particular platform", "Free speech", "Protect users")
+tab_manipcheck <- tabyl(data_survey_complete, frame_vig, vig_manipcheck_ch) %>%
+  adorn_percentages("row") %>%
+  adorn_pct_formatting(digits = 1)
+
+
+names(tab_manipcheck)[1] <- ""
+names(tab_manipcheck)[6] <- "No answer"
+latex_table <- kable(
+  tab_manipcheck,
+  format = "latex",
+  booktabs = TRUE,
+  linesep = "",
+  caption = '\\textbf{Frame treatment status and answer to manipulation check question.} Treatment status in rows, Manipulation check answers in columns. Row percentages reported.',
+  label = "frame-manipcheck",
+  align = c("l", "r", "r", "r", "r", "r", "r", "r")
+) %>%
+  add_header_above(
+    c(" " = 1, "Manipulation check: 'What kind of social platform did you have in mind?'" = 5)
+  ) %>%
+  kableExtra::row_spec(0, bold = TRUE)
+writeLines(latex_table, "figures/frame-manipcheck.tex")
+
+
 
 
 
@@ -97,12 +124,38 @@ data_survey_complete$age_cat2 <- cut(as.numeric(data_survey_complete$age10), bre
 attr(data_survey_complete$age_cat2, "label") <- "Age"
 
 
+# age, categorical, fine-grained, version for weighting
+
+attribute_levels <- c("18-24", "25-49", "50-69", "70+")
+data_survey_complete$age_cat3 <- cut(as.numeric(data_survey_complete$age10), breaks = c(0, 2.4, 4.9, 6.9, 9), include.lowest = TRUE, labels = attribute_levels)
+attr(data_survey_complete$age_cat3, "label") <- "Age"
+
 # ageXgender
 
 data_survey_complete$ageXgender <- interaction(data_survey_complete$gender2, data_survey_complete$age_cat2)
 
 
 # education
+
+# export education encoding scheme ------------
+
+# store raw education variables
+data_survey_complete <- data_survey_complete %>%
+  mutate(
+    education_bra_raw    = education_bra,
+    education_col_raw    = education_col,
+    education_ger_raw    = education_ger,
+    education_idn_raw    = education_idn,
+    education_ind_raw    = education_ind,
+    education_indeng_raw = education_indeng,
+    education_phl_raw    = education_phl,
+    education_phleng_raw = education_phleng,
+    education_nig_raw    = education_nig,
+    education_pol_raw    = education_pol,
+    education_tur_raw    = education_tur,
+    education_gbr_raw    = education_gbr,
+    education_usa_raw    = education_usa
+  )
 
 attribute_levels <- c("Low", "Intermediate", "High")
 
@@ -292,6 +345,60 @@ tabyl(data_survey_complete$educ_cat)
 attr(data_survey_complete$educ_cat, "label") <- "Education"
 
 
+# helper: build mapping for one country
+make_educ_mapping <- function(df, country, raw_var, cat_var) {
+  v_raw <- df[[raw_var]]
+  v_cat <- df[[cat_var]]
+  
+  tibble(
+    country  = country,
+    code     = as.numeric(v_raw),
+    label    = as.character(as_factor(v_raw, levels = "labels")),  # uses haven labels
+    educ_cat = as.character(v_cat)
+  ) %>%
+    distinct(country, code, label, educ_cat) %>%
+    arrange(code)
+}
+
+# specify all countries and variable names
+
+educ_specs <- tribble(
+  ~country,        ~raw_var,              ~cat_var,
+  "Brazil",        "education_bra_raw",   "educ_cat_bra",
+  "Colombia",      "education_col_raw",   "educ_cat_col",
+  "Germany",       "education_ger_raw",   "educ_cat_ger",
+  "Indonesia",     "education_idn_raw",   "educ_cat_idn",
+  "India (Hindi)", "education_ind_raw",   "educ_cat_ind",
+  "India (Eng.)",  "education_indeng_raw","educ_cat_indeng",
+  "Philippines",   "education_phl_raw",   "educ_cat_phl",
+  "Philippines-E", "education_phleng_raw","educ_cat_phleng",
+  "Nigeria",       "education_nig_raw",   "educ_cat_nig",
+  "Poland",        "education_pol_raw",   "educ_cat_pol",
+  "Turkey",        "education_tur_raw",   "educ_cat_tur",
+  "Great Britain", "education_gbr_raw",   "educ_cat_gbr",
+  "USA",           "education_usa_raw",   "educ_cat_usa"
+)
+
+# build one big mapping table
+
+educ_mapping <- pmap_dfr(
+  educ_specs,
+  ~ make_educ_mapping(
+    df      = data_survey_complete,
+    country = ..1,
+    raw_var = ..2,
+    cat_var = ..3
+  )
+)
+
+# export to excel
+educ_mapping <- educ_mapping %>%
+  arrange(country, code) %>%
+  filter(!is.na(code)) %>%
+  write_xlsx("data/cooked/edu-var-mapping.xlsx")
+
+
+
 # ethnicity
 
 data_survey_complete %<>% mutate(ethnicity_num = rowSums(dplyr::select(., ethnicity_w, ethnicity_m, ethnicity_o), na.rm = TRUE))
@@ -346,7 +453,7 @@ attr(data_survey_complete$polinterest_cat2, "label") <- "Political interest"
 attribute_levels <- c("Left", "Center", "Right")
 data_survey_complete <- data_survey_complete %>% 
   mutate(leftright_cat = case_when(
-    leftright <5 ~ attribute_levels[1], 
+    leftright <= 5 ~ attribute_levels[1], 
     leftright > 5 & leftright <7 ~ attribute_levels[2],
     leftright >= 7 ~ attribute_levels[3]
   ))
@@ -792,9 +899,156 @@ data_survey_complete <- data_survey_complete %>% relocate(
   starts_with("t_"), .after = last_col()
 )
 
-# export data ---------------------------
-
 data_survey_resp <- data_survey_complete 
+
+
+# process weights ----------------------------------
+
+# import population distributions
+
+pop_demo <- 
+  read_xlsx("data/cooked/pop-sex-age.xlsx") %>%
+  mutate(Freq = share_pop/100 * pop_size*1e6) %>%
+  mutate(
+    ps_sex_age = interaction(resp_country2, gender2, age_cat3, drop = TRUE),
+    # turn percent into pseudo-counts (scales within country)
+  ) %>%
+  select(ps_sex_age, Freq)
+
+pop_edu <- read_xlsx("data/cooked/pop-edu.xlsx") %>%
+  mutate(Freq = share_pop/100 * pop_size*1e6) %>%
+  mutate(
+    rake_edu = interaction(resp_country2, educ_cat, drop = TRUE),
+    # turn percent into pseudo-counts (scales within country)
+  ) %>% 
+  select(resp_country2, educ_cat, Freq)
+
+# population distributions for country-level weights
+
+pop_demo_country <- 
+  read_xlsx("data/cooked/pop-sex-age.xlsx") %>%
+  mutate(pop_size = 1) %>% # set pop size to 1 for country-level weights; no population-size adjustments across countries
+  mutate(Freq = share_pop/100 * pop_size*1e6) %>%
+  mutate(
+    ps_sex_age = interaction(resp_country2, gender2, age_cat3, drop = TRUE),
+    # turn percent into pseudo-counts (scales within country)
+  ) %>%
+  select(ps_sex_age, Freq)
+
+pop_edu_country <- read_xlsx("data/cooked/pop-edu.xlsx") %>%
+  mutate(pop_size = 1) %>% # set pop size to 1 for country-level weights; no population-size adjustments across countries
+  mutate(Freq = share_pop/100 * pop_size*1e6) %>%
+  mutate(
+    rake_edu = interaction(resp_country2, educ_cat, drop = TRUE),
+    # turn percent into pseudo-counts (scales within country)
+  ) %>% 
+  select(resp_country2, educ_cat, Freq)
+
+
+# set up data for weighting
+
+data_survey_resp_weights <- data_survey_resp %>% 
+  filter(!is.na(resp_country2),
+         !is.na(gender2),
+         !is.na(age_cat3)) %>%
+  mutate(ps_sex_age = interaction(resp_country2, gender2, age_cat3, drop = TRUE)) 
+
+# set up survey design
+
+# post-stratification + raking for pooled analyses
+
+svy_design_ps_rake <- 
+  # set up without weights
+  svydesign(
+    ids = ~1,
+    weights = ~1,
+    data = data_survey_resp_weights
+  ) %>%
+  # update with poststratification strata
+  update(ps = data_survey_resp_weights$ps) %>%
+  # post-stratify design to match joint country×sex×age distribution
+  postStratify(
+    strata = ~ps_sex_age,
+    population = pop_demo,  # columns: ps, N
+    partial = TRUE
+  ) %>%
+  # rake to education distribution within each country
+  rake(
+    sample.margins      = list(~educ_cat + resp_country2),
+    population.margins  = list(pop_edu)
+  )
+data_survey_resp_weights$weights_pooled <- weights(svy_design_ps_rake, type = "analysis")
+
+# post-stratification + raking for country-level analyses
+svy_design_ps_rake_country <- 
+  # set up without weights
+  svydesign(
+    ids = ~1,
+    weights = ~1,
+    data = data_survey_resp_weights
+  ) %>%
+  # update with poststratification strata
+  update(ps = data_survey_resp_weights$ps) %>%
+  # post-stratify design to match joint country×sex×age distribution
+  postStratify(
+    strata = ~ps_sex_age,
+    population = pop_demo_country,  # columns: ps, N
+    partial = TRUE
+  ) %>%
+  # rake to education distribution within each country
+  rake(
+    sample.margins      = list(~educ_cat + resp_country2),
+    population.margins  = list(pop_edu_country)
+  )
+data_survey_resp_weights$weights_country <- weights(svy_design_ps_rake_country, type = "analysis")
+
+
+# merge weights with original data frame
+
+data_survey_resp <- data_survey_resp %>%
+  left_join(
+    data_survey_resp_weights %>%
+      select(resp_id, weights_pooled, weights_country),
+    by = "resp_id"
+  )
+
+
+# export survey data frame with weights ----------------
+
+save(data_survey_resp, file = "data/cooked/data_survey_resp.RData")
+
+
+# quick check: compare country-level vs. pooled weights
+
+# ggplot by country
+
+ggplot(
+  data_survey_resp,
+  aes(x = log(weights_country), y = log(weights_pooled), color = resp_country2)
+) +
+  geom_point(alpha = 1) +
+  labs(
+    x = "Country-level weights (log)",
+    y = "Pooled weights (log)"
+  ) +
+  theme_minimal()
+
+
+# histogram distribution of weights_country by country, facet, log scale
+
+ggplot(
+  data_survey_resp,
+  aes(x = weights_country)
+) +
+  geom_histogram(bins = 30, alpha = 0.7, position = "identity") +
+  scale_x_log10() +
+  facet_wrap(~resp_country2_lab, scales = "free_y") +
+  labs(
+    x = "Country-level weights (log)",
+    y = "Count"
+  ) +
+  theme_minimal()
+
 
 save(data_survey_resp, file = "data/cooked/data_survey_resp.RData")
 

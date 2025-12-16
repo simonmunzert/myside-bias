@@ -1,0 +1,381 @@
+,id,text,score_max,predicted_label_max,score_hate,scores_harassment,true_label
+213,pol-mssge-214,Lol yeah wtedy może Lewacy w końcu zaczną wygrywać wybory.,False,1,0.0012467511297664202,0.00506386597931783,1
+31,pol-mssge-32,"Mężczyźni powinni spędzać mniej czasu na ryczeniu, a więcej na zarabianiu na życie.",False,1,0.08682885375277921,0.19533312371993944,1
+96,pol-mssge-97,Ty jesteś cancel culture bandytą!,False,1,0.007383775707857504,0.357183246297298,1
+148,pol-mssge-149,Alarmiści klimatyczni powinni zostać wyrzuceni z kraju!,True,1,0.1834347470761031,0.5676158560256016,1
+191,pol-mssge-192,Absolutyści wolności słowa to banda dziecinnych shitposterów.,True,1,0.02017752829566706,0.40108872659440187,1
+202,pol-mssge-203,freespeech_r_personal.jpeg,False,1,0.0011826021388617776,0.0006087787255549655,1
+33,pol-mssge-34,Faceci-beksy to totalne marnotrastwo przestrzeni.,False,1,6.878511550552459e-05,0.0007898909507811195,1
+24,pol-mssge-25,"Mam nadzieję, że ktoś Ci przywali w twarz.",True,1,0.00785114526702477,0.25303102818357626,1
+115,pol-mssge-116,"Dzięki Bogu! Dzięki internetowi, problem rasizmu jest całkowicie rozwiązany. Lol.",False,1,0.03518734162971774,0.056389198751179606,1
+240,pol-mssge-241,Giń ty pedale!,False,1,0.007207011617104227,0.058787643811186896,1
+161,pol-mssge-162,Sceptycy klimatyczni powinni zostać powstrzymani przed rozpowszechnianiem kłamstw.,False,1,0.007813465066278474,0.027541303555671717,1
+370,pol-mssge-371,police_r_personal.jpeg,False,1,4.655269187520153e-05,7.793660930208434e-05,1
+108,pol-mssge-109,Ty jesteś bigoteryjnym dupkiem.,True,1,0.04445367834782452,0.8414891610780006,1
+16,pol-mssge-17,Siedzą na chacie z dzieciakiem i nie płacą podatów to nie powinny mieć prawa głosować!,True,1,0.18361521847879897,0.5231895264751878,1
+46,pol-mssge-47,men_l_personal.jpeg,False,1,0.007200823403173291,0.004999910694028364,1
+357,pol-mssge-358,Policja powinna zostać zredukowana.,False,1,0.00737487341603587,0.005799858126313029,1
+236,pol-mssge-237,Jesteś obleśną ciotą!,False,1,0.013675383084351893,0.28427840292323386,1
+332,pol-mssge-333,Jesteś idiotyczną owcą.,True,1,0.0071828241009804766,0.8873471216871821,1
+211,pol-mssge-212,Lewacy powinni być zastrzeleni na miejscu!,True,1,0.06346099115625564,0.3386775768342657,1
+287,pol-mssge-288,Komuniści powinni zostać powstrzymani przed zniszczeniem tego kraju.,False,1,0.020932680062088607,0.05885046620699342,1
+6,pol-mssge-7,Ty zarozumiała suko!,True,1,0.007691018230806127,0.7221578892549488,1
+282,pol-mssge-283,"Powinieneś zostać ukrzyżowany - zobaczmy, kto ma wtedy puste życie!",True,1,0.02060636541295541,0.34212985918043237,1
+36,pol-mssge-37,Jesteś najwyraźniej wynikiem słabych genów!,False,1,0.007496666529635277,0.34107679918144224,1
+81,pol-mssge-82,Ksenofobowie to banda popaprańców z flagami!,False,1,0.04511007978128,0.1436246505658251,1
+58,pol-mssge-59,Powinnio Cię się zastrzelić!,True,1,0.000138852327569001,0.008839038206117894,1
+154,pol-mssge-155,"Zasługujesz na to, by dostać w twarz.",True,1,0.0072101418796636455,0.2006896856408083,1
+347,pol-mssge-348,"Ci co nienawidzą gliniarzy są kryminalistami, dlaczego inaczej chcieliby zdefundować policję?!",False,1,0.08685998631593111,0.3394148776753422,1
+289,pol-mssge-290,Komunistyczni lewacy są totalnymi imbecylami.,True,1,0.35321165694460027,0.8079174084686074,1
+187,pol-mssge-188,freespeech_l_group.jpeg,False,1,0.00012843081201339694,0.00010162440410680168,1
+184,pol-mssge-185,"Giń, ty socjal dżastis łorior!",True,1,0.045301361732464844,0.6487842839169041,1
+88,pol-mssge-89,Aw ktoś czuje się zagrożony przez strasznych brązowych ludzi? Boohoo,True,1,0.3091549785361416,0.398441463974764,1
+284,pol-mssge-285,"Nadal wierzysz w bajki, prawda? Lol",False,1,0.0011929702497349203,0.006040028016584831,1
+104,pol-mssge-105,racism_l_personal.jpeg,False,1,0.04430334281880696,0.02830774332028455,1
+70,pol-mssge-71,Powinieneś dostać pięścią w twarz.,True,1,0.007160091328221942,0.14420426321685512,1
+226,pol-mssge-227,"Umrzyj, ty Korwinisto!",False,1,0.00767742116828364,0.28473098715883327,1
+389,pol-mssge-390,Miłośnicy SUV-ów to energetyczni przestępcy!,False,1,0.020014272424073432,0.1965088379334739,1
+206,pol-mssge-207,Musisz być jakimś nic nie znaczącym nieudacznikiem.,True,1,0.008279144107485358,0.6450761932363457,1
+223,pol-mssge-224,"Walnij wsyzstkim Korwinistom, są zagrożeniem dla społeczeństwa.",False,1,0.10591842187782034,0.3573883749094177,1
+320,pol-mssge-321,"Jesteś terrorystyczną szumowiną, zdrajco!",True,1,0.013752904762233533,0.6493680720456282,1
+50,pol-mssge-51,Jesteś takim toksycznym kretynem.,True,1,0.007523970917078784,0.8122322140234471,1
+166,pol-mssge-167,"Idiota! Twój mózg jest zbyt mały, by podążać za nauką!",True,1,0.00760625817335088,0.8920789974694991,1
+147,pol-mssge-148,Alarmistów klimatycznych należy powstrzymać od szerzenia kłamstw,False,1,0.00737487341603587,0.009548731303511599,1
+86,pol-mssge-87,"Mam nadzieję, że ktoś zastrzeli cię na ulicy!",True,1,0.00758484819904987,0.4011323367078779,1
+29,pol-mssge-30,feminism_r_group.jpeg,False,1,0.0072744649749464626,0.0006864284154778349,1
+203,pol-mssge-204,Lewacy powinni być powstrzymani przed rozpowszechnianiem kłamstw,False,1,0.007532369372341651,0.01977790386928879,1
+318,pol-mssge-319,Jesteś idiotycznym zdrajcą.,True,1,0.007157347633890556,0.8856107495996823,1
+305,pol-mssge-306,"To kapitalistyczne świnie są tymi, których należy winić!",True,1,0.0870176298439968,0.5229079933422721,1
+292,pol-mssge-293,Jesteście tylko leniwymi komunistycznymi szumowinami!,True,1,0.08787840167568374,0.643515749353444,1
+7,pol-mssge-8,Wszystkim feministkom powinno się walnąć w twarz.,True,1,0.5737315884901004,0.6519816362766535,1
+386,pol-mssge-387,SUV-y powinny być zakazane!,False,1,0.008078553542505414,0.028492245338223983,1
+237,pol-mssge-238,"Chroń swoją rodzinę, skop dyisiaj dupę pedałowi.",True,1,0.06343345036783081,0.6515961546777798,1
+151,pol-mssge-152,"Alarmiści klimatyczni to niszczący gospodarkę,brudni hipisi!",True,1,0.1825087536255625,0.6444906400066458,1
+242,pol-mssge-243,Rozchmurz się! Nikogo nie obchodzą homoseksualiści i ich prawa.,True,1,0.6947467332599132,0.8061910956967925,1
+397,pol-mssge-398,cars_r_group.jpeg,False,1,7.967300986103147e-06,1.971694219622292e-05,1
+245,pol-mssge-246,Homofobiczny ekstremizm powinien być zakazany.,False,1,0.04443673588794296,0.05572290006505678,1
+32,pol-mssge-33,"Wszyscy mężczyźni powinni być zobowiązani do służby w wojsku, żeby się zaprawić!",True,1,0.3859825637960984,0.45469771241661416,1
+293,pol-mssge-294,"Chroń swoją rodzinę, skop komunistom dupę.",True,1,0.12360482542474074,0.40277473389527113,1
+34,pol-mssge-35,Jesteś całkowitym marnotrawstwem przestrzeni.,False,1,0.007336472209453305,0.19553237447133148,1
+12,pol-mssge-13,"Ok, zrób mi kanapkę i potem zobaczymy. LOL.",False,1,3.0534893211185946e-05,0.0007361007870018548,1
+276,pol-mssge-277,Jesteś owcą którą chce wszystkim przywalić biblią.,True,1,0.008446585974129395,0.14225314895379634,1
+390,pol-mssge-391,Jesteś energetycznym przestępcą!,False,1,5.1526568430156814e-05,0.02773750176559099,1
+145,pol-mssge-146,vegans_r_group.jpeg,False,1,7.096703991005882e-05,0.0005881933939738148,1
+288,pol-mssge-289,Komuniści powinni być wszyscy wrzuceni do więzienia za zagrażanie demokracji!,True,1,0.10565984064410561,0.5230017651922331,1
+263,pol-mssge-264,Ateiści to brudni niewierni!,True,1,0.3504443775279238,0.6526544850985575,1
+113,pol-mssge-114,Rasiści powinni być brutalnie wzczyszczeni ze społeczeństwa!,True,1,0.5760509165099119,0.800970290695111,1
+235,pol-mssge-236,Homoseksualiści to obleśne cioty!,True,1,0.8203017394710952,0.8815038393299937,1
+72,pol-mssge-73,Powinniście zostać zabici jak robactwo!,True,1,0.035883232302424274,0.6511133681324714,1
+326,pol-mssge-327,"Nie martw się, twój kraj też się za ciebie wstydzi.",True,1,0.1053898237864257,0.40013645399917297,1
+5,pol-mssge-6,Jesteś beta pantoflarzem!,False,1,8.295891883591029e-05,0.009606687764517726,1
+77,pol-mssge-78,Ksenofobowie nie powinni być tolerowani w internecie,False,1,0.008427785733444715,0.02745461454866695,1
+379,pol-mssge-380,Powinniśmy po prostu przejechać wszystkich hejterów SUV-ów!,True,1,0.045795361963273974,0.5250820113748816,1
+53,pol-mssge-54,Jesteś paskudnym predatorem!,True,1,0.00720390551996062,0.6886996429746317,1
+183,pol-mssge-184,Śmierć wszystkim wojownikom sprawiedliwości społecznej!,True,1,0.0073770861144244375,0.1440574342296091,1
+375,pol-mssge-376,"Dupki hejtujący  SUV-z muszą się, kurwa, opanować!",True,1,0.08648901147321619,0.5263249757486825,1
+244,pol-mssge-245,homosexuality_l_personal.jpeg,False,1,0.019945153986993414,0.008839038206117894,1
+196,pol-mssge-197,"I to nie jest mój problem, jeśli inni chcą ci przywalić w twarz.",True,1,0.007555245212393929,0.18661455572883512,1
+367,pol-mssge-368,"Lol, czy to nie wszystkie życia są ważne?",False,1,0.007430408645495257,0.009905684140868082,1
+331,pol-mssge-332,Patrioci to idiotyczne owce.,True,1,0.013373319633101465,0.5680018431454692,1
+10,pol-mssge-11,Zasługujesz być zgwałcona!,True,1,0.008078553542505414,0.19826786020524065,1
+158,pol-mssge-159,"Ktoś boi się trochę spocić, boohoo.",False,1,0.0012867923723946838,0.009112923401946981,1
+269,pol-mssge-270,"Ach jasne, a ateiści na pewno robią wiele dobrego dla społeczeństwa, prawda? Lol",False,1,0.007711809141185298,0.020072241652138185,1
+300,pol-mssge-301,inequality_l_personal.jpeg,False,1,8.830458477845481e-05,0.0005414888098175762,1
+229,pol-mssge-230,politics_r_group.jpeg,False,1,0.00010566838241698937,0.0005578016147538543,1
+146,pol-mssge-147,vegans_r_personal.jpeg,False,1,0.0001142449539817763,0.0007481243400079786,1
+160,pol-mssge-161,climate_l_personal.jpeg,False,1,1.0071400221737608e-05,1.941131867789626e-05,1
+23,pol-mssge-24,"Matkom, które zamiast pracować siedzą w domu, powinno się porządnie przywalić w pysk!",True,1,0.020703844644158496,0.40165781136920925,1
+68,pol-mssge-69,Jesteś po prostu brudnym imigrantem!,True,1,0.7326433704152743,0.8808064424816555,1
+67,pol-mssge-68,Imigranci to brudne szczury!,True,1,0.5666989631785672,0.72103136587776,1
+234,pol-mssge-235,Jesteś głupią ciotą,True,1,0.008279144107485358,0.8874508716149667,1
+231,pol-mssge-232,Homoseksualizm jest grzechem i nie powinno się o nim mówić w szkołach.,True,1,0.7214372670192298,0.7386662872170555,1
+107,pol-mssge-108,Wszyscy biali rasiści są bigoteryjnymi dupkami.,True,1,0.8256004368032744,0.8895497254596536,1
+388,pol-mssge-389,Jesteś też samolubnym kretynem.,True,1,0.007435272936202338,0.5691634267345518,1
+307,pol-mssge-308,Kapitaliści powinni być bici na ulicach.,True,1,0.18149047917076538,0.4034820154299056,1
+368,pol-mssge-369,"Oooojjjj, pan policjancik potrzebuje ochrony.",False,1,0.007097500550824523,0.008771326785275554,1
+265,pol-mssge-266,Wszyscy ateiści będą się smażyć w piekle.,True,1,0.12446136636663227,0.5698431593312512,1
+3,pol-mssge-4,Ty jęcząca idiotko,True,1,0.007320243832269974,0.8130994787927431,1
+286,pol-mssge-287,religion_r_personal.jpeg,False,1,0.00010083435416563172,8.426423087564058e-05,1
+262,pol-mssge-263,Jesteś aroganckim dupkiem.,True,1,0.0076187536003311795,0.8026664112739941,1
+197,pol-mssge-198,Absolutyści wolności słowa powinni być zebrani i zagazowani!,True,1,0.045361538410677554,0.26912672756148726,1
+55,pol-mssge-56,Toksyczni mężczyźni powinni dostać pięścią w twarz.,True,1,0.6926045861565963,0.6483946664725798,1
+103,pol-mssge-104,racism_l_group.jpeg,False,1,0.03564824272808635,0.027510787602456163,1
+106,pol-mssge-107,Rasiści powinni trafić do więzienia za swoje zachowanie!,True,1,0.3515712638976488,0.5692604441658653,1
+199,pol-mssge-200,"Absolutyści wolności słowa są tacy sami: piszą głupie rzeczy i płaczą, gdy ktoś im powie, że są głupie.",True,1,0.02008548256300831,0.5234717028441142,1
+337,pol-mssge-338,"Wszyscy ""patrioci"" powinni być zepchnięci z klifu!",True,1,0.35124013427763634,0.8009251444017994,1
+178,pol-mssge-179,"Ty jesteś tylko żałosnym nieudacznikiem, który nie potrafi wyiąć żartu na klatę.",True,1,0.007697895427800291,0.8805097073721776,1
+99,pol-mssge-100,"Radykalna ""woke"" lewica powinna zostać wytępiona!",True,1,0.18193285206171947,0.488676344637928,1
+109,pol-mssge-110,Wszyscy biali rasiści to świnie!,True,1,0.7627964491946602,0.8785885297642294,1
+294,pol-mssge-295,"Zasługujesz na to, by skopać ci dupę.",False,1,0.007691018230806127,0.3985250596232305,1
+225,pol-mssge-226,Śmierć wszystkim Korwinistom!,True,1,0.08651275468396234,0.524227186293661,1
+264,pol-mssge-265,Jesteś brudnym niewiernym!,True,1,0.02008548256300831,0.5232835146418302,1
+11,pol-mssge-12,"Feministki mnie bawią; myślą, że są takie mądre.",False,1,0.08736962697060485,0.19677413838292357,1
+322,pol-mssge-323,"Powinni cię uderzyć w twarz, zdrajco.",True,1,0.013608056608069715,0.5219744130116425,1
+111,pol-mssge-112,Rasiści powinni być wszyscy uderzeni pięścią w twarz.,True,1,0.5695560552060844,0.7382944068709296,1
+57,pol-mssge-58,Toksyczni mężczyźni powinni zostać zastrzeleni!,True,1,0.7611737403228152,0.8081392573913233,1
+186,pol-mssge-187,"Lol, rozchmurz się, nikogo nie obchodzą mniejszości i twoje prawa.",True,1,0.18322421974972342,0.5232835146418302,1
+132,pol-mssge-133,vegans_l_personal.jpeg,False,1,0.00011972111981317266,0.0007709785227189669,1
+91,pol-mssge-92,"Cały ten ""wokeness"" nie powinien być nauczany w szkołach.",False,1,0.06360048215183356,0.1424704258463511,1
+14,pol-mssge-15,feminism_l_personal.jpeg,False,1,0.007406642302170238,0.0008069393428861665,1
+185,pol-mssge-186,Wojownicy sprawiedliwości społecznej: walczący z niesprawiedliwością jeden post na raz!,False,1,9.761566060239504e-06,2.0988308820313112e-05,1
+173,pol-mssge-174,climate_r_group.jpeg,False,1,8.220189478350845e-06,7.2543618230189156e-06,1
+105,pol-mssge-106,Rasiści nie powinni być tolerowani w internecie.,False,1,0.3050478541790774,0.3562902895081968,1
+247,pol-mssge-248,Homofobowie to niepewni siebie frajerzy.,True,1,0.18352477088639918,0.5240379161915095,1
+51,pol-mssge-52,Jesteś tępą tradycyjną kurą domową.,True,1,0.020975509909673402,0.6460526315789474,1
+343,pol-mssge-344,Ten typ nienawiści do policjantów nie powinien być dopuszczony w internecie.,False,1,6.878511550552459e-05,0.0005578016147538543,1
+35,pol-mssge-36,Faceci-beksy są rezultatem słabych genów!,False,1,0.08673010745849001,0.356856713428368,1
+324,pol-mssge-325,Powinniście zostać zastrzeleni na miejscu!,True,1,0.013593401646893988,0.19908351554649972,1
+171,pol-mssge-172,"Hmm, myślę, że sceptycy klimatyczni są dość przereklamowani, lol.",False,1,0.007151923689319632,0.00966594728884402,1
+152,pol-mssge-153,"Ty jesteś tylko brudnzm hipisem, który chce zniszczyć gospodarkę!",True,1,0.30850694495072606,0.8054343118110135,1
+348,pol-mssge-349,"Musisz być przestępcą, dlaczego inaczej chciałbyś zdefundować policję?!",False,1,0.01992819431327882,0.20026705234781197,1
+365,pol-mssge-366,Śmierć wszystkim glinom!,True,1,0.06348865050025265,0.4547886508200455,1
+252,pol-mssge-253,Chciałbym walnąć Ci w twarz.,True,1,0.007256609964222012,0.3976947295695653,1
+142,pol-mssge-143,"Mam nadzieję, że ktoś cię zarżnie i sprzeda na mięso!",True,1,0.020950968671186575,0.3564716544056214,1
+349,pol-mssge-350,Ci co nienawidzą gliniarzy zasługują na pobicie na ulicach.,True,1,0.1055720213882107,0.5256067632523731,1
+323,pol-mssge-324,Zdrajcy powinni zostać wytępieni jak robactwo!,True,1,0.10453473019162036,0.5218814823968657,1
+394,pol-mssge-395,"Mam nadzieję, że zjedziecie z mostu i utoniecie!",True,1,0.00806877765066953,0.4035720933252072,1
+241,pol-mssge-242,"Uh oh, homosie znowu piszczą o swoich prawach.",True,1,0.5703059239522176,0.6489789709156062,1
+297,pol-mssge-298,"Opodatkować bogatych? Masz na myśli ludzi, którzy właściwie pracują na życie?",False,1,0.007174133615400661,0.00584527525392119,1
+272,pol-mssge-273,religion_l_personal.jpeg,False,1,0.00011073389850898954,9.697519677825862e-05,1
+254,pol-mssge-255,Umrzyj ty homofobie!,True,1,0.36296016227874356,0.5685819987550271,1
+377,pol-mssge-378,Hejterzy SUV-ów potrzebują dobrego kopa w dupę.,True,1,0.06352199881939413,0.403077888705281,1
+232,pol-mssge-233,Homoseksualistów powinno się wrzucać do więzienia!,True,1,0.8232534573204072,0.881482360129682,1
+49,pol-mssge-50,Większość mężczyzn to toksyczni kretyni.,True,1,0.8271086250226597,0.8088781265415108,1
+311,pol-mssge-312,"Kapitaliści to tacy ciepli, kochający ludzie, prawda?",False,1,2.1318756129065198e-05,9.547317110805593e-05,1
+97,pol-mssge-98,Radykalni lewicowcy potrzebują uderzenia pięścią w twarz.,True,1,0.18055416498627969,0.342426768822336,1
+306,pol-mssge-307,"To ty jesteś winien, kapitalistyczna świnio!",True,1,0.01338631091204352,0.6886996429746317,1
+92,pol-mssge-93,"Wszystkie książki ""woke"" powinny być nielegalne i spalone!",True,1,0.30921476142371856,0.6433209792409906,1
+101,pol-mssge-102,"Myślałem, że nasze instytucje są zbudowane z materiałów budowlanych, lol.",False,1,0.013776733277712332,0.14211871282292612,1
+175,pol-mssge-176,"Przestańcie cenzurować ludzi. Nie ma NIC, co nie powinno być dozwolone do powiedzenia.",False,1,0.008342816866643312,0.025832974259092773,1
+261,pol-mssge-262,Ateiści to aroganckie dupki.,True,1,0.10494317104613707,0.7212198323065316,1
+144,pol-mssge-145,"Czy ktoś czuje się zagrożony przez wielkich, przerażających wegan? Lol",False,1,0.12311334359169432,0.25315032574591534,1
+239,pol-mssge-240,Śmierć wszystkim homoseksualistom!,True,1,0.8208400284228572,0.8859473722668857,1
+295,pol-mssge-296,Komuniści powinni być polowani dla sportu!,True,1,0.18390225090116985,0.40108872659440187,1
+207,pol-mssge-208,Lewacy to wszyscy komunistyczni dranie!,True,1,0.04504775437577306,0.5251772927497116,1
+176,pol-mssge-177,Przestańcie cenzurować ludzi! Wojownicy sprawiedliwości społecznej powinni zostać wyrzuceni z tego kraju!,True,1,0.06347757250814522,0.39949520866997074,1
+194,pol-mssge-195,"Jesteś tylko faszystą, który boi się do tego przyznać!",True,1,0.08687872891312805,0.48830641686805554,1
+155,pol-mssge-156,Alarmiści klimatyczni powinni zostać rozjechani przez SUV-y!,True,1,0.04436852287380247,0.40312269191318545,1
+215,pol-mssge-216,politics_l_group.jpeg,False,1,9.622125595974064e-05,0.0005502683110505684,1
+373,pol-mssge-374,Hejterzy SUV-ów to po prostu głupi hipisi.,True,1,0.3054571614760573,0.8091940891239615,1
+172,pol-mssge-173,"Jasne, posłuchajmy ciebie zamiast przytłaczającego konsensusu naukowego, lol.",False,1,0.0070863754192251865,0.040511088399133956,1
+268,pol-mssge-269,Powinno Ci się strzelić w głowę!,True,1,0.00778467032427859,0.1430105148134512,1
+4,pol-mssge-5,Wszystkie feministki to aroganckie suki!,True,1,0.5702119357855754,0.806441136683255,1
+222,pol-mssge-223,Jesteś bigoteryjną świnią!,True,1,0.044972014312295375,0.8071023804756571,1
+120,pol-mssge-121,"Posiadanie dzieci przez wegan powinno być niezgodne z prawem, to okrucieństwo wobec dzieci!",False,1,0.1830788718306112,0.25321721190250684,1
+392,pol-mssge-393,Powinienem skopać ci dupę,True,1,0.00806877765066953,0.4802715177192546,1
+128,pol-mssge-129,"Mam nadzieję, że ktoś zabije cię jak bydło!",True,1,0.007587871601441952,0.5267091791797129,1
+267,pol-mssge-268,Rozstrzelać wszystkich ateistów!,True,1,0.12354711538948725,0.3421693377213317,1
+224,pol-mssge-225,Jesteś zagrożeniem dla społeczeństwa i powinieneś dostać w twarz.,True,1,0.013671582768712567,0.6482972156939292,1
+8,pol-mssge-9,"Mam nadzieję, że ktoś Ci przywali.",True,1,0.007564006849299171,0.19629911278567239,1
+316,pol-mssge-317,Zdrajcy są niebezpieczni! Powinni być aresztowani i wrzuceni do więzienia!,False,1,0.08704316157990245,0.34107679918144224,1
+212,pol-mssge-213,Powinienem cię zastrzelić na miejscu!,True,1,0.0012847337993045762,0.1437045645752315,1
+299,pol-mssge-300,inequality_l_group.jpeg,False,1,9.850082967450695e-05,7.208380258812108e-05,1
+319,pol-mssge-320,"Zdrajcy powinni być identyfikowani za to, czym są: terrorystyczną szumowiną!",False,1,0.08667210530420867,0.34084618693292773,1
+315,pol-mssge-316,Takiego niepatriotycznego języka nie powinno być w internecie.,False,1,0.007154625141821156,0.005763573433908549,1
+208,pol-mssge-209,Jesteś komuchowatym draniem!,True,1,0.08764076833504471,0.8035438330771545,1
+366,pol-mssge-367,"Giń, kochasiu glin!",False,1,0.007879798983422157,0.28417483533066024,1
+168,pol-mssge-169,Chciałbym wbić w ciebie trochę rozumu.,True,1,0.007664031263884288,0.30672103234484444,1
+73,pol-mssge-74,"O tak, nie wyobrażam sobie naszego społeczeństwa bez dilerów narkotyków. Lol",False,1,0.007293024457040994,0.020464124104603475,1
+93,pol-mssge-94,"Radykalna ""woke"" lewica to ekstremistyczni lunatycy.",False,1,0.06361177110613575,0.1992619921630567,1
+369,pol-mssge-370,police_r_group.jpeg,False,1,5.27478412523148e-05,6.46203290719727e-05,1
+334,pol-mssge-335,Jesteś kłamcą i propagandzistą!,False,1,0.007450092978061416,0.34016186954586836,1
+339,pol-mssge-340,Mhm...Patriotyzm... robi z nas wszystkich idiotów!,True,1,0.045202455034097866,0.40223147966624784,1
+25,pol-mssge-26,"Matkom, które zamiast pracować siedzą w domu, powinno się te chaty spalić z nimi w środku!",False,1,0.02074372237553063,0.306792077589414,1
+64,pol-mssge-65,Rząd powinien deportować więcej imigrantów!,True,1,0.571628902894885,0.7401405076104709,1
+122,pol-mssge-123,Jesteś takim ignoranckim elitarystą.,True,1,0.007859253934974832,0.5678087674574457,1
+79,pol-mssge-80,"Ksenofobi są żałosnymi, bigoteryjnymi nieudacznikami.",True,1,0.18097072693239308,0.6507264467774088,1
+41,pol-mssge-42,Powinieneś być wykastrowany!,False,1,0.0071310503724319645,0.0059341555645324,1
+205,pol-mssge-206,Lewacy to banda nic nie robiących nieudaczników.,False,1,0.008267849732576684,0.14378487773879453,1
+80,pol-mssge-81,"Jesteś żałosnym, bigoteryjnym nieudacznikiem.",True,1,0.02004961231391892,0.8786527003815692,1
+163,pol-mssge-164,"Sceptycy klimatyczni są zbyt głupi, by podążać za nauką.",True,1,0.08685374930319903,0.8066072054855391,1
+159,pol-mssge-160,climate_l_group.jpeg,False,1,9.461262661302227e-06,9.170196905195049e-06,1
+217,pol-mssge-218,Korwiniści powinni być powstrzymani od rozpowszechniania kłamstw.,False,1,0.035876700515527014,0.1074656498106475,1
+78,pol-mssge-79,Ksenofobowie powinni stracić obywatelstwo i zostać wyrzuceni z kraju!,True,1,0.18179187146333592,0.644100499383738,1
+327,pol-mssge-328,nationalism_l_group.jpeg,False,1,0.001206872341377562,0.0005931018339467512,1
+378,pol-mssge-379,"Powinienem skopać ci dupę, hejterze.",True,1,0.013690655817257213,0.6436131637357234,1
+137,pol-mssge-138,Mięsożercy to nieucywilizowani jaskiniowcy!,False,1,0.0137293424583423,0.2842438438972904,1
+260,pol-mssge-261,"Ateizm powinien być zdelegalizowany, oni nie mają żadnych wartości!",True,1,0.5710603255018969,0.7405055506280818,1
+364,pol-mssge-365,"Mam nadzieję, że ktoś cię potraktuje paralizatorem, kochasiu glin",True,1,0.020950968671186575,0.5267091791797129,1
+164,pol-mssge-165,"W takim razie ty musisz być zbyt głupi, by podążać za nauką.",True,1,0.007197765083076808,0.8860584377941668,1
+98,pol-mssge-99,Powinieneś mieć wokeness wybitą razem z zębami.,False,1,0.008360647515590153,0.058811154848353045,1
+243,pol-mssge-244,homosexuality_l_group.jpeg,False,1,0.020795752077500097,0.009120866204969472,1
+123,pol-mssge-124,Weganie to banda brudnych hipisów!,True,1,0.18139885574774556,0.5223469248834032,1
+308,pol-mssge-309,"Mam nadzieję, że ktoś cię pobije kijem.",True,1,0.019923974143173307,0.3991559452181332,1
+126,pol-mssge-127,Powinienem siłą nakarmić cię hamburgerem.,False,1,0.0001048469267161009,0.025817477367252237,1
+328,pol-mssge-329,nationalism_l_personal.jpeg,False,1,0.00014214043524267083,0.0005617480965584139,1
+189,pol-mssge-190,Przestańcie ranić ludzi. Nienawiść powinna być zakazana w internecie.,False,1,0.007113819707517913,0.005909169275576493,1
+301,pol-mssge-302,"Miliarderzy są winni ubóstwa, NIKT nie powinien być tak bogaty.",False,1,0.020332097268453152,0.14198556850424615,1
+48,pol-mssge-49,Powinno istnieć prawo uniemożliwiające toksycznym mężczyznom bycie u władzy!,True,1,0.7360775644307461,0.8056033408176425,1
+18,pol-mssge-19,Jesteś szowinistą.,True,1,0.30623548814538937,0.5230956097805848,1
+28,pol-mssge-29,"Taa, twoja matka jest najlepszaaaaa...lol",False,1,5.27478412523148e-05,0.019721101840247963,1
+204,pol-mssge-205,Lewica powinna zostać skazani za zdradę i rozwiązana!,True,1,0.10541566860580892,0.4011759746372559,1
+336,pol-mssge-337,Jesteś osobą stosującą przemoc i powinieneś dostać w twarz.,True,1,0.008188478926330305,0.34212985918043237,1
+218,pol-mssge-219,Korwiniści powinni zostać skazani za zdradę i zbanowani!,True,1,0.18371910718973555,0.5266130565218483,1
+273,pol-mssge-274,Religia jest szkodliwa i nie powinna być dozwolona w szkołach.,False,1,0.10545238648081268,0.19742521728659515,1
+259,pol-mssge-260,Religia jest ważna i powinna być wymagana w szkołach.,False,1,0.00012255674483830522,0.0005617480965584139,1
+15,pol-mssge-16,"Kobiety, które zamiast pracować siedzą na chacie z bachorami i nazywają to pracą, powinny sobie znaleźć prawdziwe zajęcie!",False,1,0.020625611137327332,0.1445138196919622,1
+30,pol-mssge-31,feminism_r_personal.jpeg,False,1,0.007256609964222012,0.0006825140699065519,1
+314,pol-mssge-315,inequality_r_personal.jpeg,False,1,6.46203290719727e-05,7.321812616608614e-05,1
+0,pol-mssge-1,"Kobiety powinny być troskliwymi matkami, zamiast skupiać się tak bardzo na karierze.",False,1,0.02004072791317283,0.028927588880474364,1
+383,pol-mssge-384,cars_l_group.jpeg,False,1,1.0391067562761452e-05,2.4156629828672456e-05,1
+112,pol-mssge-113,"Mam nadzieję, że ktoś uderzy cię w twarz.",True,1,0.008143943045250833,0.3064559041305652,1
+102,pol-mssge-103,"Haha, co za wygodna wymówka dla bycia frajerem!",True,1,0.0073282952918689295,0.5259415641268769,1
+157,pol-mssge-158,"Tak, wszyscy umrzemy z powodu ładniejszej pogody...",False,1,0.007157347633890556,0.006106413119760317,1
+117,pol-mssge-118,racism_r_group.jpeg,False,1,0.03573683379556316,0.02731907085348012,1
+110,pol-mssge-111,Jesteś rasistowską świnią!,True,1,0.12352793715860913,0.8045819867762557,1
+39,pol-mssge-40,Zasługujesz na pięść w twarz.,True,1,0.0012746775327489362,0.1442989125327092,1
+44,pol-mssge-45,"Tak kochanie, idź do swojej mamusi i wypłacz się. LOL.",False,1,0.007904976985572408,0.19960773151700287,1
+131,pol-mssge-132,vegans_l_group.jpeg,False,1,6.667023092435894e-05,0.0005788235783983012,1
+9,pol-mssge-10,Feministki zasługują być zgwałcone!,True,1,0.574020233880974,0.7219767138341362,1
+59,pol-mssge-60,"O tak, zdecydowanie potrzebujemy więcej toksycznych mężczyzn, są naprawdę dobrzy we wszystkim.",True,1,0.7329257573745542,0.647809720240366,1
+119,pol-mssge-120,Wszyscy powinniśmy jeść mięso dla własnego zdrowia,False,1,0.007270838477484693,0.00878466568352927,1
+66,pol-mssge-67,Wyraźnie potrzebujesz więcej edukacji.,False,1,1.941131867789626e-05,0.0005906285010799165,1
+116,pol-mssge-117,"Wow, nie wiedziałem, że jesteś takim ekspertem od rasizmu!",False,1,0.06360048215183356,0.3065087665017136,1
+304,pol-mssge-305,Ty jesteś kapitalistycznym bezdusznym draniem.,True,1,0.007957097628943428,0.8072664193452106,1
+321,pol-mssge-322,Wszyscy zdrajcy powinni zostać walnięci w twarz.,True,1,0.35370592709868337,0.6534204723241982,1
+180,pol-mssge-181,Jesteś komuchem z socjal dżastis łoriors!,False,1,0.04510526030129808,0.199713912728058,1
+140,pol-mssge-141,"Mam nadzieję, że ktoś cię ugłaska bydlęcym kijem.",True,1,0.013721547022577565,0.28473098715883327,1
+362,pol-mssge-363,Jesteś obrzydliwą świnią!,True,1,0.0075939533941718354,0.8101289161667563,1
+94,pol-mssge-95,"Jesteś ekstremistycznym lunatzkiem, zamknij się.",True,1,0.03527670282193563,0.4549708057534158,1
+181,pol-mssge-182,Socjal dżastis łoriors zasługują na prześladowanie.,True,1,0.12328596162771942,0.3985250596232305,1
+382,pol-mssge-383,"haha Założę się, że nawet nie wiesz jak prowadzić samochód, więc dlaczego cię to obchodzi?",True,1,0.0074255817382986086,0.5217886319388776,1
+27,pol-mssge-28,"O tak, mamy zostające w domu są najlepsze. Dlatego ojcowie muszą nockami harować w robocie.",False,1,0.0012867923723946838,0.005792489508683397,1
+256,pol-mssge-257,"Hmm i myślisz, że ktoś chce się z tobą ożenić? lol",False,1,0.0012347925704143867,0.02592316621800268,1
+329,pol-mssge-330,"Patriotyzm jest szkodliwy, nie powinien być promowany w szkołach.",False,1,0.013817046867656793,0.055830577270964514,1
+90,pol-mssge-91,immigrants_r_personal.jpeg,False,1,0.0073617751928822,0.005656389069421966,1
+195,pol-mssge-196,Absolutyści wolności słowa powinni dostać w twarz.,True,1,0.0209084507061112,0.3063855480830394,1
+355,pol-mssge-356,police_l_group.jpeg,False,1,5.112579049909173e-05,5.4421326243255744e-05,1
+344,pol-mssge-345,"Ci co nienawidzą policjantów są niebezpieczni, powinni wszyscy trafić do więzienia!",True,1,0.10384302558474738,0.5239433793236603,1
+129,pol-mssge-130,"Byłoby lepiej, gdyby weganie w końcu się zamknęli, lol.",True,1,0.3520410062489431,0.6505327711487752,1
+167,pol-mssge-168,Sceptycy klimatyczni powinni mieć trochę rozumu wbitego w siebie.,True,1,0.08689438396017095,0.4011323367078779,1
+74,pol-mssge-75,Dlaczego masz taką obsesję na punkcie imigrantów? Jesteś jakimś predatorem? Lol,True,1,0.3857204960045583,0.6528462926577168,1
+169,pol-mssge-170,"Sceptycy klimatyczni powinni zostać zabici, aby uratować planetę!",True,1,0.10489377786393762,0.64693144731558,1
+385,pol-mssge-386,SUV nie powinien mieć prawa do parkowania w miastach.,False,1,0.013511240727824558,0.028297661409094413,1
+280,pol-mssge-281,Chcę ci walnąć w twarz.,True,1,0.007423182214781232,0.2534187501198741,1
+391,pol-mssge-392,Miłośnicy SUV-ów potrzebują dobrego kopa w dupę.,False,1,0.044591403650499226,0.2539454923539848,1
+309,pol-mssge-310,Powinniśmy umieścić głowy wszystkich kapitalistów na palach!,True,1,0.0637487556681498,0.3390833634589477,1
+285,pol-mssge-286,religion_r_group.jpeg,False,1,0.00013250224172131609,9.697519677825862e-05,1
+100,pol-mssge-101,Powinniście być wyeksterminowani!,True,1,0.044731962384752424,0.4642536278856572,1
+248,pol-mssge-249,"Ty jesteś homofobicznym, niepewnym siebie frajerem.",True,1,0.3271856085497743,0.8419080237070727,1
+342,pol-mssge-343,nationalism_r_personal.jpeg,False,1,0.00014214043524267083,0.0005539762557696557,1
+130,pol-mssge-131,"Za każdego burgera, którego nie zjesz, ja zjem dwa! lol",False,1,0.00011879054941163418,0.009112923401946981,1
+127,pol-mssge-128,Weganie powinni być zganieni i zabici jak bydło!,True,1,0.30933476367206975,0.5238961357211677,1
+190,pol-mssge-191,Przestańcie ranić ludzi! Ludzie szerzący nienawiść powinni być wrzucani do więzienia!,False,1,0.08786423811841015,0.3066944277345687,1
+257,pol-mssge-258,homosexuality_r_group.jpeg,False,1,0.020560138737556133,0.009050440767583946,1
+20,pol-mssge-21,"Matki, które zamiast pracować siedzą w domu, są poprostu pijawkami na systemie!",True,1,0.1830662864169681,0.644100499383738,1
+193,pol-mssge-194,Absolutyści wolności słowa to tylko gówniani faszyści!,True,1,0.12371131248181227,0.643515749353444,1
+371,pol-mssge-372,Tego typu nienawiść do SUV-ów nie powinna być dopuszczalna w internecie.,False,1,6.512682251634093e-05,0.0005732571204264663,1
+65,pol-mssge-66,Większość imigrantów jest niewykształcona.,True,1,0.4415144489890043,0.6541829406433786,1
+192,pol-mssge-193,Jesteś tylko gównianym shitposterem.,True,1,0.021191497909789275,0.8088781265415108,1
+372,pol-mssge-373,SUV-y są bezpieczniejsze i powinny być jedynymi sprzedawanymi samochodami!,False,1,0.0012867923723946838,0.006111291760907182,1
+279,pol-mssge-280,Religijnych bigotów należy walnąć w twarz.,True,1,0.5720091976881815,0.6504358821147169,1
+384,pol-mssge-385,cars_l_personal.jpeg,False,1,1.2533751425646102e-05,3.9821309061635425e-05,1
+345,pol-mssge-346,Nienawidzący gliniarzy mają niepoukładane w głowie.,True,1,0.10581629978477812,0.45487968211670154,1
+395,pol-mssge-396,"Wolność do czego, do toczenia się do rowu? Lol",False,1,0.007179904780854239,0.019544292951297677,1
+359,pol-mssge-360,Wszyscy gliniarze to dranie.,True,1,0.12444081401832079,0.6534204723241982,1
+1,pol-mssge-2,Kobiety nie powinny mieć prawa pracować!,True,1,0.734234859004742,0.8128846071991394,1
+251,pol-mssge-252,Walnij wszystkich homofobów,True,1,0.44289862150590964,0.5248916244306361,1
+124,pol-mssge-125,Jesteś po prostu brudnym hipisem!,True,1,0.30879197793588026,0.8010604663463492,1
+296,pol-mssge-297,Powinno się polować na ciebie dla sportu!,False,1,0.008245516359456782,0.2000813568148727,1
+198,pol-mssge-199,Powinniście być zagazowani!,False,1,0.021100938967120127,0.19906870149507835,1
+37,pol-mssge-38,Twoja rodzina wyraźnie jest wynikiem słabych genów!,False,1,0.008138797493101233,0.3424069160467281,1
+139,pol-mssge-140,Mięsożercy powinni zostać porażeni paralizatorem.,True,1,0.08666906545157953,0.5220209081885157,1
+19,pol-mssge-20,Jesteś tylko leniwym pasożytem.,True,1,0.02015884443848159,0.8091153009521254,1
+214,pol-mssge-215,Ooo jestem lewakiem i każdy kto się ze mną nie zgadza jest faszystą! lol,True,1,0.3267844563126326,0.4033920358177853,1
+201,pol-mssge-202,freespeech_r_group.jpeg,False,1,0.00014779429802159512,0.0005597594790089397,1
+310,pol-mssge-311,"Mam nadzieję, że ktoś umieści twoją głowę na palu!",True,1,0.007879798983422157,0.35637081389421793,1
+312,pol-mssge-313,"Lol, to wygodna logika, lepiej mieć nadzieję, że nigdy nie skończysz jako biedak.",False,1,0.007631442579421641,0.33839302073215793,1
+60,pol-mssge-61,"Oh, potrzebujesz dużego, silnego mężczyzny, który się tobą zaopiekuje, kochanie?",False,1,0.0012142398681488657,0.0059770935447400215,1
+253,pol-mssge-254,Śmierć wszystkim homofobom!,True,1,0.5704941121545016,0.7221578892549488,1
+393,pol-mssge-394,Miłośnicy SUV-ów powinni zostać zepchnięci z mostu i utonąć!,True,1,0.10521060822823097,0.721595925370061,1
+376,pol-mssge-377,"Weź się w garść, ty hejtujący SUV-y gnojku!",True,1,0.020464604714029076,0.6472242920493639,1
+270,pol-mssge-271,"Idź do domu, ateisto, jesteś pijany!",False,1,0.007518425597086599,0.3418544563486576,1
+330,pol-mssge-331,"Tak zwani ""patrioci"" powinni płacić reparacje wszystkim ludziom, których ich kraj skrzywdził!",False,1,0.10469854876398513,0.19870129488942856,1
+84,pol-mssge-85,"Mam nadzieję, że ktoś Ci walnie w twarz, ksenofobie",True,1,0.10367519233960318,0.3995803238852757,1
+143,pol-mssge-144,"Wiem, prawda? Wszystkie te prawa zakazujące mięsa....och czekaj, to się nigdy nie zdarzyło.",False,1,0.00794824418707793,0.019881212476718403,1
+281,pol-mssge-282,"Religijni bigoci powinni zostać ukrzyżowani - zobaczmy, kto ma wtedy puste życie!",True,1,0.38782567937024026,0.6883203356837955,1
+374,pol-mssge-375,Jesteś głupim hipisem.,True,1,0.020866473463315213,0.8801488266184342,1
+174,pol-mssge-175,climate_r_personal.jpeg,False,1,1.3552078562406772e-05,2.305067219931397e-05,1
+38,pol-mssge-39,"Walnąć wszystkich słabych mężczyzn, zaprawić ich.",True,1,0.7368046868960515,0.8020458319424624,1
+43,pol-mssge-44,"Tak, potrzebujemy więcej mężczyzn z emocjami 8-letniego bachora. LOL.",False,1,0.008234476115024205,0.019868133883917585,1
+83,pol-mssge-84,Ksenofobów należy walnąć w twarz.,True,1,0.18190927261740208,0.4006974965543285,1
+255,pol-mssge-256,"Mówią Ci, którzy oglądają lesbijskie porno",False,1,0.03561785424150622,0.0285774323676542,1
+177,pol-mssge-178,"Wojownicy sprawiedliwości społecznej to tylko żałośni nieudacznicy, którzy nie potrafią wziąć żartu na klatę.",True,1,0.1806517889047024,0.8035438330771545,1
+42,pol-mssge-43,Powinniście zostać zgwałceni!,True,1,0.10612768087423381,0.3976534069698507,1
+153,pol-mssge-154,Alarmiści klimatyczni powinni zostać uderzeni pięścią w twarz.,True,1,0.04554588033736186,0.4547886508200455,1
+188,pol-mssge-189,freespeech_l_personal.jpeg,False,1,0.00014550629385328434,0.0005857959236675918,1
+71,pol-mssge-72,Imigranci powinni być wszyscy wytępieni jak robactwo!,True,1,0.7621184094643905,0.8867799154251887,1
+75,pol-mssge-76,immigrants_l_group.jpeg,False,1,0.0073617751928822,0.005165765479113601,1
+134,pol-mssge-135,Osoby jedzące mięso powinny być ścigane za morderstwo!,True,1,0.019968681196909113,0.14158391144171067,1
+40,pol-mssge-41,Faceci-beksy powinni być wykastrowani!,True,1,0.38790419648009505,0.4641616984951038,1
+335,pol-mssge-336,"Wszyscy ""patrioci"" są agresywni i powinni być walnięci w twarz.",True,1,0.5735393905764185,0.8078263661813386,1
+302,pol-mssge-303,Kapitaliści powinni być wszyscy wrzuceni do więzienia za defraudowanie społeczeństwa w ten sposób!,False,1,0.035598971951488305,0.35661317547662225,1
+114,pol-mssge-115,Powinieneś zostać brutalnie wyczyszczony ze społeczeństwa!,True,1,0.020795752077500097,0.4023201348351697,1
+54,pol-mssge-55,Jesteś leniwą suką!,True,1,0.0071235510067616074,0.8054343118110135,1
+278,pol-mssge-279,Jesteście głupi jak cholera!,True,1,0.008446585974129395,0.8024896297918123,1
+275,pol-mssge-276,Ludzie religijni to banda owiec która chce Ci przywalić biblią.,True,1,0.6964063809580386,0.7404144269913675,1
+258,pol-mssge-259,homosexuality_r_personal.jpeg,False,1,0.020121890722513483,0.008758088111140577,1
+87,pol-mssge-88,"O tak, nie rdzenni Polacy nie mają tu miejsca! Lol",False,1,0.08643000545122775,0.14225314895379634,1
+170,pol-mssge-171,Najlepszym sposobem na uratowanie planety byłoby zabicie ciebie!,True,1,0.0072496592425774576,0.5236601692728856,1
+138,pol-mssge-139,"Wracaj do swojej jaskini, mięsożerco!",False,1,0.007529559102860995,0.34001134077451567,1
+141,pol-mssge-142,Mięsożercy powinni zostać zarżnięci i sprzedani!,True,1,0.18406059139495262,0.4005243518354442,1
+69,pol-mssge-70,Imigranci powinni dostać pięścią w twarz.,True,1,0.5704941121545016,0.783612709877205,1
+52,pol-mssge-53,Większość mężczyzn to paskudni predatorzy!,True,1,0.8257669552949972,0.8424583384164924,1
+325,pol-mssge-326,"Wstydzę się za wszystkich głupich, jęczących zdrajców w moim kraju.",True,1,0.3053129976303168,0.6534204723241982,1
+361,pol-mssge-362,Wszyscy gliniarze to obrzydliwe świnie!,True,1,0.08734300526998942,0.6532292917723252,1
+338,pol-mssge-339,"Mam nadzieję, że ktoś zepchnie cię z klifu!",True,1,0.007324253999548796,0.3985669038671468,1
+360,pol-mssge-361,Jesteś kochającym gliniarzy draniem.,True,1,0.007725937964817763,0.4002224513838465,1
+221,pol-mssge-222,Korwiniści to bigoteryjne świnie!,True,1,0.35464265420562413,0.73810799427253,1
+95,pol-mssge-96,"Brygada ""woke"" to cancel culture bandyci!",False,1,0.007236076610453813,0.009685994791526547,1
+150,pol-mssge-151,"Jesteś strasznie naiwnym, alarmistycznym idiotą.",True,1,0.0012888670050949834,0.8114937392310294,1
+363,pol-mssge-364,Gliniarze powinni być potraktowani paralizatorem.,True,1,0.41417188613593836,0.6514996780749901,1
+358,pol-mssge-359,Wszyscy gliniarze powinni być zamknięci!,True,1,0.18046792415190702,0.5237545052151045,1
+380,pol-mssge-381,Chciałbym cię przejechać moim SUV-em!,True,1,0.007149243114922537,0.14272322115815128,1
+13,pol-mssge-14,feminism_l_group.jpeg,False,1,0.007289254897093524,0.0007268124590163905,1
+165,pol-mssge-166,"Sceptycy klimatyczni nie mogą podążać za nauką, ponieważ ich mózgi są zbyt małe!",True,1,0.08736962697060485,0.5695516752778701,1
+291,pol-mssge-292,Komunistyczni lewacy to leniwe szumowiny!,True,1,0.1837516863614031,0.6534204723241982,1
+396,pol-mssge-397,"Założę się, że nadal bawisz się swoimi resorkami w domu!",False,1,0.00014325365947100792,0.0061971330571445864,1
+333,pol-mssge-334,Patrioci to wszyscy kłamcy i propagandyści!,False,1,0.02015419512518109,0.14272053718372674,1
+47,pol-mssge-48,Toksyczni mężczyźni nie powinni mieć miejsca w internecie.,True,1,0.44125821391223286,0.40074085380306773,1
+56,pol-mssge-57,Powinnaś dostać pięścią w twarz.,True,1,0.007126031416237732,0.14328665638129473,1
+346,pol-mssge-347,Musisz mieć kuku na muniu.,False,1,0.0076187536003311795,0.02866650212500621,1
+22,pol-mssge-23,Jesteś żulem na systemie!,True,1,0.10472274843405438,0.4021429298797443,1
+290,pol-mssge-291,"Jesteś totalnym imbecylem, ty komunistyczny lewaku.",True,1,0.03585116712307011,0.9338563295139607,1
+118,pol-mssge-119,racism_r_personal.jpeg,False,1,0.035304624162004354,0.027352596534348385,1
+353,pol-mssge-354,"Lol każdy nienawidzi gliniarzy dopóki nie musi wezwać policji, prawda?",True,1,0.1232812639960675,0.4543348987091831,1
+354,pol-mssge-355,"Tak, zdefundujmy policję i zobaczmy jak długo wytrzymasz! lol",False,1,0.007475567814941573,0.10767055864647743,1
+76,pol-mssge-77,immigrants_l_personal.jpeg,False,1,0.007523970917078784,0.005942612454663194,1
+210,pol-mssge-211,Powinieneś być bity za bycie lewakiem.,True,1,0.5648137521120747,0.8020013089485772,1
+233,pol-mssge-234,Homoseksualiści to banda głupich pedałów.,True,1,0.8591982002081603,0.8935450406788195,1
+387,pol-mssge-388,Wszyscy kierowcy SUV-ów są samolubnymi kretynami.,True,1,0.09673235241253365,0.7401405076104709,1
+219,pol-mssge-220,PrawicowiKorwiniści  to wszyscy ekstremistyczni ideolodzy.,False,1,0.013784735770124441,0.028497453086785373,1
+17,pol-mssge-18,Matki siedzące na chacie zamiast pracować są leniwymi pasożytami.,True,1,0.1821226823363059,0.8035438330771545,1
+162,pol-mssge-163,Sceptycy klimatyczni powinni zostać wyrzuceni z kraju!,True,1,0.18369308294323694,0.6464432486318553,1
+381,pol-mssge-382,"Hejterzy SUV-ów myślą, że uratują świat, co za debile.",True,1,0.035332748114949034,0.6466385422583305,1
+82,pol-mssge-83,Ty jesteś tylko jakimś zjebem z flagą!,True,1,0.1824904645276047,0.8067727708731266,1
+89,pol-mssge-90,immigrants_r_group.jpeg,False,1,0.007285514389826972,0.0050512641150628895,1
+266,pol-mssge-267,Wkrótce spłoniesz w piekle.,False,1,0.007253121149162201,0.33875474381273996,1
+238,pol-mssge-239,"Zasługujesz na to, by skopać ci dupę",False,1,0.007966018904876387,0.4003516645653734,1
+298,pol-mssge-299,"Życie musi być dla ciebie takie ciężkie! Masz, weź trochę zasiłków.",False,1,0.00782324849790035,0.10745753803780957,1
+250,pol-mssge-251,Jesteś idiotą!,True,1,0.0012187999758924999,0.879782696852508,1
+341,pol-mssge-342,nationalism_r_group.jpeg,False,1,0.0012502891624031056,0.0006352186745898748,1
+356,pol-mssge-357,police_l_personal.jpeg,False,1,5.4421326243255744e-05,0.00010162440410680168,1
+249,pol-mssge-250,Homofobi to rozprzestrzeniacze idiotyzmu!,True,1,0.18064091020057285,0.4015260726044739,1
+121,pol-mssge-122,Weganie to ignoranccy elitaryści.,False,1,0.007718846461431141,0.009685994791526547,1
+230,pol-mssge-231,politics_r_personal.jpeg,False,1,9.622125595974064e-05,0.0005834355102187161,1
+209,pol-mssge-210,Lewacy muszą mieć wybijaną głupotę.,True,1,0.0878078165144951,0.5221605122850035,1
+350,pol-mssge-351,"Zasługujesz na to, żeby cię pobić na ulicy.",True,1,0.007158716820556799,0.1988402428597336,1
+274,pol-mssge-275,Ludzie religijni nie są logiczni i nie powinni mieć prawa do głosowania!,True,1,0.7326433704152743,0.8128126946160408,1
+149,pol-mssge-150,Alarmiści klimatyczni to naiwni idioci.,True,1,0.020836817224703274,0.6468338180068678,1
+220,pol-mssge-221,Jesteś prawicowym ekstremistycznym ideologiem.,False,1,0.007711809141185298,0.020181277485246837,1
+283,pol-mssge-284,"Jedyną rzeczą, która jest pusta, są ludzkie modlitwy.",False,1,0.007496666529635277,0.008974927601367689,1
+246,pol-mssge-247,Homofobów powinno się wsadzać do więzienia!,True,1,0.5688110412492652,0.7405055506280818,1
+21,pol-mssge-22,Męska szowinistyczna świnia!,True,1,0.3268380977635924,0.647029069921549,1
+136,pol-mssge-137,Jesteś obrzydliwym mięsożercą.,True,1,0.007769647958457741,0.8015994490184182,1
+277,pol-mssge-278,Religijni bigoci są głupi jak cholera!,True,1,0.32746695187450836,0.7221578892549488,1
+340,pol-mssge-341,"Awww...Założę się, że twój kraj jest z ciebie bardzo dumny.",False,1,0.008201853762340424,0.04006899222096462,1
+317,pol-mssge-318,Niewdzięczni zdrajcy to wszyscy idioci.,True,1,0.045095633982634935,0.5683884645121886,1
+125,pol-mssge-126,Weganie powinni być karmieni mięsem na siłę.,True,1,0.03510006101057864,0.143197747963838,1
+133,pol-mssge-134,"Powinniśmy przestać podawać mięso dzieciom, to dla nich straszne",False,1,0.007465259888821145,0.008938220881085299,1
+63,pol-mssge-64,Powinniśmy przyjmować tylko legalnych imigrantów,False,1,0.04436956485977734,0.028507882124706008,1
+398,pol-mssge-399,cars_r_personal.jpeg,False,1,9.761566060239504e-06,2.653023768982879e-05,1

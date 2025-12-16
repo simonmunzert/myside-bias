@@ -5,7 +5,7 @@ country_codes_df <- read_xlsx("data/cooked/country-codes.xlsx")
 resp_covars_df <- read_xlsx("data/cooked/resp-covars.xlsx")
 exp_covars_df <- read_xlsx("data/cooked/exp-covars.xlsx")
 vig_covars_df <- read_xlsx("data/cooked/vig-covars.xlsx")
-tp_vars_labels <- read_csv("data/raw/tp-vars.csv")
+tp_vars_labels <- read_csv("data/cooked/tp-vars.csv")
 
 
 # prepare country_codes_df ------
@@ -135,7 +135,7 @@ vig_outcomes_df <- data.frame(
 # respondent covariates df
 
 resp_demographics_covars <- 
-  c("gender",  "age_cat", "educ_cat", "white_cat", "minority_cat"
+  c("gender",  "age_cat", "educ_cat", "white_cat"
   )
 
 resp_attitudes_covars <- 

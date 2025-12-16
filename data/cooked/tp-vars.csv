@@ -1,0 +1,29 @@
+variable,varlabel,vartopic
+tp_cardriver_l,SUVs should be banned!,SUV drivers
+tp_cardriver_r,Driving my SUV is pure freedom!,SUV drivers
+tp_climatechange_l,Climate change is a fundamental threat to humanity.,Climate change
+tp_climatechange_r,Climate change is overrated - climate has always changed.,Climate change
+tp_feminism_l,Women should rule the world!,Feminism
+tp_feminism_r,Stay-at-home moms are the best!,Feminism
+tp_freespeech_l,Minority harassment has to disappear from the discourse.,Free speech
+tp_freespeech_r,It's not my problem if others are hurt by my opinion.,Free speech
+tp_homosexuality_l,Gay marriage has to be legal.,Homosexuality
+tp_homosexuality_r,Marriage has to be between a man and a woman.,Homosexuality
+tp_immigration_l,Immigration makes our society stronger and better!,Immigration
+tp_immigration_r,The United States of America should be for the American people!,Immigration
+tp_inequality_l,Tax the rich!,Inequality
+tp_inequality_r,The poor are to blame for their poverty.,Inequality
+tp_mensrights_l,It should be fine for men to cry!,Men's rights
+tp_mensrights_r,We need strong and independent men!,Men's rights
+tp_nationalism_l,I am ashamed of my country!,Nationalism
+tp_nationalism_r,I am proud of my country!,Nationalism
+tp_partisanship_l,Democrats are the one and only party.,Partisanship
+tp_partisanship_r,Republicans are the one and only party.,Partisanship
+tp_police_l,Defund the police!,Police
+tp_police_r,Blue lives matter!,Police
+tp_racism_l,Our institutions are built on racism.,Racism
+tp_racism_r,Racism is an overblown issue.,Racism
+tp_religious_l,Religion has done more harm than good to our society.,Religiosity
+tp_religious_r,A life without faith is an empty life.,Religiosity
+tp_veganism_l,We would be better off if everybody were vegan.,Veganism
+tp_veganism_r,It's my right to eat meat.,Veganism

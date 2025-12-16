@@ -26,6 +26,7 @@ p_needed <- c("AER",
               "infer",
               "irr", # for kripp.alpha
               "janitor",
+              "knitr",
               "labelled",
               "lme4",
               "lubridate",
@@ -48,7 +49,12 @@ p_needed <- c("AER",
               "writexl",
               "xtable",
               "tidyverse",
-              "patchwork"
+              "patchwork",
+              "sf", 
+              "rnaturalearth",
+              "kableExtra",
+              "survey",
+              "glue"
 )
 
 pacman::p_load(char = p_needed)

@@ -99,12 +99,27 @@ N <- \(x) format(length(x), big.mark = ",")
 
 
 # prepare categorical variables for barplot summarizes
-catvar_summarize <- function(var, data, by = NULL) {
+catvar_summarize <- function(var, data, by = NULL, weight = NULL) {
   dat <- data
-  dat %<>% group_by(across(all_of(c(by, var)))) %>%
-    summarize(n = n()) %>%
-    mutate(freq = n / sum(n)) %>%
-    ungroup()
+  
+  if (is.null(weight)) {
+    # Unweighted version
+    dat %<>%
+      group_by(across(all_of(c(by, var)))) %>%
+      summarize(n = n(), .groups = "drop_last") %>%
+      mutate(freq = n / sum(n)) %>%
+      ungroup()
+  } else {
+    # Weighted version
+    dat %<>%
+      # optionally drop missing weights; remove this line if you want to keep them
+      filter(!is.na(.data[[weight]])) %>%
+      group_by(across(all_of(c(by, var)))) %>%
+      summarize(n = sum(.data[[weight]], na.rm = TRUE), .groups = "drop_last") %>%
+      mutate(freq = n / sum(n)) %>%
+      ungroup()
+  }
+  
   dat$variable <- var
   dat <- rename(dat, vallabels = all_of(var))
   dat

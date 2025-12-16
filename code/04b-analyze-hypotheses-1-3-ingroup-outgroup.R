@@ -113,6 +113,25 @@ gt_table_fun(models_df,
   gtsave("figures/table-h1-models-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
 
 
+tidy_mm_df <- models_tidy_mms_fun(
+  models     = h1_models_pooled,                       
+  predictors = "target_resp_issue_agreement",
+  data       = data_survey_combined,      
+  labels_df = resp_covars_df,
+  label_var = "resp_variable"
+)
+models_mm_df <- gt_prep_fun(tidy_mm_df, by = "response", arrange_by = NULL, varlabels_ref = "resp_varlabel")
+rel_diff <- function(a, b) {
+  (a - b) / b * 100
+}
+
+rel_diff(
+  models_mm_df$estimate_vig_remove[models_mm_df$label == "Agree"], 
+  models_mm_df$estimate_vig_remove[models_mm_df$label == "Disagree"]
+)
+
+
+
 # extract model estimates, by country
 
 h1_models_country_tidy <- models_tidy_contrast_fun(h1_models_country, "target_resp_issue_agreement", by_vars = country_codes_chr, outcome_vars = outcome_vars, labels_df = exp_covars_df, label_var = "exp_variable")
@@ -1233,9 +1252,9 @@ h1_3_models_plot_tidy %>%
     labels = label_percent(accuracy = 1, suffix = ""),
     expand = expansion(mult = c(0.00, .15)) # add more room on the right
   ) + 
-  labs(x = "Estimated effect in percentage points", 
+  labs(x = "Estimated effect of match with column category on row outcome in percentage points", 
        y = NULL,
-       title = "Effect of respondent match with...",
+       title = NULL, # Effect of respondent match with...
        subtitle = NULL) +
   guides(color = "none") + 
   theme_minimal() +
@@ -1254,7 +1273,7 @@ h1_3_models_plot_tidy %>%
         panel.border = element_rect(color = "black", fill = NA, linewidth = 1),
         plot.margin=unit(c(0.1,0.1,0.1,0.1),"cm"),
         strip.text = element_markdown(face = "bold"))
-ggsave("figures/effects-h1-3-coefplot-flipped.png", width = 10, height = 9, bg = "white", dpi = 300)
+ggsave("figures/effects-h1-3-coefplot-flipped.png", width = 10, height = 10, bg = "white", dpi = 300)
 
 
 
@@ -1319,10 +1338,10 @@ h1_models_pooled_tidy_comb %>%
     labels = label_percent(accuracy = 1, suffix = ""),
     expand = expansion(mult = c(0.00, .2)) # add more room on the right
   ) + 
-  labs(x = "Estimated effect in percentage points", 
+  labs(x = "Estimated myside bias effect in percentage points", 
        y = NULL,
-       title = "Effect of match with target issue position (myside bias), by message/respondent subgroup",
-       subtitle = NULL) +
+       title = NULL, # "Effect of match with target issue position (myside bias), by message/respondent subgroup"
+       subtitle = NULL) + 
   guides(color = "none") + 
   theme_minimal() +
   theme(text = element_text(family = "Fira Sans"),
@@ -1340,7 +1359,7 @@ h1_models_pooled_tidy_comb %>%
         panel.border = element_rect(color = "black", fill = NA, linewidth = 1),
         plot.margin=unit(c(0.1,0.1,0.1,0.1),"cm"),
         strip.text = element_markdown(face = "bold"))
-ggsave("figures/effects-h1-coefplot-heterogeneity.png", width = 10, height = 6, bg = "white", dpi = 300)
+ggsave("figures/effects-h1-coefplot-heterogeneity.png", width = 10, height = 5, bg = "white", dpi = 300)
 
 
 

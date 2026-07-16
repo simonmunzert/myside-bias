@@ -1,0 +1,7 @@
+outcome,myside_alone,myside_net_ideo_cont,ideo_cont_coef,outcome_vars_labels,outcome_vars_labels2,outcome_vars_labels_regtable,outcome_vars_cat
+vig_perc_offensive2,7.33,6.4,0.006340601272949196,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions
+vig_perc_hate2,6.02,5.09,0.006314566777904194,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions
+vig_remove,6.36,5.58,0.004888443957251922,Remove post,Remove post,Remove<br>post,Actions
+vig_ban,5.22,4.56,0.00416298541292373,Ban sender,Ban sender,Ban<br>sender,Actions
+vig_legal,3.87,3.29,0.003658008791674055,Legal action,Legal action,Legal<br>sanction,Actions
+vig_job,3.91,3.35,0.0036030567068745696,Job loss,Job loss,Job<br>loss,Actions

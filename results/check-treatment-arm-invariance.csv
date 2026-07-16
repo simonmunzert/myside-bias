@@ -1,0 +1,13 @@
+outcome,moderator,df,chisq,p.value,outcome_vars_labels,outcome_vars_labels2,outcome_vars_labels_regtable,outcome_vars_cat,arm,sig_01,p_fmt
+vig_perc_offensive2,frame_vig,2,1.1353118616971187,0.5668526243344975,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions,Framing condition,FALSE,0.567
+vig_perc_hate2,frame_vig,2,5.4369381160940975,0.06597568208907849,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions,Framing condition,FALSE,0.066
+vig_remove,frame_vig,2,0.9739202056371141,0.614491548936391,Remove post,Remove post,Remove<br>post,Actions,Framing condition,FALSE,0.614
+vig_ban,frame_vig,2,0.5419880072004162,0.7626210693721764,Ban sender,Ban sender,Ban<br>sender,Actions,Framing condition,FALSE,0.763
+vig_legal,frame_vig,2,0.6940019761241274,0.7068046298905633,Legal action,Legal action,Legal<br>sanction,Actions,Framing condition,FALSE,0.707
+vig_job,frame_vig,2,3.008525331817509,0.22218105511750785,Job loss,Job loss,Job<br>loss,Actions,Framing condition,FALSE,0.222
+vig_perc_offensive2,prefs_after_vignette,1,0.2034732802421786,0.6519318007465901,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions,Exposure placement,FALSE,0.652
+vig_perc_hate2,prefs_after_vignette,1,0.07585025852313265,0.7830018333723959,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions,Exposure placement,FALSE,0.783
+vig_remove,prefs_after_vignette,1,0.5106212481332477,0.474870046131852,Remove post,Remove post,Remove<br>post,Actions,Exposure placement,FALSE,0.475
+vig_ban,prefs_after_vignette,1,0.5514207138039637,0.45773777165571294,Ban sender,Ban sender,Ban<br>sender,Actions,Exposure placement,FALSE,0.458
+vig_legal,prefs_after_vignette,1,1.4742428847384872,0.22467745338257197,Legal action,Legal action,Legal<br>sanction,Actions,Exposure placement,FALSE,0.225
+vig_job,prefs_after_vignette,1,3.5985672962415265,0.05782938885334396,Job loss,Job loss,Job<br>loss,Actions,Exposure placement,FALSE,0.058

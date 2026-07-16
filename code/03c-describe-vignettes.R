@@ -37,7 +37,7 @@ latex_table <- kable(
 ) %>%
   kableExtra::row_spec(0, bold = TRUE) %>%
   kableExtra::kable_styling(latex_options = "H")
-writeLines(latex_table, "figures/target-messages.tex")
+writeLines(latex_table, "results/target-messages.tex")
 
 
 # tables of vignette sender messages --------------
@@ -78,7 +78,7 @@ for(i in target_topics){
     escape = FALSE
   ) %>%
   kableExtra::row_spec(0, bold = TRUE)
-  writeLines(latex_table, paste0("figures/sender-messages-", i_name, ".tex"))
+  writeLines(latex_table, paste0("results/sender-messages-", i_name, ".tex"))
 }
 
 
@@ -92,8 +92,8 @@ vignettes_names_df <- read_xlsx("data/cooked/vignettes-names.xlsx", sheet = "nam
   select(gender, ethnicity, name, avatar)
 vignettes_names_df$gender <- firstup(vignettes_names_df$gender)
 vignettes_names_df$ethnicity <- firstup(vignettes_names_df$ethnicity)
-vignettes_names_df$avatar <- paste0("\\raisebox{-.25\\height}{\\includegraphics[height=.75cm]{figures/avatars/", vignettes_names_df$avatar, ".png}}")
-write_xlsx(vignettes_names_df, "figures/vignette-avatars-usa.xlsx", col_names = TRUE)
+vignettes_names_df$avatar <- paste0("\\raisebox{-.25\\height}{\\includegraphics[height=.75cm]{results/avatars/", vignettes_names_df$avatar, ".png}}")
+write_xlsx(vignettes_names_df, "results/vignette-avatars-usa.xlsx", col_names = TRUE)
 
 
 # libs
@@ -134,7 +134,7 @@ latex_escape <- function(x) {
 }
 
 make_avatar_cell <- function(file_stem) {
-  paste0("\\raisebox{-.25\\height}{\\includegraphics[height=.75cm]{figures/avatars/",
+  paste0("\\raisebox{-.25\\height}{\\includegraphics[height=.75cm]{results/avatars/",
          file_stem, ".png}}")
 }
 
@@ -230,7 +230,7 @@ make_tex_for_country <- function(ctry) {
     "\\end{table}"
   )
   
-  out_path <- file.path("figures", paste0("vignette-avatars-", ctry, ".tex"))
+  out_path <- file.path("results", paste0("vignette-avatars-", ctry, ".tex"))
   write_lines(lines, out_path)
   message("Wrote: ", out_path)
   invisible(out_path)
@@ -269,7 +269,7 @@ data_survey_combined %>%
 
 colnames(tab) <- c("Country", "N unique vignettes")
 
-print(xtable(tab, align = rep("r", ncol(tab) + 1), digits = 0, caption = "Number of unique vignettes shown, by country\\label{tab:unique-vignettes-by-country}"), booktabs = TRUE, size = "small", caption.placement = "top", table.placement = "t!h", label = "tab:vignettes-n", include.rownames = FALSE, format.args=list(big.mark = ","), sanitize.text.function = function(x) {x}, file = "figures/vignettes-unique-by-country.tex")
+print(xtable(tab, align = rep("r", ncol(tab) + 1), digits = 0, caption = "Number of unique vignettes shown, by country\\label{tab:unique-vignettes-by-country}"), booktabs = TRUE, size = "small", caption.placement = "top", table.placement = "t!h", label = "tab:vignettes-n", include.rownames = FALSE, format.args=list(big.mark = ","), sanitize.text.function = function(x) {x}, file = "results/vignettes-unique-by-country.tex")
 
 
 # distribution of number of times a unique vignette (identical attribute level combination) was shown
@@ -333,7 +333,7 @@ ggplot(tab, aes(x = n_vig_shown_cat, y = prop)) +
     panel.grid.major.y = element_line(color = "grey80"),
     panel.grid.minor.y = element_line(color = "grey90")
   )
-ggsave("figures/barplot-vignettes-shown-by-country-title.png", width = 7, height = 5, dpi = 300)
+ggsave("results/barplot-vignettes-shown-by-country-title.png", width = 7, height = 5, dpi = 300)
 
 
 # Plot the data using the calculated proportions
@@ -362,7 +362,7 @@ ggplot(tab, aes(x = n_vig_shown_cat, y = prop)) +
     panel.grid.major.y = element_line(color = "grey80"),
     panel.grid.minor.y = element_line(color = "grey90")
   )
-ggsave("figures/barplot-vignettes-shown-by-country.png", width = 7, height = 5, dpi = 300, bg = "white")
+ggsave("results/barplot-vignettes-shown-by-country.png", width = 7, height = 5, dpi = 300, bg = "white")
 
 
 
@@ -424,7 +424,7 @@ ggplot(tab, aes(x = n_vig_shown)) +
     panel.grid.major.y = element_line(color = "grey80"),
     panel.grid.minor.y = element_line(color = "grey90")
   )
-ggsave("figures/barplot-vignettes-messages-shown-by-country-title.png", width = 7, height = 5, dpi = 300)
+ggsave("results/barplot-vignettes-messages-shown-by-country-title.png", width = 7, height = 5, dpi = 300)
 
 # Plot the data using the calculated proportions
 ggplot(tab, aes(x = n_vig_shown)) +
@@ -458,7 +458,7 @@ ggplot(tab, aes(x = n_vig_shown)) +
     panel.grid.major.y = element_line(color = "grey80"),
     panel.grid.minor.y = element_line(color = "grey90")
   )
-ggsave("figures/barplot-vignettes-messages-shown-by-country.png", width = 7, height = 5, dpi = 300, bg = "white")
+ggsave("results/barplot-vignettes-messages-shown-by-country.png", width = 7, height = 5, dpi = 300, bg = "white")
 
 
 
@@ -507,9 +507,9 @@ dat_attributes %>%
     data_row.padding = px(1)
   ) %>%
   tab_caption("Pooled sample") %>%
-  gtsave("figures/table-attributes-summary-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
+  gtsave_auto("results/table-attributes-summary-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
 
-# as_raw_html(gt_attributes_summary) %>%  writeLines("figures/table-attributes-summary-pooled.html")
+# as_raw_html(gt_attributes_summary) %>%  writeLines("results/table-attributes-summary-pooled.html")
 
 
 # pooled, split in half
@@ -553,7 +553,7 @@ dat_attributes %>%
     data_row.padding = px(1)
   ) %>%
   tab_caption("Pooled sample") %>%
-  gtsave("figures/table-attributes-summary-pooled-a.png", zoom = 6, vwidth = 1000, vheight = 6000)
+  gtsave_auto("results/table-attributes-summary-pooled-a.png", zoom = 6, vwidth = 1000, vheight = 6000)
 
 
 dat_attributes %>%
@@ -595,7 +595,7 @@ dat_attributes %>%
     data_row.padding = px(1)
   ) %>%
   tab_caption("Pooled sample") %>%
-  gtsave("figures/table-attributes-summary-pooled-b.png", zoom = 6, vwidth = 1000, vheight = 6000)
+  gtsave_auto("results/table-attributes-summary-pooled-b.png", zoom = 6, vwidth = 1000, vheight = 6000)
 
 
 
@@ -641,7 +641,7 @@ dat_attributes %>%
     data_row.padding = px(1)
   ) %>%
   tab_caption(paste0(country_codes_df$country[country_codes_df$code == i], " sample")) %>%
-  gtsave(paste0("figures/table-attributes-summary-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+  gtsave_auto(paste0("results/table-attributes-summary-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 # by country, split in half
@@ -688,7 +688,7 @@ for (i in country_codes_chr){
       data_row.padding = px(1)
     ) %>%
     tab_caption(paste0(country_codes_df$country[country_codes_df$code == i], " sample")) %>%
-    gtsave(paste0("figures/table-attributes-summary-", i, "-a.png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-attributes-summary-", i, "-a.png"), zoom = 6, vwidth = 1000, vheight = 6000)
   
   dat_attributes %>%
     filter(resp_country2 == i) %>%
@@ -730,7 +730,7 @@ for (i in country_codes_chr){
       data_row.padding = px(1)
     ) %>%
     tab_caption(paste0(country_codes_df$country[country_codes_df$code == i], " sample")) %>%
-    gtsave(paste0("figures/table-attributes-summary-", i, "-b.png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-attributes-summary-", i, "-b.png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 
@@ -812,6 +812,6 @@ texreg(t_model_lmer,
        fontsize = "normalsize",
        use.packages = FALSE,
        sanitize.colnames.function = identity, sanitize.rownames.function = identity,
-       file = "figures/lmer-vignette-response-times-pooled.tex")
+       file = "results/lmer-vignette-response-times-pooled.tex")
 
 

@@ -69,7 +69,7 @@ latex_table <- kable(
     c(" " = 1, "Manipulation check: 'What kind of social platform did you have in mind?'" = 5)
   ) %>%
   kableExtra::row_spec(0, bold = TRUE)
-writeLines(latex_table, "figures/frame-manipcheck.tex")
+writeLines(latex_table, "reults/frame-manipcheck.tex")
 
 
 

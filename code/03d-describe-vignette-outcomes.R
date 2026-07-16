@@ -78,7 +78,7 @@ ggplot(mapping =  aes(x = vig_hate_fct, y = action_var_fct, fill = value*100)) +
   annotation_custom(grob = linesGrob(), xmin = .5, xmax = 3.5, ymin = 6.75, ymax = 6.75) +
   annotation_custom(grob = grid::textGrob(label = "Perception", gp = gpar(fontface = "bold", family = "Fira Sans")), xmin = -.7, ymin = 7, ymax = 7)  + 
   annotation_custom(grob = grid::textGrob(label = "Preferred actions", gp = gpar(fontface = "bold", family = "Fira Sans"), hjust = 0, rot = 90), xmin = -1.45, xmax = -1.45, ymin = -1.2) 
-ggsave("figures/heatplot-actions-by-perceptions-pooled.png", width = 4, height = 4, dpi = 300)
+ggsave("results/heatplot-actions-by-perceptions-pooled.png", width = 4, height = 4, dpi = 300)
 
 
 # by country
@@ -149,7 +149,7 @@ ggplot(mapping =  aes(x = vig_hate_fct, y = action_var_fct, fill = value*100)) +
   annotation_custom(grob = linesGrob(), xmin = .5, xmax = 3.5, ymin = 6.75, ymax = 6.75) +
   annotation_custom(grob = grid::textGrob(label = "Perception", gp = gpar(fontface = "bold", family = "Fira Sans")), xmin = -.7, ymin = 7, ymax = 7)  + 
   annotation_custom(grob = grid::textGrob(label = "Preferred actions", gp = gpar(fontface = "bold", family = "Fira Sans"), hjust = 0, rot = 90), xmin = -1.45, xmax = -1.45, ymin = -1.2) 
-ggsave(paste0("figures/heatplot-actions-by-perceptions-", i, ".png"), width = 4, height = 4, dpi = 300)
+ggsave(paste0("results/heatplot-actions-by-perceptions-", i, ".png"), width = 4, height = 4, dpi = 300)
 
 }
 
@@ -235,7 +235,7 @@ ggplot() +
         legend.position = "none",
         legend.title = element_blank(),
         plot.margin = unit(c(0.1,0.1,0.1,0.1),"cm"))
-ggsave("figures/profileplot-actions-by-perceptions.png", width = 8, height = 2.5, dpi = 300, bg = "white")
+ggsave("results/profileplot-actions-by-perceptions.png", width = 8, height = 2.5, dpi = 300, bg = "white")
 
 
 
@@ -304,7 +304,7 @@ vig_outcomes_by_country %>%
     locations = cells_body(
       columns = vig_actions_variables[1])
   ) %>% 
-  gtsave("figures/table-perceptions-actions-by-country.png", zoom = 20)
+  gtsave_auto("results/table-perceptions-actions-by-country.png", zoom = 20)
 
 
 
@@ -519,7 +519,7 @@ perceptions_plot +
     widths = c(1, 1)
   )
 
-ggsave(paste0("figures/barplot-perceptions-actions-by-country.png"), width = 10, height = 3.5, dpi = 600)
+ggsave(paste0("results/barplot-perceptions-actions-by-country.png"), width = 10, height = 3.5, dpi = 600)
 
 
 
@@ -584,7 +584,7 @@ vig_messages_df %>%
     table.font.size = "9px",
     data_row.padding = px(1)
   ) %>%
-  gtsave("figures/table-messages-ranked-pooled.png", zoom = 3)
+  gtsave_auto("results/table-messages-ranked-pooled.png", zoom = 3)
 
 
 # by country
@@ -647,7 +647,7 @@ for(i in country_codes_chr){
       table.font.size = "9px",
       data_row.padding = px(1)
     ) %>%
-    gtsave(paste0("figures/table-messages-ranked-", i, ".png"), zoom = 3)
+    gtsave_auto(paste0("results/table-messages-ranked-", i, ".png"), zoom = 3)
 }
 
 
@@ -682,7 +682,7 @@ vig_messages_df_memes %>%
   fmt_image(
     columns = sender_message,
     height = px(35),
-    path = "build-vignettes/memes/usa",
+    path = "data/images/memes/usa",
     file_pattern = "{x}"
   ) %>%
   fmt_percent(columns = starts_with("vig_"), decimals = 0) %>%
@@ -722,7 +722,7 @@ vig_messages_df_memes %>%
     table.font.size = "9px",
     data_row.padding = px(1)
   ) %>%
-  gtsave("figures/table-memes-ranked-pooled.png", zoom = 3)
+  gtsave_auto("results/table-memes-ranked-pooled.png", zoom = 3)
 
 
 # by country
@@ -753,7 +753,7 @@ for(i in country_codes_chr){
     fmt_image(
       columns = sender_message,
       height = px(35),
-      path = paste0("build-vignettes/memes/", i),
+      path = paste0("data/images/memes/", i),
       file_pattern = "{x}"
     ) %>%
     fmt_percent(columns = starts_with("vig_"), decimals = 0) %>%
@@ -793,7 +793,7 @@ for(i in country_codes_chr){
       table.font.size = "9px",
       data_row.padding = px(1)
     ) %>%
-    gtsave(paste0("figures/table-memes-ranked-", i, ".png"), zoom = 3)
+    gtsave_auto(paste0("results/table-memes-ranked-", i, ".png"), zoom = 3)
 }
 
 
@@ -883,7 +883,7 @@ vig_messages_heterogeneity %>%
     table.font.size = "9px",
     data_row.padding = px(1)
   ) %>%
-  gtsave("figures/table-messages-heterogeneity-ranked.png", zoom = 3)
+  gtsave_auto("results/table-messages-heterogeneity-ranked.png", zoom = 3)
 
 
 
@@ -967,7 +967,7 @@ vig_opinions_combined %>%
     table.font.size = "9px",
     data_row.padding = px(1)
   ) %>%
-  gtsave("figures/table-opinions-removal-ranked.png", zoom = 3)
+  gtsave_auto("results/table-opinions-removal-ranked.png", zoom = 3)
 
 
 
@@ -1018,7 +1018,7 @@ ggplot(vig_messages_df, aes(x = vig_perc_offensive, y = vig_perc_hate)) +
         legend.position = "none",
         legend.title = element_blank(),
         plot.margin = unit(c(0.5,0.1,0.5,0.1),"cm"))
-ggsave(paste0("figures/scatterplot-opinions-hateful-vs-offensive-pooled.png"), width = 8, height = 5, dpi = 300)
+ggsave(paste0("results/scatterplot-opinions-hateful-vs-offensive-pooled.png"), width = 8, height = 5, dpi = 300)
 
 
 
@@ -1069,232 +1069,7 @@ ggplot(vig_messages_df, aes(x = vig_perc_hate, y = vig_remove)) +
         legend.position = "none",
         legend.title = element_blank(),
         plot.margin = unit(c(0.5,0.1,0.5,0.1),"cm"))
-ggsave(paste0("figures/scatterplot-opinions-hateful-vs-offensive-pooled.png"), width = 8, height = 5, dpi = 300)
+ggsave(paste0("results/scatterplot-opinions-hateful-vs-offensive-pooled.png"), width = 8, height = 5, dpi = 300)
 
-
-
-# agreement in hate speech classifications ----------------
-
-# vignette metadata
-vig_meta_df <- dplyr::select(data_survey_combined, resp_country, message_combination, sender_message, sender_category, target_position) %>% filter(resp_country == "usa") %>% distinct(message_combination, .keep_all = TRUE)
-
-# binary classifiers: hate vs. no hate, any action vs. no action
-data_survey_combined$vig_num_selected <- rowSums(dplyr::select(data_survey_combined, all_of(vig_actions_variables)), na.rm = TRUE)
-data_survey_combined$vig_action_yes <- ifelse(data_survey_combined$vig_num_selected == 0, 0, 1)
-
-classification_vars <- c("vig_perc_hate", "vig_action_yes")
-
-# Function to compute classification agreement and message-level agreement rates
-compute_agreement_cdf <- function(data, group_var1 = NULL, group_var2 = NULL, class_var = "vig_perc_hate") {
-  # Define grouping variables
-  group_vars <- c("message_combination", group_var1, group_var2) %>% discard(is.null)
-  overall_group <- c(group_var1, group_var2) %>% discard(is.null)
-  
-  # Aggregate agreement metrics
-  result <- data %>%
-    group_by(across(all_of(group_vars))) %>%
-    summarise(
-      n_raters = n(),
-      p = mean(.data[[class_var]] == 1, na.rm = TRUE),
-      p_agree = pmax(p, 1 - p),
-      rev_entropy = reverse_entropy(p),
-      .groups = "drop"
-    )
-  
-  # CDF calculations
-  result <- result %>%
-    group_by(across(all_of(overall_group))) %>%
-    arrange(p_agree) %>%
-    mutate(
-      rank_agree = row_number(),
-      pct_messages_agree = 1 - (rank_agree - 1) / n()
-    ) %>%
-    arrange(rev_entropy) %>%
-    mutate(
-      rank_entropy = row_number(),
-      pct_messages_entropy = 1 - (rank_entropy - 1) / n()
-    ) %>%
-    ungroup()
-  
-  # Add metadata columns
-  result <- result %>%
-    mutate(
-      class_var = class_var,
-      subgroup = case_when(
-        length(overall_group) == 0 ~ "All",
-        length(overall_group) == 1 ~ overall_group[1],
-        length(overall_group) == 2 ~ paste(overall_group, collapse = " & ")
-      )
-    )
-  
-  # Return result with all group_vars retained as separate columns
-  result %>%
-    select(
-      message_combination,
-      all_of(overall_group),
-      class_var,
-      n_raters,
-      p_agree,
-      rev_entropy,
-      pct_messages_agree,
-      pct_messages_entropy,
-      subgroup
-    )
-}
-
-
-
-
-
-### Hate classification agreement
-
-# perception agreement
-
-cdf_hate_all <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", class_var = "vig_perc_hate")
-cdf_hate_gender <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", group_var2 = "gender", class_var = "vig_perc_hate")
-cdf_hate_lr <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", group_var2 = "leftright_cat", class_var = "vig_perc_hate")
-cdf_hate_combined <- bind_rows(cdf_hate_all, cdf_hate_gender, cdf_hate_lr)
-
-# action preference agreement
-
-cdf_action_all <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", class_var = "vig_action_yes")
-cdf_action_gender <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", group_var2 = "gender", class_var = "vig_action_yes")
-cdf_action_lr <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", group_var2 = "leftright_cat", class_var = "vig_action_yes")
-cdf_action_combined <- bind_rows(cdf_action_all, cdf_action_gender, cdf_action_lr)
-
-# combine all
-cdf_combined_all <- bind_rows(
-  cdf_hate_combined %>% mutate(class_var_label = 'Perception as\n"hate speech"'),
-  cdf_action_combined %>% mutate(class_var_label = 'At least one\naction selected')
-) %>% 
-  # filter(gender != "Other") %>% 
-  left_join(dplyr::select(vig_meta_df, -sender_category), by = "message_combination")
-cdf_combined_all$subgroup_value <- paste0(cdf_combined_all$gender, cdf_combined_all$leftright_cat) %>% str_replace_all("NA", "")
-cdf_combined_all$subgroup_value[cdf_combined_all$subgroup_value == "" & cdf_combined_all$subgroup == "sender_category"] <- "Pooled"
-cdf_combined_all <- filter(cdf_combined_all, !(subgroup_value %in% c("Other", "")))
-cdf_combined_all$subgroup_value <- factor(cdf_combined_all$subgroup_value, levels = c("Pooled", "Female", "Male", "Left", "Center", "Right"))
-cdf_combined_all$class_var_label <- factor(cdf_combined_all$class_var_label, levels = c('Perception as\n"hate speech"', 'At least one\naction selected'))
-
-# Plot
-custom_colors_named <- c(
-  "Pooled" = "black",
-  "Male" = "darkgreen",
-  "Female" = "goldenrod",
-  "Left" = "darkblue",
-  "Right" = "darkred",
-  "Center" = "grey"
-) %>% alpha(0.5)
-
-ggplot(cdf_combined_all, 
-  aes(x = p_agree, y = pct_messages_agree, color = subgroup_value)
-) +
-  geom_line(size = .75) +
-  facet_grid(class_var_label ~ sender_category) +
-  scale_y_continuous(labels = scales::percent_format()) +
-  scale_x_continuous(labels = scales::percent_format(), limits = c(0.5, 1), breaks = seq(0.5, 1, 0.1)) +
-  scale_color_manual(values = custom_colors_named) + 
-  labs(
-    title = "Agreement distributions by outcome and subgroup",
-    x = "Rater agreement",
-    y = "% of messages with rater agreement ≥ x",
-  ) +
-  theme_minimal() + 
-  theme(
-    text = element_text(family = "Fira Sans"),
-    legend.position = "bottom",
-    legend.box = "horizontal",
-    legend.title = element_blank(),
-    axis.text.x = element_text(size = 10),
-    axis.text.y = element_text(size = 10),
-    axis.title.x = element_text(size = 12),
-    axis.title.y = element_text(size = 12),
-    strip.placement = "outside",
-    plot.title.position = "plot",
-    plot.title = element_markdown(face = "bold", size = 16),
-    plot.subtitle = element_text(size = 12),
-    plot.margin = margin(5, 5, 5, 5),
-    panel.grid.major.x = element_line(color = "grey80"),
-    panel.grid.minor.x = element_blank(),
-    panel.grid.major.y = element_line(color = "grey80"),
-    panel.grid.minor.y = element_line(color = "grey90")
-  )
-ggsave(paste0("figures/agreement-cumulative-distributions.png"), width = 12, height = 6, dpi = 300)
-
-
-
-
-### Hate classification agreement
-
-# perception agreement
-
-cdf_hate_all <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", class_var = "vig_perc_hate")
-cdf_hate_gender <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", group_var2 = "gender", class_var = "vig_perc_hate")
-cdf_hate_lr <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", group_var2 = "resp_country2", class_var = "vig_perc_hate")
-cdf_hate_combined <- bind_rows(cdf_hate_all, cdf_hate_gender, cdf_hate_lr)
-
-# action preference agreement
-
-cdf_action_all <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", class_var = "vig_action_yes")
-cdf_action_gender <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", group_var2 = "gender", class_var = "vig_action_yes")
-cdf_action_lr <- compute_agreement_cdf(data_survey_combined, group_var1 = "sender_category", group_var2 = "resp_country2", class_var = "vig_action_yes")
-cdf_action_combined <- bind_rows(cdf_action_all, cdf_action_gender, cdf_action_lr)
-
-# combine all
-cdf_combined_all <- bind_rows(
-  cdf_hate_combined %>% mutate(class_var_label = 'Perception as\n"hate speech"'),
-  cdf_action_combined %>% mutate(class_var_label = 'At least one\naction selected')
-) %>% 
-  # filter(gender != "Other") %>% 
-  left_join(dplyr::select(vig_meta_df, -sender_category), by = "message_combination")
-cdf_combined_all$subgroup_value <- paste0(cdf_combined_all$gender, cdf_combined_all$resp_country2) %>% str_replace_all("NA", "")
-cdf_combined_all$subgroup_value[cdf_combined_all$subgroup_value == "" & cdf_combined_all$subgroup == "sender_category"] <- "Pooled"
-cdf_combined_all <- filter(cdf_combined_all, !(subgroup_value %in% c("Other", "")))
-cdf_combined_all$subgroup_value <- factor(cdf_combined_all$subgroup_value, levels = c("Pooled", "Female", "Male", "Left", "Center", "Right"))
-cdf_combined_all$class_var_label <- factor(cdf_combined_all$class_var_label, levels = c('Perception as\n"hate speech"', 'At least one\naction selected'))
-
-# Plot
-custom_colors_named <- c(
-  "Pooled" = "black",
-  "Male" = "darkgreen",
-  "Female" = "goldenrod",
-  "Left" = "darkblue",
-  "Right" = "darkred",
-  "Center" = "grey"
-) %>% alpha(0.5)
-
-ggplot(cdf_combined_all, 
-       aes(x = p_agree, y = pct_messages_agree, color = subgroup_value)
-) +
-  geom_line(size = .75) +
-  facet_grid(class_var_label ~ sender_category) +
-  scale_y_continuous(labels = scales::percent_format()) +
-  scale_x_continuous(labels = scales::percent_format(), limits = c(0.5, 1), breaks = seq(0.5, 1, 0.1)) +
-  #scale_color_manual(values = custom_colors_named) + 
-  labs(
-    title = "Agreement distributions by outcome and subgroup",
-    x = "Rater agreement",
-    y = "% of messages with rater agreement ≥ x",
-  ) +
-  theme_minimal() + 
-  theme(
-    text = element_text(family = "Fira Sans"),
-    legend.position = "bottom",
-    legend.box = "horizontal",
-    legend.title = element_blank(),
-    axis.text.x = element_text(size = 10),
-    axis.text.y = element_text(size = 10),
-    axis.title.x = element_text(size = 12),
-    axis.title.y = element_text(size = 12),
-    strip.placement = "outside",
-    plot.title.position = "plot",
-    plot.title = element_markdown(face = "bold", size = 16),
-    plot.subtitle = element_text(size = 12),
-    plot.margin = margin(5, 5, 5, 5),
-    panel.grid.major.x = element_line(color = "grey80"),
-    panel.grid.minor.x = element_blank(),
-    panel.grid.major.y = element_line(color = "grey80"),
-    panel.grid.minor.y = element_line(color = "grey90")
-  )
-ggsave(paste0("figures/agreement-cumulative-distributions-2.png"), width = 12, height = 6, dpi = 300)
 
 

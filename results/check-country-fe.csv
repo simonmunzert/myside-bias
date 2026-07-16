@@ -1,0 +1,7 @@
+outcome,re_estimate,fe_estimate,outcome_vars_labels,outcome_vars_labels2,outcome_vars_labels_regtable,outcome_vars_cat
+vig_perc_offensive2,7.33,7.33,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions
+vig_perc_hate2,6.02,6.02,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions
+vig_remove,6.36,6.36,Remove post,Remove post,Remove<br>post,Actions
+vig_ban,5.22,5.22,Ban sender,Ban sender,Ban<br>sender,Actions
+vig_legal,3.87,3.87,Legal action,Legal action,Legal<br>sanction,Actions
+vig_job,3.91,3.91,Job loss,Job loss,Job<br>loss,Actions

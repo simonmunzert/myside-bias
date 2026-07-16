@@ -30,7 +30,7 @@ datasummary(as.formula("Country ~ 1 * (N + Percent('col'))"),
             escape = FALSE,
             add_rows = sum_row, 
             align = "lrr",
-            output = "figures/respondents-n-by-country.tex")
+            output = "results/respondents-n-by-country.tex")
 
 
 # attrition and costs --------------
@@ -83,7 +83,7 @@ latex_table <- kable(
   align = c("l", "r", "r", "r", "r")
 ) %>%
   kableExtra::row_spec(0, bold = TRUE)
-writeLines(latex_table, "figures/survey-attrition.tex")
+writeLines(latex_table, "results/survey-attrition.tex")
 
 # export to latex
 latex_table <- kable(
@@ -97,7 +97,7 @@ latex_table <- kable(
   align = c("l", "r", "r")
 ) %>%
   kableExtra::row_spec(0, bold = TRUE)
-writeLines(latex_table, "figures/survey-costs.tex")
+writeLines(latex_table, "results/survey-costs.tex")
 
 
 # recruitment over time --------------
@@ -176,7 +176,7 @@ theme_minimal() +
       margin = margin(t = 5) # Add some space above the caption
     ))
 plot_out
-ggsave("figures/lineplot-recruitment-respondents.png", width = 10, height = 5, dpi = 300, bg = "white")
+ggsave("results/lineplot-recruitment-respondents.png", width = 10, height = 5, dpi = 300, bg = "white")
 
 
 
@@ -209,7 +209,7 @@ latex_table <- kable(
   align = c("l", "r", "r")
 ) %>%
   kableExtra::row_spec(0, bold = TRUE)
-writeLines(latex_table, "figures/survey-adtype-pooled.tex")
+writeLines(latex_table, "results/survey-adtype-pooled.tex")
 
 
 # table: ad type by country
@@ -232,7 +232,7 @@ latex_table <- kable(
   align = c("l", "r", "r")
 ) %>%
   kableExtra::row_spec(0, bold = TRUE)
-writeLines(latex_table, "figures/survey-adtype.tex")
+writeLines(latex_table, "results/survey-adtype.tex")
 
 
 
@@ -326,7 +326,7 @@ plot_world <- ggplot(world_robin) +
 
 plot_world
 plot <- plot_world + coord_sf(crs = robin_crs)
-ggsave("figures/map-respondent-locations.png", plot = plot, width = 10, height = 6, dpi = 300, bg = "white")
+ggsave("results/map-respondent-locations.png", plot = plot, width = 10, height = 6, dpi = 300, bg = "white")
 
 }
 
@@ -386,7 +386,7 @@ latex_table <- kable(
   escape = FALSE
 )  %>%
   kableExtra::row_spec(0, bold = TRUE)
-writeLines(latex_table, "figures/survey-completion-times.tex")
+writeLines(latex_table, "results/survey-completion-times.tex")
 
 
 
@@ -401,7 +401,7 @@ datasummary(as.formula(paste0(paste0(resp_demographics_covars, collapse = "+"), 
             fmt = function(x) format(round(x, 0), big.mark = ","), 
             title = "Respondent demographics (percentages)\\label{tab:respondents-demcovars}",
             escape = FALSE,
-            output = "figures/respondents-demcovars.tex")
+            output = "results/respondents-demcovars.tex")
 
 # table: by country
 
@@ -412,7 +412,7 @@ datasummary(as.formula(paste0(paste0(resp_demographics_covars, collapse = "+"), 
             fmt = function(x) format(round(x, 0), big.mark = ","), 
             title = "Respondent demographics (percentages), by country\\label{tab:respondents-demcovars-country}",
             escape = FALSE,
-            output = "figures/respondents-demcovars-by-country.tex")
+            output = "results/respondents-demcovars-by-country.tex")
 
 
 # sample vs. population demographics -------------
@@ -510,11 +510,8 @@ walk(unique(demographics_df$resp_country2), function(ctry) {
       table.font.size  = px(10),
       row_group.font.weight = "bold"
     ) %>%
-    gtsave(
-      filename = glue("figures/demographics-{ctry}.png"),
-      zoom     = 6,
-      vwidth   = 1000,
-      vheight  = 6000
+    gtsave_auto(
+      filename = glue("results/demographics-{ctry}.png")
     )
 })
 

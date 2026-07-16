@@ -1,0 +1,31 @@
+outcome,moderator,df,chisq,p.value,mod_label,outcome_vars_labels,outcome_vars_labels2,outcome_vars_labels_regtable,outcome_vars_cat,p_adj_BH,sig_01,sig_01_adj,p_fmt
+vig_perc_offensive2,resp_country2,10,82.78800734461402,1.4233549323491922e-13,Country,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions,2.1350323985237883e-13,TRUE,TRUE,<0.001
+vig_perc_offensive2,leftright_cat,2,7.56866630789591,0.022724011142473022,Ideology,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions,0.022724011142473022,FALSE,FALSE,0.023
+vig_perc_offensive2,gender,2,1.501118757732911,0.47210239476327415,Respondent gender,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions,0.47210239476327415,FALSE,FALSE,0.472
+vig_perc_offensive2,silencing_score_cat,2,19.818175920692738,4.972076226193972e-5,Silencing belief,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions,4.972076226193972e-5,TRUE,TRUE,<0.001
+vig_perc_offensive2,sender_category,4,98.29470446365303,2.2689458584447448e-20,Message type,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions,6.806837575334234e-20,TRUE,TRUE,<0.001
+vig_perc_hate2,resp_country2,10,48.52487743028905,4.976609005165867e-7,Country,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions,4.976609005165867e-7,TRUE,TRUE,<0.001
+vig_perc_hate2,leftright_cat,2,16.95641855832946,2.079507512437361e-4,Ideology,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions,2.495409014924833e-4,TRUE,TRUE,<0.001
+vig_perc_hate2,gender,2,9.643493430397939,0.00805270905817523,Respondent gender,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions,0.012079063587262845,TRUE,FALSE,0.008
+vig_perc_hate2,silencing_score_cat,2,46.100173383631045,9.760555659390121e-11,Silencing belief,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions,1.1712666791268145e-10,TRUE,TRUE,<0.001
+vig_perc_hate2,sender_category,4,93.83763509229175,2.013365094690036e-19,Message type,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions,4.026730189380072e-19,TRUE,TRUE,<0.001
+vig_remove,resp_country2,10,67.81461377404048,1.1692704422992388e-10,Country,Remove post,Remove post,Remove<br>post,Actions,1.4031245307590865e-10,TRUE,TRUE,<0.001
+vig_remove,leftright_cat,2,62.6861120062822,2.4427764916042813e-14,Ideology,Remove post,Remove post,Remove<br>post,Actions,7.328329474812844e-14,TRUE,TRUE,<0.001
+vig_remove,gender,2,35.26706214452861,2.1971249651473046e-8,Respondent gender,Remove post,Remove post,Remove<br>post,Actions,1.3182749790883828e-7,TRUE,TRUE,<0.001
+vig_remove,silencing_score_cat,2,155.29137359690503,1.9006698246700386e-34,Silencing belief,Remove post,Remove post,Remove<br>post,Actions,5.702009474010116e-34,TRUE,TRUE,<0.001
+vig_remove,sender_category,4,103.83323806677072,1.5013810258480246e-21,Message type,Remove post,Remove post,Remove<br>post,Actions,9.008286155088147e-21,TRUE,TRUE,<0.001
+vig_ban,resp_country2,10,108.51784614511416,1.0615025180867461e-18,Country,Ban sender,Ban sender,Ban<br>sender,Actions,3.1845075542602386e-18,TRUE,TRUE,<0.001
+vig_ban,leftright_cat,2,54.37760605067888,1.556155086208199e-12,Ideology,Ban sender,Ban sender,Ban<br>sender,Actions,3.112310172416398e-12,TRUE,TRUE,<0.001
+vig_ban,gender,2,13.400483741352218,0.0012306142171814977,Respondent gender,Ban sender,Ban sender,Ban<br>sender,Actions,0.0024612284343629954,TRUE,TRUE,0.001
+vig_ban,silencing_score_cat,2,137.37871272630582,1.4743193514863091e-30,Silencing belief,Ban sender,Ban sender,Ban<br>sender,Actions,2.9486387029726182e-30,TRUE,TRUE,<0.001
+vig_ban,sender_category,4,71.32275890804885,1.1930770402178011e-14,Message type,Ban sender,Ban sender,Ban<br>sender,Actions,1.7896155603267016e-14,TRUE,TRUE,<0.001
+vig_legal,resp_country2,10,145.71296178385091,2.835709674496939e-26,Country,Legal action,Legal action,Legal<br>sanction,Actions,1.7014258046981634e-25,TRUE,TRUE,<0.001
+vig_legal,leftright_cat,2,32.952514210744994,6.989602156837966e-8,Ideology,Legal action,Legal action,Legal<br>sanction,Actions,1.0484403235256949e-7,TRUE,TRUE,<0.001
+vig_legal,gender,2,3.9553044535568915,0.13839377338845663,Respondent gender,Legal action,Legal action,Legal<br>sanction,Actions,0.16607252806614795,FALSE,FALSE,0.138
+vig_legal,silencing_score_cat,2,133.08159756202076,1.2638579597780233e-29,Silencing belief,Legal action,Legal action,Legal<br>sanction,Actions,1.895786939667035e-29,TRUE,TRUE,<0.001
+vig_legal,sender_category,4,58.880637066744384,4.985185327718745e-12,Message type,Legal action,Legal action,Legal<br>sanction,Actions,4.985185327718745e-12,TRUE,TRUE,<0.001
+vig_job,resp_country2,10,104.22908238613309,7.736261248918307e-18,Country,Job loss,Job loss,Job<br>loss,Actions,1.5472522497836614e-17,TRUE,TRUE,<0.001
+vig_job,leftright_cat,2,70.94379350439704,3.9332448064135474e-16,Ideology,Job loss,Job loss,Job<br>loss,Actions,2.3599468838481284e-15,TRUE,TRUE,<0.001
+vig_job,gender,2,18.9627730969587,7.625812822550435e-5,Respondent gender,Job loss,Job loss,Job<br>loss,Actions,2.2877438467651306e-4,TRUE,TRUE,<0.001
+vig_job,silencing_score_cat,2,183.45045935933013,1.459616952646891e-40,Silencing belief,Job loss,Job loss,Job<br>loss,Actions,8.757701715881347e-40,TRUE,TRUE,<0.001
+vig_job,sender_category,4,69.17594470780023,3.3879556065518193e-14,Message type,Job loss,Job loss,Job<br>loss,Actions,4.065546727862183e-14,TRUE,TRUE,<0.001

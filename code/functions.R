@@ -419,7 +419,7 @@ gt_table_fun <- function(gt_df, glance_df = NULL, stats_df, outcome_vars, outcom
       if (avatars == TRUE) {
         fmt_image(.,
           columns = label,
-          path = "build-vignettes/images/avatars/",
+          path = "data/images/avatars/",
           file_pattern = "{x}.png"
         ) %>%
           cols_align(
@@ -541,7 +541,8 @@ gt_table_fun <- function(gt_df, glance_df = NULL, stats_df, outcome_vars, outcom
 
 
 # helper function to underline significant estimates in gt() for model
-underline_style <- function(gt_dat, source_dat, var, stat_threshold = 2) {
+# Threshold set to |z| > 2.576 (two-sided p < 0.01) per revision; previously 2 (p < 0.05).
+underline_style <- function(gt_dat, source_dat, var, stat_threshold = qnorm(0.995)) {
   col_name <- paste0("estimate_", var)
   stat_name <- paste0("statistic_", var)
   tab_style(gt_dat,
@@ -647,6 +648,16 @@ models_tidy_mms_fun <- function(models_list,
 
 
 
+
+
+# wrapper around gtsave() that exports as HTML when webshot_png_export is FALSE
+gtsave_auto <- function(data, filename, ...) {
+  if (webshot_png_export) {
+    gtsave(data, filename, ...)
+  } else {
+    gtsave(data, sub("\\.png$", ".html", filename))
+  }
+}
 
 
 ## functions to compute classification agreement stats ---------

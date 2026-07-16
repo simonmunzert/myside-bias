@@ -43,7 +43,7 @@ gt_table_fun(models_df,
          outcome_vars_labels = vig_outcomes_df$outcome_vars_labels_regtable,
          sample = "Pooled",
          varlabels_ref = "vig_attribute_varlabels_ref") %>% 
-  gtsave("figures/table-acme-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
+  gtsave_auto("results/table-acme-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
 
 
 # extract MMs
@@ -67,7 +67,7 @@ gt_table_fun(models_mm_df,
              sample = "Pooled",
              varlabels_ref = "vig_attribute_varlabels",
              estimates = "mm") %>% 
-  gtsave("figures/table-mm-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
+  gtsave_auto("results/table-mm-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
 
 
 
@@ -99,7 +99,7 @@ for(i in country_codes_chr) {
            outcome_vars_labels = vig_outcomes_df$outcome_vars_labels_regtable,
            sample = country_codes_df$country[country_codes_df$code == i],
            varlabels_ref = "vig_attribute_varlabels_ref") %>% 
-    gtsave(paste0("figures/table-acme-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-acme-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 
@@ -117,7 +117,7 @@ for(i in outcome_vars) {
            sample = vig_outcomes_df$outcome_vars_labels_regtable[vig_outcomes_df$outcome_vars == i],
            spanners = FALSE,
            varlabels_ref = "vig_attribute_varlabels_ref") %>% 
-    gtsave(paste0("figures/table-acme-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-acme-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 
@@ -150,7 +150,7 @@ for(i in country_codes_chr) {
                sample = country_codes_df$country[country_codes_df$code == i],
                varlabels_ref = "vig_attribute_varlabels",
                estimates = "mm") %>% 
-    gtsave(paste0("figures/table-mm-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-mm-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 
@@ -191,7 +191,7 @@ gt_table_fun(models_df,
          outcome_vars_labels = vig_outcomes_df$outcome_vars_labels_regtable,
          sample = "Pooled",
          varlabels_ref = "resp_varlabel_ref") %>% 
-  gtsave("figures/table-respmodels-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
+  gtsave_auto("results/table-respmodels-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
 
 
 # extract MMs
@@ -215,7 +215,7 @@ gt_table_fun(models_mm_df,
              sample = "Pooled",
              varlabels_ref = "resp_varlabel",
              estimates = "mm") %>% 
-  gtsave("figures/table-respmodels-mm-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
+  gtsave_auto("results/table-respmodels-mm-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
 
 
 
@@ -246,7 +246,7 @@ for(i in country_codes_chr) {
            outcome_vars_labels = vig_outcomes_df$outcome_vars_labels_regtable,
            sample = country_codes_df$country[country_codes_df$code == i],
            varlabels_ref = "resp_varlabel_ref") %>% 
-    gtsave(paste0("figures/table-respmodels-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-respmodels-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 # outcome tables, by country
@@ -263,7 +263,7 @@ for(i in outcome_vars) {
            sample = vig_outcomes_df$outcome_vars_labels_regtable[vig_outcomes_df$outcome_vars == i],
            spanners = FALSE,
            varlabels_ref = "resp_varlabel_ref") %>% 
-    gtsave(paste0("figures/table-respmodels-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-respmodels-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 
@@ -296,7 +296,7 @@ for(i in country_codes_chr) {
                sample = country_codes_df$country[country_codes_df$code == i],
                varlabels_ref = "resp_varlabel",
                estimates = "mm") %>% 
-    gtsave(paste0("figures/table-respmodels-mm-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-respmodels-mm-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 
@@ -331,7 +331,7 @@ gt_table_fun(models_df,
              outcome_vars_labels = vig_outcomes_df$outcome_vars_labels_regtable,
              sample = "Pooled",
              varlabels_ref = "vig_attribute_varlabels_ref") %>% 
-  gtsave("figures/table-acme-vigpositions-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
+  gtsave_auto("results/table-acme-vigpositions-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
 
 
 # Vignette position, by country ---------------
@@ -361,7 +361,7 @@ for(i in country_codes_chr) {
                outcome_vars_labels = vig_outcomes_df$outcome_vars_labels_regtable,
                sample = country_codes_df$country[country_codes_df$code == i],
                varlabels_ref = "vig_attribute_varlabels_ref") %>% 
-    gtsave(paste0("figures/table-acme-vigpositions-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-acme-vigpositions-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 # outcome tables, by country
@@ -378,7 +378,7 @@ for(i in outcome_vars) {
                sample = vig_outcomes_df$outcome_vars_labels_regtable[vig_outcomes_df$outcome_vars == i],
                spanners = FALSE,
                varlabels_ref = "vig_attribute_varlabels_ref") %>% 
-    gtsave(paste0("figures/table-acme-vigpositions-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-acme-vigpositions-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 
@@ -417,7 +417,7 @@ gt_table_fun(models_df,
              sample = "Pooled",
              varlabels_ref = "vig_attribute_varlabels_ref",
              avatars = TRUE) %>%
-  gtsave("figures/table-acme-targetavatar-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
+  gtsave_auto("results/table-acme-targetavatar-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
 
 
 # Target avatars, by country ------
@@ -452,7 +452,7 @@ for(i in country_codes_chr) {
                sample = country_codes_df$country[country_codes_df$code == i],
                varlabels_ref = "vig_attribute_varlabels_ref",
                avatars = TRUE) %>% 
-    gtsave(paste0("figures/table-acme-targetavatar-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-acme-targetavatar-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 
@@ -472,7 +472,7 @@ for(i in outcome_vars) {
                spanners = FALSE,
                varlabels_ref = "vig_attribute_varlabels_ref",
                avatars = TRUE) %>% 
-    gtsave(paste0("figures/table-acme-targetavatar-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-acme-targetavatar-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 
@@ -508,7 +508,7 @@ gt_table_fun(models_df,
                      sample = "Pooled",
                      varlabels_ref = "vig_attribute_varlabels_ref",
                      avatars = TRUE) %>%
-  gtsave("figures/table-acme-senderavatar-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
+  gtsave_auto("results/table-acme-senderavatar-pooled.png", zoom = 6, vwidth = 1000, vheight = 6000)
 
 
 # Sender avatars, by country ------
@@ -543,7 +543,7 @@ for(i in country_codes_chr) {
                        sample = country_codes_df$country[country_codes_df$code == i],
                        varlabels_ref = "vig_attribute_varlabels_ref",
                avatars = TRUE) %>% 
-    gtsave(paste0("figures/table-acme-senderavatar-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-acme-senderavatar-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 
@@ -563,7 +563,7 @@ for(i in outcome_vars) {
                        spanners = FALSE,
                        varlabels_ref = "vig_attribute_varlabels_ref",
                avatars = TRUE) %>% 
-    gtsave(paste0("figures/table-acme-senderavatar-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
+    gtsave_auto(paste0("results/table-acme-senderavatar-", i, ".png"), zoom = 6, vwidth = 1000, vheight = 6000)
 }
 
 
@@ -666,7 +666,7 @@ tidy_mm_df_plot %>%
         panel.spacing.y = unit(0, "pt"),        # (in case of multiple rows)
         plot.margin=unit(c(0.1,0.1,0.1,0.1),"cm"),
         strip.text = element_markdown(face = "bold"))
-ggsave("figures/effects-ageXgender-coefplot.png", width = 10, height = 3,   bg = "white", dpi = 300)
+ggsave("results/effects-ageXgender-coefplot.png", width = 10, height = 3,   bg = "white", dpi = 300)
 
 
 
@@ -770,7 +770,7 @@ tidy_mm_df_plot %>%
         panel.spacing.y = unit(0, "pt"),        # (in case of multiple rows)
         plot.margin=unit(c(0.1,0.1,0.1,0.1),"cm"),
         strip.text = element_markdown(face = "bold"))
-ggsave("figures/effects-ageXcategory-coefplot.png", width = 10, height = 3,   bg = "white", dpi = 300)
+ggsave("results/effects-ageXcategory-coefplot.png", width = 10, height = 3,   bg = "white", dpi = 300)
 
 
 
@@ -874,7 +874,7 @@ tidy_mm_df_plot %>%
         panel.spacing.y = unit(0, "pt"),        # (in case of multiple rows)
         plot.margin=unit(c(0.1,0.1,0.1,0.1),"cm"),
         strip.text = element_markdown(face = "bold"))
-ggsave("figures/effects-genderXcategory-coefplot.png", width = 10, height = 3,   bg = "white", dpi = 300)
+ggsave("results/effects-genderXcategory-coefplot.png", width = 10, height = 3,   bg = "white", dpi = 300)
 
 
 

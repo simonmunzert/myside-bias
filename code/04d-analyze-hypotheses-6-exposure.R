@@ -29,7 +29,7 @@ datasummary_balance(as.formula(fmla),
                     title = "Descriptive statistics of respondent characteristics, by treatment group status (exposure experiment)\\label{tab:balance-table-exposure-experiment}",
                     stars = TRUE,
                     escape = FALSE,
-                    output = "figures/balance-table-exposure-experiment.tex")
+                    output = "results/balance-table-exposure-experiment.tex")
 
 
 
@@ -155,7 +155,7 @@ dat <- exposure_models_out %>%
   # Compute adjusted p.value for multiple comparisons
   group_by(country) %>%
   mutate(p_adj = p.adjust(p.value, method = "BH"),
-         p_adj_below_05 = p_adj < 0.05) %>%
+         p_adj_below_05 = p_adj < 0.01) %>%
   ungroup() %>%
   mutate(point_shape = ifelse(p_adj_below_05, 19, 21))
 
@@ -202,7 +202,7 @@ scale_color_manual(values = c("black" = "black", "gray" = "gray")) +  # Custom c
         panel.grid.minor = element_blank(), 
         panel.grid.major = element_line("grey", size = 0.1),
         plot.margin=unit(c(0.1,0.1,0.5,0.1),"cm"))
-ggsave("figures/effects-exposure-none.png", width = 6, height = 9, dpi = 300)
+ggsave("results/effects-exposure-none.png", width = 6, height = 9, dpi = 300)
 
 
 # plot results
@@ -246,7 +246,7 @@ ggplot(filter(dat, covars == "lin"), aes(x = resp_varlabel_ref, y = estimate, gr
         panel.grid.minor = element_blank(), 
         panel.grid.major = element_line("grey", size = 0.1),
         plot.margin=unit(c(0.1,0.1,0.5,0.1),"cm"))
-ggsave("figures/effects-exposure-covars.png", width = 6, height = 9, dpi = 300)
+ggsave("results/effects-exposure-covars.png", width = 6, height = 9, dpi = 300)
 
 
 

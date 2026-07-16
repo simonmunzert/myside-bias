@@ -56,7 +56,7 @@ avatar_sum %>%
   fmt_image(
     columns = ethnicity_code,
     height = px(35),
-    path = "build-vignettes/images/avatars/",
+    path = "data/images/avatars/",
     file_pattern = "{x}.png"
   ) %>%
   data_color(
@@ -103,9 +103,9 @@ avatar_sum %>%
   )
 
 if(use_weights){
-  avatar_sum_table %>%   gtsave("figures/respondents-avatars-by-country-weights.png", zoom = 6, vwidth = 4000, vheight = 3000)
+  avatar_sum_table %>%   gtsave_auto("results/respondents-avatars-by-country-weights.png", zoom = 6, vwidth = 4000, vheight = 3000)
 } else{
-  avatar_sum_table %>%   gtsave("figures/respondents-avatars-by-country.png", zoom = 6, vwidth = 4000, vheight = 3000)
+  avatar_sum_table %>%   gtsave_auto("results/respondents-avatars-by-country.png", zoom = 6, vwidth = 4000, vheight = 3000)
 }
 
 
@@ -150,7 +150,7 @@ if(use_weights){
   ) %>%
     kableExtra::row_spec(0, bold = TRUE) %>%
     kableExtra::kable_styling(latex_options = "hold_position")
-  writeLines(latex_table, "figures/avatar-ethnicity-by-country-weights.tex")
+  writeLines(latex_table, "results/avatar-ethnicity-by-country-weights.tex")
 }else{
   latex_table <- kable(
     tab_ethnicity,
@@ -163,7 +163,7 @@ if(use_weights){
   ) %>%
     kableExtra::row_spec(0, bold = TRUE) %>%
     kableExtra::kable_styling(latex_options = "hold_position")
-  writeLines(latex_table, "figures/avatar-ethnicity-by-country.tex")
+  writeLines(latex_table, "results/avatar-ethnicity-by-country.tex")
 }
 
 
@@ -215,9 +215,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-polinterest-weights.png", width = 10, height = 3, dpi = 300)
+  ggsave("results/barplot-polinterest-weights.png", width = 10, height = 3, dpi = 300)
 } else{
-ggsave("figures/barplot-polinterest.png", width = 10, height = 3, dpi = 300)
+ggsave("results/barplot-polinterest.png", width = 10, height = 3, dpi = 300)
 }
 
 # left-right (11-point scale) --------------
@@ -270,9 +270,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-leftright11-weights.png", width = 10, height = 3, dpi = 300)
+  ggsave("results/barplot-leftright11-weights.png", width = 10, height = 3, dpi = 300)
 } else{
-  ggsave("figures/barplot-leftright11.png", width = 10, height = 3, dpi = 300)
+  ggsave("results/barplot-leftright11.png", width = 10, height = 3, dpi = 300)
 }
 
 
@@ -328,9 +328,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-leftright3-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-leftright3-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
 } else{
-  ggsave("figures/barplot-leftright3.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-leftright3.png", width = 10, height = 3, dpi = 300, bg = "white")
 }
 
 
@@ -394,9 +394,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-empathy-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-empathy-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
 } else{
-  ggsave("figures/barplot-empathy.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-empathy.png", width = 10, height = 3, dpi = 300, bg = "white")
 }
 
 
@@ -459,9 +459,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-experiences-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-experiences-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
 } else{
-  ggsave("figures/barplot-experiences.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-experiences.png", width = 10, height = 3, dpi = 300, bg = "white")
 }
 
 
@@ -524,9 +524,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-hostile-engagement-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-hostile-engagement-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
 } else{
-  ggsave("figures/barplot-hostile-engagement.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-hostile-engagement.png", width = 10, height = 3, dpi = 300, bg = "white")
 }
 
 
@@ -588,9 +588,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-silencing-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-silencing-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
 } else{
-  ggsave("figures/barplot-silencing.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-silencing.png", width = 10, height = 3, dpi = 300, bg = "white")
 }
 
 
@@ -653,9 +653,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-responsibility-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-responsibility-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
 } else{
-  ggsave("figures/barplot-responsibility.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-responsibility.png", width = 10, height = 3, dpi = 300, bg = "white")
 }
 
 
@@ -738,9 +738,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-tradeoffs-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-tradeoffs-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
 } else{
-  ggsave("figures/barplot-tradeoffs.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-tradeoffs.png", width = 10, height = 3, dpi = 300, bg = "white")
 }
 
 
@@ -791,9 +791,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-contentregulation-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-contentregulation-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
 } else{
-  ggsave("figures/barplot-contentregulation.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-contentregulation.png", width = 10, height = 3, dpi = 300, bg = "white")
 }
 
 
@@ -845,9 +845,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-freetospeak-personal-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-freetospeak-personal-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
 } else{
-  ggsave("figures/barplot-freetospeak-personal.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-freetospeak-personal.png", width = 10, height = 3, dpi = 300, bg = "white")
 }
 
 
@@ -900,9 +900,9 @@ plot_out +
         plot.subtitle = element_blank()
   )
 if(use_weights){
-  ggsave("figures/barplot-freetospeak-general-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-freetospeak-general-weights.png", width = 10, height = 3, dpi = 300, bg = "white")
 } else{
-  ggsave("figures/barplot-freetospeak-general.png", width = 10, height = 3, dpi = 300, bg = "white")
+  ggsave("results/barplot-freetospeak-general.png", width = 10, height = 3, dpi = 300, bg = "white")
 }
 
 
@@ -1114,9 +1114,9 @@ combined_plot <- main_plot + t_test_plot + plot_layout(widths = c(6, 1))
 combined_plot
 
 if(use_weights){
-  ggsave("figures/barplot-tp-leftright-weights.png", width = 13, height = 9, dpi = 300, bg = "white")
+  ggsave("results/barplot-tp-leftright-weights.png", width = 13, height = 9, dpi = 300, bg = "white")
 } else{
-  ggsave("figures/barplot-tp-leftright.png", width = 13, height = 9, dpi = 300, bg = "white")
+  ggsave("results/barplot-tp-leftright.png", width = 13, height = 9, dpi = 300, bg = "white")
 }
 
 

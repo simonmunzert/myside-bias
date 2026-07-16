@@ -31,7 +31,7 @@ datasummary_balance(as.formula(fmla),
                     title = "Descriptive statistics of respondent characteristics, by treatment group status (framing experiment)\\label{tab:balance-table-framing-experiment}",
                     stars = TRUE,
                     escape = FALSE,
-                    output = "figures/balance-table-framing-experiment.tex")
+                    output = "results/balance-table-framing-experiment.tex")
 
 
 # subset data for various robustness checks -----------
@@ -123,7 +123,7 @@ frame_models_pooled_out %>%
   mutate(p.value = 2 * (1 - pnorm(abs(estimate / std.error)))) %>% 
   group_by(label) %>% 
   mutate(p_adj = p.adjust(p.value, method = "BH"),
-         p_adj_below_05 = p_adj < 0.05) %>%
+         p_adj_below_05 = p_adj < 0.01) %>%
   ungroup() %>%
   mutate(point_shape = ifelse(p_adj_below_05, 19, 21))
 
@@ -136,7 +136,7 @@ dat_country <-
   mutate(p.value = 2 * (1 - pnorm(abs(estimate / std.error)))) %>% 
   group_by(label) %>% 
   mutate(p_adj = p.adjust(p.value, method = "BH"),
-         p_adj_below_05 = p_adj < 0.05) %>%
+         p_adj_below_05 = p_adj < 0.01) %>%
   ungroup() %>%
   mutate(point_shape = ifelse(p_adj_below_05, 19, 21))
 
@@ -192,7 +192,7 @@ ggplot(dat_sub, aes(x = outcome_label, y = estimate, group = estimate, color = c
         panel.grid.major.y = element_blank(), 
         panel.grid.major.x = element_line("black", size = 0.1),
         plot.margin=unit(c(0.1,0.1,0.5,0.1),"cm"))
-ggsave("figures/effects-frame-by-country.png", width = 6, height = 8, dpi = 300)
+ggsave("results/effects-frame-by-country.png", width = 6, height = 8, dpi = 300)
 
 
 
@@ -256,7 +256,7 @@ ggplot(dat_sub, aes(x = outcome_label, y = estimate, group = covars, color = col
         panel.grid.major.y = element_blank(), 
         panel.grid.major.x = element_line("black", size = 0.1),
         plot.margin=unit(c(0.1,0.1,0.5,0.1),"cm"))
-ggsave("figures/effects-frame-by-check.png", width = 6, height = 8, dpi = 300)
+ggsave("results/effects-frame-by-check.png", width = 6, height = 8, dpi = 300)
 
 
 

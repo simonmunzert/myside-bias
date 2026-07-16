@@ -1,0 +1,19 @@
+outcome,term,chisq,df,p.value,outcome_vars_labels,outcome_vars_labels2,outcome_vars_labels_regtable,outcome_vars_cat,sig_01,p_fmt
+vig_perc_offensive2,target_gender_match x issue agreement,0.7964716167480219,1,0.3721503962626441,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions,FALSE,0.372
+vig_perc_hate2,target_gender_match x issue agreement,3.113238278325298,1,0.0776584166388805,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions,FALSE,0.078
+vig_remove,target_gender_match x issue agreement,0.8501637867302634,1,0.35650600743027344,Remove post,Remove post,Remove<br>post,Actions,FALSE,0.357
+vig_ban,target_gender_match x issue agreement,0.6346243076550309,1,0.42566414372647743,Ban sender,Ban sender,Ban<br>sender,Actions,FALSE,0.426
+vig_legal,target_gender_match x issue agreement,2.1771121734782355,1,0.14007708280063363,Legal action,Legal action,Legal<br>sanction,Actions,FALSE,0.140
+vig_job,target_gender_match x issue agreement,5.2157886938002775,1,0.02238269228073939,Job loss,Job loss,Job<br>loss,Actions,FALSE,0.022
+vig_perc_offensive2,target_white_match x issue agreement,0.0021282588713802397,1,0.9632041990354129,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions,FALSE,0.963
+vig_perc_hate2,target_white_match x issue agreement,0.0028922292112838477,1,0.9571108825754941,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions,FALSE,0.957
+vig_remove,target_white_match x issue agreement,0.01699370787537191,1,0.896281677780395,Remove post,Remove post,Remove<br>post,Actions,FALSE,0.896
+vig_ban,target_white_match x issue agreement,0.8130613428365905,1,0.3672167088726704,Ban sender,Ban sender,Ban<br>sender,Actions,FALSE,0.367
+vig_legal,target_white_match x issue agreement,2.8985213928244775,1,0.08866084551418398,Legal action,Legal action,Legal<br>sanction,Actions,FALSE,0.089
+vig_job,target_white_match x issue agreement,2.141633195373288,1,0.1433492100046475,Job loss,Job loss,Job<br>loss,Actions,FALSE,0.143
+vig_perc_offensive2,target white-match x sender white-match,0.10438071348471567,1,0.746634624682633,Percentage of offensive content,Offensive,Offensive<br>speech,Perceptions,FALSE,0.747
+vig_perc_hate2,target white-match x sender white-match,0.5085605726053473,1,0.47576263794522133,Percentage of hate speech,Hate speech,Hate<br>speech,Perceptions,FALSE,0.476
+vig_remove,target white-match x sender white-match,0.9495531839202158,1,0.32983305657525014,Remove post,Remove post,Remove<br>post,Actions,FALSE,0.330
+vig_ban,target white-match x sender white-match,0.3773194909299491,1,0.5390413020987523,Ban sender,Ban sender,Ban<br>sender,Actions,FALSE,0.539
+vig_legal,target white-match x sender white-match,0.09574957245786209,1,0.7569911988168593,Legal action,Legal action,Legal<br>sanction,Actions,FALSE,0.757
+vig_job,target white-match x sender white-match,0.6384849998576101,1,0.42425993364332315,Job loss,Job loss,Job<br>loss,Actions,FALSE,0.424
